@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-[Editing]
+[Editing process]
 
 We are Tea Tasting Statisticians.
 
