@@ -2,7 +2,8 @@
 title: Advanced designs for clinical trial 1st week
 date: 2024-09-18
 categories: [Clinical Trial Designs, Advanced designs for clinical trial]
-tags: [clinical trial]     # TAG names should always be lowercase
+tags: [Clinical Trial]     # TAG names should always be lowercase
+author: <Tea Tasting Gentleman>
 ---
 
 삼성융합의과학원에서 조주희 교수님이 주도하시는 Advanced designs for clinical trial라는 수업을 듣고 있습니다 (주제별로 강사가 달라지기도 합니다). 이 수업에서는 다음과 같은 주제에 대해 공부합니다.

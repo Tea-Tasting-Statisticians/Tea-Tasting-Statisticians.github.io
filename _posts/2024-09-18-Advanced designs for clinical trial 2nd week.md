@@ -2,7 +2,8 @@
 title: Advanced designs for clinical trial 2nd week
 date: 2024-09-18
 categories: [Clinical Trial Designs, Advanced designs for clinical trial]
-tags: [clinical trial]     # TAG names should always be lowercase
+tags: [Clinical Trial]     # TAG names should always be lowercase
+author: <Tea Tasting Gentleman>
 ---
 
 Advanced clinical trial design 수업 2주차에는 PRESIS-2에 대해서 살펴보았습니다. 이것은 pragmatic trial에 관한 내용입니다. Pragmatic trial이란 실제 임상 환경과 유사한 상황의 clinical trial을 의미합니다. Clinical trial에서 나온 결과를 실제 진료 환경에서 적용하기 어려운 경우가 많았습니다. 실제 병원/의원 환경과 유사한 clinical trial의 개념이 바로 pragmatic trial입니다.
