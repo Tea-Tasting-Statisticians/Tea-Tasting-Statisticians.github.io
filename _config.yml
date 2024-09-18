@@ -109,7 +109,7 @@ toc: true
 comments:
   giscus:
     src: "https://giscus.app/client.js"
-    data-repo: "Tea-Tasting-Statisticians/Tea-Tasting-Statisticians.github.io"
+    data-repo: <gh-Tea-Tasting-Statisticians>/<Tea-Tasting-Statisticians.github.io>
     data-repo-id: "R_kgDOMzgjQg"
     data-category: "Q&A"
     data-category-id: "DIC_kwDOMzgjQs4CilBR"
