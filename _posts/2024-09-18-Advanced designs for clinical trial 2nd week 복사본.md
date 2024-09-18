@@ -5,4 +5,4 @@ categories: [Clinical Trial Designs, Advanced designs for clinical trial]
 tags: [clinical trial]     # TAG names should always be lowercase
 ---
 
-작성예정
+작성예정. test
