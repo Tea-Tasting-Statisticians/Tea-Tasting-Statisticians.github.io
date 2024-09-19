@@ -107,22 +107,15 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  giscus:
-    src: "https://giscus.app/client.js"
+  utterances:
+    src: "https://utteranc.app/client.js"
     data-repo: <gh-Tea-Tasting-Statisticians>/<Tea-Tasting-Statisticians.github.io>
     data-repo-id: "R_kgDOMzgjQg"
-    data-category: "Q&A"
-    data-category-id: "DIC_kwDOMzgjQs4CilBR"
-    data-mapping: "pathname"
-    data-strict: "0"
-    data-reactions-enabled: "1"
-    data-emit-metadata: "0"
-    data-input-position: "bottom"
-    data-theme: "preferred_color_scheme"
-    data-lang: "ko"
+    issue-term: "pathname"
+    label: "comments"
+    theme: "github-light"
     crossorigin: "anonymous"
-    async: true        
-    
+    async: true
 
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
@@ -181,7 +174,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: false
+      comments: true
   - scope:
       path: ""
       type: tabs # see `site.collections`
