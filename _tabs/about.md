@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-We are Tea Tasting Statisticians. We were inspired by the 'Tea Tasting Lady' story. A woman claimed she could tell whether tea or milk was poured first in a cup. A statistician devised an experiment with eight cups, randomly arranged with four of each variety, to test her claim. This experiment became a foundation for discussing probability and chance in statistical analysis.
+We are Tea Tasting Statisticians. We were inspired by the 'Tea Tasting Lady' story. A woman claimed she could tell whether tea or milk was poured first in a cup. A statistician named Fisher devised an experiment with eight cups, randomly arranged with four of each variety, to test her claim. This experiment became a foundation for discussing probability and chance in statistical analysis.
 
 In the blog, we introduce biostatistics, regulatory sciences, and real-world evidence.
 
@@ -16,7 +16,7 @@ E-mail : shstat1729@gmail.com
 
 E-mail : sychanmul@gmail.com
 
-우리는 차를 마시는 통계학자들입니다. 우리는 '차를 마시는 여인'이라는 이야기로부터 영감을 받았습니다. 한 여성이 차나 우유 중 어느 것이 먼저 컵에 부어졌는지 알 수 있다고 주장했습니다. 한 통계학자가 그녀의 주장을 시험하기 위해 각 종류별로 네 잔씩, 무작위로 배열된 여덟 잔의 실험을 고안했습니다. 이 실험은 통계 분석에서 확률과 우연을 논의하는 기초가 되었습니다.
+우리는 차를 마시는 통계학자들입니다. 우리는 '차를 마시는 여인'이라는 이야기로부터 영감을 받았습니다. 한 여성이 차나 우유 중 어느 것이 먼저 컵에 부어졌는지 알 수 있다고 주장했습니다. 피셔라는 통계학자가 그녀의 주장을 시험하기 위해 각 종류별로 네 잔씩, 무작위로 배열된 여덟 잔의 실험을 고안했습니다. 이 실험은 통계 분석에서 확률과 우연을 논의하는 기초가 되었습니다.
 
 이 블로그에서는 생물통계학, 규제과학, 실사용증거 등과 관련된 내용을 소개합니다.
 
