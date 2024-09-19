@@ -38,6 +38,6 @@ Linkedin : [https://www.linkedin.com/in/systat/](https://www.linkedin.com/in/sys
 
 후원하기 (Buy Me a Tea)
 
-Link : https://qr.kakaopay.com/Ej7oNwc6S
+Link : [https://qr.kakaopay.com/Ej7oNwc6S](https://qr.kakaopay.com/Ej7oNwc6S)
 
-![Buy Me a Tea](../_img/QR_code_buy_me_a_tea.jpeg)
+![Buy Me a Tea](/img/QR_code_buy_me_a_tea.jpeg)
