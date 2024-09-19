@@ -2,7 +2,7 @@
 title: 국내 임상통계 관련 진로 소개
 date: 2024-09-19
 categories: [Regulatory Science, Biostat Career]
-tags: [regulatory science, biostat career]     # TAG names should always be lowercase
+tags: [regulatory science, biostat career, 임상통계, 진로, 규제과학]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---
 학부에서 생물학, 대학원에서 생물통계 석사학위를 받은 후 
