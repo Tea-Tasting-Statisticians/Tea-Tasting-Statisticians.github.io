@@ -1,7 +1,7 @@
 ---
 title: Smart Causal Inference
 date: 2024-09-21
-categories: [Sharing Article, 가짜연구소 스터디 자료]
+categories: [Sharing Useful Information, 가짜연구소 스터디 자료]
 tags: [causal inference, biostat,biostatistics, real-world evidence, real-world data]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
