@@ -33,7 +33,11 @@ author: <Tea Tasting Lady>
         - 유방절제술(mastectomy)의 pathology information이 reference standard
 
 ## Illustrative Figure
+
+
 ![](/img/20240823215855.png)
+
+
 - 10 patients as an example
 - it is not meant to reflect the true accuracy of any imaging test
 - 9 women with significant disease, one woman without breast cancer
@@ -56,7 +60,11 @@ author: <Tea Tasting Lady>
 - Goal
     - 질병이 있는 사람들과 없는 사람들을 test가 얼마나 잘 탐지(detect)하는 지를 평가함
 - 2 by 2 table
+
+
     ![](/img/20240823215918.png)
+
+
 - SN = P(Test + | Disease) = P(Test + & Disease)/P(Disease) = (8/10)/(9/10) = 8/9 = 89%
 - SP = P(Test -| No Disease) = P(Test - & Disease)/P(No disease) = (0/10)/(1/10) = 0%
 
@@ -73,7 +81,11 @@ author: <Tea Tasting Lady>
 - The lesion as the unit of analysis
     - Figure 1에서 20 regions이 areas of interest였음
 - 2 by 2 Table
+
+
     ![](/img/20240823215941.png)
+
+    
 - Lesion level에서는 True Negative를 정의할 수 없음
     - Radiologist가 식별하지 않고 또 Pathology에서도 암이 없다고 나온 lesion을 어떻게 ‘True Negative’하다고 lesion level에서 정의할 수 있을지?
         - “True Negative”라고 lesion level에서 정의할 수 있을 영역의 경우의 수가 너무 많기 때문에 위 table의 물음표(?)를 채울 명확한 방법이 없음
