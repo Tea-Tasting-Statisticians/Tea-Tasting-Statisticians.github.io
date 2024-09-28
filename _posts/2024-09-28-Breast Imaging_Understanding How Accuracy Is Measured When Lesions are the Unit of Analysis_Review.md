@@ -1,7 +1,7 @@
 ---
 title: Breast imaging understanding how accuracy is measured when lesions are the unit of analysis review
 date: 2024-09-28
-categories: [Performance metric]
+categories: [Performance Metric]
 tags: [performance metric, medical ai]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---
@@ -85,7 +85,7 @@ author: <Tea Tasting Lady>
 
     ![](/img/20240823215941.png)
 
-    
+
 - Lesion level에서는 True Negative를 정의할 수 없음
     - Radiologist가 식별하지 않고 또 Pathology에서도 암이 없다고 나온 lesion을 어떻게 ‘True Negative’하다고 lesion level에서 정의할 수 있을지?
         - “True Negative”라고 lesion level에서 정의할 수 있을 영역의 경우의 수가 너무 많기 때문에 위 table의 물음표(?)를 채울 명확한 방법이 없음
