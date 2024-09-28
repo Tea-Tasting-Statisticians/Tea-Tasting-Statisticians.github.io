@@ -33,7 +33,7 @@ author: <Tea Tasting Lady>
         - 유방절제술(mastectomy)의 pathology information이 reference standard
 
 ## Illustrative Figure
-![](Pasted image 20240823215855.png)
+![](/img/Pasted image 20240823215855.png)
 - 10 patients as an example
 - it is not meant to reflect the true accuracy of any imaging test
 - 9 women with significant disease, one woman without breast cancer
@@ -56,7 +56,7 @@ author: <Tea Tasting Lady>
 - Goal
     - 질병이 있는 사람들과 없는 사람들을 test가 얼마나 잘 탐지(detect)하는 지를 평가함
 - 2 by 2 table
-    ![](Pasted image 20240823215918.png)
+    ![](/img/Pasted image 20240823215918.png)
 - SN = P(Test + | Disease) = P(Test + & Disease)/P(Disease) = (8/10)/(9/10) = 8/9 = 89%
 - SP = P(Test -| No Disease) = P(Test - & Disease)/P(No disease) = (0/10)/(1/10) = 0%
 
@@ -64,7 +64,7 @@ author: <Tea Tasting Lady>
 - The breast as the unit of analysis
     - 이 경우, patient level analysis에 비해 n수가 2배가 됨(each breast에 대해 평가)
 - 2 by 2 Table
-    ![](Pasted image 20240823215931.png)
+    ![](/img/Pasted image 20240823215931.png)
 - SN = P(Test + | Disease) = P(Test + & Disease)/P(Disease) = (8/20)/(10/20) = 8/10 = 80%
 - SP = P(Test -| No Disease) = P(Test - & Disease)/P(No disease) = (9/20)/(10/20) = 90%
     - Patient level analysis의 SP 0%가 Breast level에서는 90%가 됨
