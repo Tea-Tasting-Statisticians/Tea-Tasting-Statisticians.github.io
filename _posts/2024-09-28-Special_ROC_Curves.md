@@ -1,7 +1,7 @@
 ---
 title: Speical ROC Curves
 date: 2024-09-28
-categories: [Performance metric]
+categories: [Clinical Study, Performance metric]
 tags: [performance metric, medical ai]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---

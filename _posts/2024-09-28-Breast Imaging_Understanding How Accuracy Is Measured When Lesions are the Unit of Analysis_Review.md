@@ -1,7 +1,7 @@
 ---
-title: Breast imaging__understanding how accuracy is measured when lesions are the__unit of analysis review
+title: Breast imaging understanding how accuracy is measured when lesions are the unit of analysis review
 date: 2024-09-28
-categories: [Performance metric]
+categories: [Article Review, Performance metric]
 tags: [performance metric, medical ai]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---

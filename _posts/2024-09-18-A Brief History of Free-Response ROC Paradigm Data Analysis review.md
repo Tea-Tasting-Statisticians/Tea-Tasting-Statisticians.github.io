@@ -1,7 +1,7 @@
 ---
 title: A Brief History of Free-Response ROC Paradigm Data Analysis 리뷰
 date: 2024-09-18
-categories: [Medical AI]
+categories: [Article Review, Medical AI]
 tags: [performance metric, afroc, medical ai]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---
