@@ -15,7 +15,7 @@ Medical AI가 얼마나 잘 평가할 수 있는 지에 대한 척도가 여럿 
 이번 포스팅에서는 Special ROC curves로 통칭한 이런 척도들에 대해 
 소개하려고 합니다.
 
- 1. LROC (Localization ROC) Curve
+a. LROC (Localization ROC) Curve
 
 
 ![](/img/LROC.png)
@@ -26,7 +26,7 @@ Medical AI가 얼마나 잘 평가할 수 있는 지에 대한 척도가 여럿 
 - Y축: 평가자가 병변의 여부 및 위치를 정확히 평가한 영상의 비율
 - AUC estimation 이 가능
 
- 2. FROC (Free-response ROC) Curve
+b. FROC (Free-response ROC) Curve
 
 
 ![](/img/FROC.png)
@@ -40,7 +40,7 @@ Medical AI가 얼마나 잘 평가할 수 있는 지에 대한 척도가 여럿 
 - X축과 Y축의 범위가 다른 ROC curve처럼 0에서 1사이가 아님
 	- 두 FROC Curve의 비교가 X축 범위가 다른 것 때문에 어렵습니다.  
 
- 3. AFROC(Alternative FROC) Curve
+c. AFROC(Alternative FROC) Curve
 
 
 ![](/img/AFROC.png)
@@ -51,12 +51,12 @@ Medical AI가 얼마나 잘 평가할 수 있는 지에 대한 척도가 여럿 
 - X축: 위양성이 있는 영상의 비율
 - Y축: 평가자가 병변의 여부 및 위치를 정확히 평가한 영상의 비율
 
- 4. JAFROC(Jackknife Alternative FROC) Curve
+d. JAFROC(Jackknife Alternative FROC) Curve
 - J가 앞에 붙지만, AFROC curve입니다 
 - AFROC 앞에 붙은 J는 Jackknife resampling 방법을 의미합니다
 	- 여러 명의 리더가 여러 개의 의료영상을 판독하는 연구(Multi Reader Multi Case Study)에서 통계 검정을 할 때 필요한 분산 variance 을 계산할 때 Jackknife resampling 방법을 사용할 수 있습니다.
 
- 5. wAFROC (weighted Alternative FROC) Curve
+e. wAFROC (weighted Alternative FROC) Curve
 
 
 ![](/img/weight.png)
@@ -69,6 +69,9 @@ Medical AI가 얼마나 잘 평가할 수 있는 지에 대한 척도가 여럿 
 
 ### 참고자료
 - AFROC, FROC Curve image source
- 1. Metz CE. Receiver operating characteristic analysis: a tool for the quantitative evaluation of observer performance and imaging systems. J Am Coll Radiol. 2006 Jun;3(6):413-22. doi: 10.1016/j.jacr.2006.02.021. PMID: 17412096. 
+
+a. Metz CE. Receiver operating characteristic analysis: a tool for the quantitative evaluation of observer performance and imaging systems. J Am Coll Radiol. 2006 Jun;3(6):413-22. doi: 10.1016/j.jacr.2006.02.021. PMID: 17412096. 
+
 - 개념 참조 
- 2. https://dpc10ster.github.io/RJafrocFrocBook/
+
+b. [https://dpc10ster.github.io/RJafrocFrocBook/](https://dpc10ster.github.io/RJafrocFrocBook/)
