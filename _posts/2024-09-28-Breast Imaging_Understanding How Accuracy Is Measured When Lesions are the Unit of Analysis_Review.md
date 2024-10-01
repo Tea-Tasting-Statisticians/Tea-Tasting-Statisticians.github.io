@@ -4,6 +4,7 @@ date: 2024-09-28
 categories: [Performance Metric]
 tags: [performance metric, medical ai]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
+math: true
 ---
 
 # Info
@@ -47,10 +48,10 @@ author: <Tea Tasting Lady>
 ## Methods of Analysis
 - Sensitivity of a test
     - the probability that the test indicates disease is present given that disease is truly present
-    - SN = P(Test + | Disease)
+    - $$SN = P(Test + | Disease)$$
 - Specificity of a test
     - the probability that the test indicates there is no disease given that disease is truly absent
-    - SP = P(Test - | No Disease)
+    - $$SP = P(Test - | No Disease)$$
 - Unit of Analysis가 무엇인지 중요함
 
 # Results
@@ -65,16 +66,16 @@ author: <Tea Tasting Lady>
     ![](/img/20240823215918.png)
 
 
-- SN = P(Test + | Disease) = P(Test + & Disease)/P(Disease) = (8/10)/(9/10) = 8/9 = 89%
-- SP = P(Test -| No Disease) = P(Test - & Disease)/P(No disease) = (0/10)/(1/10) = 0%
+- $$SN = P(Test + | Disease) = \frac{P(Test + \& Disease)}{P(Disease)} = \frac{(8/10)}{(9/10)} = 8/9 = 89%$$
+- $$SP = P(Test -| No\ disease) = \frac{P(Test - \& No\ disease)}{P(No\ disease)} = \frac{(0/10)}{(1/10)} = 0%$$
 
 ## Breast-Level Analysis
 - The breast as the unit of analysis
     - 이 경우, patient level analysis에 비해 n수가 2배가 됨(each breast에 대해 평가)
 - 2 by 2 Table
     ![](/img/20240823215931.png)
-- SN = P(Test + | Disease) = P(Test + & Disease)/P(Disease) = (8/20)/(10/20) = 8/10 = 80%
-- SP = P(Test -| No Disease) = P(Test - & Disease)/P(No disease) = (9/20)/(10/20) = 90%
+- $$SN = P(Test + | Disease) = \frac{P(Test + \& Disease)}{P(Disease)} = \frac{(8/20)}{(10/20)} = 8/10 = 80%$$
+- $$SP = P(Test -| No\ disease) = \frac{P(Test - \& No\ disease)}{P(No\ disease)} = \frac{(9/20)}{(10/20)} = 90%$$
     - Patient level analysis의 SP 0%가 Breast level에서는 90%가 됨
 
 ## Lesion-Level Analysis
@@ -91,7 +92,7 @@ author: <Tea Tasting Lady>
         - “True Negative”라고 lesion level에서 정의할 수 있을 영역의 경우의 수가 너무 많기 때문에 위 table의 물음표(?)를 채울 명확한 방법이 없음
             - (There are infinitely many possibilities for defining areas that could be marked as true negatives. The end result is that we have no obvious way to fill in this cell)
     - 따라서 Lesion level에서는 Specificity 계산을 할 수 없음 (민감도는 가능함)
-- SN = P(Test + | Disease) = P(Test + & Disease)/P(Disease) = 10/17 = 59%
+- $$SN = P(Test + | Disease) = \frac{P(Test + \& Disease)}{P(Disease)} = 10/17 = 59%$$
 
 ## Receiver Operating Characteristic (ROC) Curve Analysis
 - Empirical ROC curve
