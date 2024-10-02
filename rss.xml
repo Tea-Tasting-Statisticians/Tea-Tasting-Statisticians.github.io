@@ -1,0 +1,21 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Tea Tasting Statisticians</title>
+  <link>https://tea-tasting-statisticians.github.io/</link>
+  <description>Brewing Up Statistical Insights</description>
+  <language>en-us</language>
+  <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+
+  {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <description>{{ post.description }}</description>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    </item>
+  {% endfor %}
+</channel>
+</rss>
