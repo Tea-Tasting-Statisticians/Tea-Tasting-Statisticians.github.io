@@ -58,7 +58,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: 9775262166
   goatcounter: 
     id: # tea-tasting-statisticians
   umami:
