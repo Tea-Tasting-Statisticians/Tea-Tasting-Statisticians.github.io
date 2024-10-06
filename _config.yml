@@ -60,7 +60,7 @@ analytics:
   google:
     id: # fill in your Google Analytics ID
   goatcounter: 
-    id: tea-tasting-statisticians
+    id: # tea-tasting-statisticians
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -74,7 +74,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: goatcounter
+  provider: # goatcounter
 
 # Prefer color scheme setting.
 #
@@ -106,16 +106,6 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments:
-  utterances:
-    src: "https://utteranc.app/client.js"
-    data-repo: <gh-Tea-Tasting-Statisticians>/<Tea-Tasting-Statisticians.github.io>
-    data-repo-id: "R_kgDOMzgjQg"
-    issue-term: "pathname"
-    label: "comments"
-    theme: "github-light"
-    crossorigin: "anonymous"
-    async: true
 
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
@@ -166,7 +156,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true # Enable comments in posts.
+      comments: false # Enable comments in posts.
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
@@ -174,7 +164,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: true
+      comments: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
