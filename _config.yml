@@ -60,7 +60,7 @@ analytics:
   google:
     id: G-MEJWDXPCDV
   goatcounter: 
-    id: # tea-tasting-statisticians
+    id: tea-tasting-statisticians
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
@@ -74,7 +74,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: # goatcounter
+  provider: goatcounter
 
 # Prefer color scheme setting.
 #
