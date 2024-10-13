@@ -1,8 +1,8 @@
 ---
-title: Advanced designs for clinical trial 1st week
+title: Introduction to advanced designs for clinical trial
 date: 2024-09-18
 categories: [Clinical Trial Designs, Advanced designs for clinical trial]
-tags: [clinical trial]     # TAG names should always be lowercase
+tags: [clinical trial, trial design]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
 

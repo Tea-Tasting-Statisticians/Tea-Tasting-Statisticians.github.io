@@ -26,7 +26,7 @@ $$ y_{ij} = \beta_0 + \beta_1 x_j + \alpha_j + \epsilon_{ij} $$
 Cluster randomized controlled trial의 중요한 가정은 동일한 cluster 내의 대상자들은 서로 연관되어있다는 것이다. Cluster 1과 cluster 2에 있는 사람들은 특성이 다르게 나타나기 마련이다. 그러나 각 cluster를 조건부로 하게 되면 cluster 내의 대상자들은 독립적이라는 가정을 한다. 이는 다음과 같이 나타낸다.
 
 
-$$Cov(\epsilon_{ij},\epsilon_{lj} \| \alpha_j)$$
+$$Cov(\epsilon_{ij},\epsilon_{lj} | \alpha_j)\ =\ 0$$
 
 일반적인 RCT에 비해 다음과 같이 고려해야 할 사항들을 살펴보자.
 
