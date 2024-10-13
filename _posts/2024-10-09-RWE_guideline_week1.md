@@ -16,4 +16,5 @@ author: <Tea Tasting Gentleman>
 하지만 현실적으로 표본수가 적은 경우에는 특성이 불균형할 수 있습니다. 그밖에 중요한 변수(모집한 병원 등)가 있을 수 있습니다. 그래서 해당 정보를 층화하여 무작위 배정을 하기도 합니다.
 
 자세한 내용은 아래 링크를 확인해주세요.
-https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html
+
+[https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html)
