@@ -12,7 +12,7 @@ author: <Tea Tasting Lady>
 - FDA Perspective on the Regulation of AI in Health Care and Biomedicine
 ### Information
 - Link
-	- https://jamanetwork.com/journals/jama/fullarticle/2825146
+	- [https://jamanetwork.com/journals/jama/fullarticle/2825146](https://jamanetwork.com/journals/jama/fullarticle/2825146)
 - Citation
 	- Warraich HJ, Tazbaz T, Califf RM. FDA Perspective on the Regulation of Artificial Intelligence in Health Care and Biomedicine. JAMA. Published online October 15, 2024. doi:10.1001/jama.2024.21451
 - Topic
@@ -59,7 +59,7 @@ author: <Tea Tasting Lady>
 			- 규제 원칙을 업계가 준수(compliance)하도록 하는 동시에 혁신에 도움(fostering innovation)을 주어야 함 
 		- 2021년 1월에 5-point action plan 발표
 			- FDA.Artificialintelligence/machinelearning (AI/ML)-based software as a medical device (SaMD) action plan.
-				- https://www.fda.gov/media/145022/download
+				- [https://www.fda.gov/media/145022/download](https://www.fda.gov/media/145022/download)
 		- 21st Century Cures Act에 따라 Clinical decision-support software 등 여러 가이던스 발표함 
 	- FDA의 4 focus
 		- 공중 보건을 위한 협력에 도움(fostering collaboration to safeguard  public health)
@@ -85,7 +85,7 @@ author: <Tea Tasting Lady>
 		- 위험도가 높을수록 규제 필요성이 더 올라감
 - 예시: Sepsis ImmunoScore (Prenosis, Inc)
 	- Class II device로 De Novo classification으로 허가를 2024년 4월에 받음
-		- https://www.accessdata.fda.gov/cdrh_docs/pdf23/DEN230036.pdf
+		- [https://www.accessdata.fda.gov/cdrh_docs/pdf23/DEN230036.pdf](https://www.accessdata.fda.gov/cdrh_docs/pdf23/DEN230036.pdf)
 	- EHR에서 22개의 정보(predetermined inputs)를 받아 환자의 패혈증 sepsis 발생 위험도를 식별하는 제품
 	- 이런 제품의 안전성과 유효성을 보장하기 위한 special control이 필요함 
 #### The Use of AI in Medical Product Development
