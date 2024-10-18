@@ -1,7 +1,7 @@
 ---
 title: FDA Perspective on the Regulation of AI in Health Care and Biomedicine
 date: 2024-10-18
-categories: [FDA]
+categories: [Regulatory Science, FDA]
 math: true
 tags: [fda, medical ai]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
