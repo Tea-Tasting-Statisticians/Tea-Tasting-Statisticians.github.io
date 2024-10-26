@@ -1,7 +1,7 @@
 ---
 title: Switching noninferiority and superiority trial
 date: 2024-10-19
-categories: [Clinical Trial Designs, Switching Trials]
+categories: [KOR,Clinical Trial Designs, Switching Trials]
 math: true
 tags: [switching trial, noninferiority, superiority, clinical trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>

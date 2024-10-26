@@ -1,7 +1,7 @@
 ---
 title: Biostat Guidance
 date: 2024-09-21
-categories: [Sharing Useful Information, 가짜연구소 스터디 자료]
+categories: [KOR,Sharing Useful Information, 가짜연구소 스터디 자료]
 tags: [biostat, biostatistics, regulatory guidance, guidelines]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

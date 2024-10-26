@@ -1,7 +1,7 @@
 ---
 title: RWE guideline week2 causal inference part2
 date: 2024-10-19
-categories: [Real World Evidence]
+categories: [KOR,Real World Evidence]
 math: true
 tags: [real world evidence, causal inference, graphical model, mediator, confounder, collider]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>

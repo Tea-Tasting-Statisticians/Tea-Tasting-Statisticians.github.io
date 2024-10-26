@@ -1,7 +1,7 @@
 ---
 title: 국내 임상통계 관련 진로 소개
 date: 2024-09-19
-categories: [Regulatory Science, Biostat Career]
+categories: [KOR,Regulatory Science, Biostat Career]
 tags: [regulatory science, biostat career, 임상통계, 진로, 규제과학]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---

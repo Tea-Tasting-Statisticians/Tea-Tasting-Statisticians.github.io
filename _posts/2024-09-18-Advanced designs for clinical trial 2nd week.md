@@ -1,7 +1,7 @@
 ---
 title: Pragmatic trial
 date: 2024-09-18
-categories: [Clinical Trial Designs, Advanced designs for clinical trial]
+categories: [KOR,Clinical Trial Designs, Advanced designs for clinical trial]
 tags: [clinical trial, pragmatic trial, efficacy, effectiveness, explanatory]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
