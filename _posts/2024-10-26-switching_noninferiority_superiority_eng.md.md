@@ -1,6 +1,6 @@
 ---
 title: Switching noninferiority and superiority trial (ENG)
-date: 2024-10-19
+date: 2024-10-26
 categories: [ENG,Clinical Trial Designs (ENG), Switching Trials]
 math: true
 tags: [switching trial, noninferiority, superiority, clinical trial]     # TAG names should always be lowercase
