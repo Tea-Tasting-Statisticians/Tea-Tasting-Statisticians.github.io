@@ -15,7 +15,9 @@ RWD를 활용하여 external control arm을 활용하기도 한다. 이를 통�
 
 RWE study protocol registers
 ClinicalTrial.gov: [https://clinicaltrials.gov/](https://clinicaltrials.gov/)
+
 EU-RWD catalogue (구 EU-PAS) : [https://catalogues.ema.europa.eu/search?f%5B0%5D=content_type%3Adarwin_study](https://catalogues.ema.europa.eu/search?f%5B0%5D=content_type%3Adarwin_study)
+
 ISPOR-ISPE (학회주도) : [https://osf.io/registries/rwe/discover](https://osf.io/registries/rwe/discover)
 
 그 외에 [전인영](https://www.linkedin.com/in/inyoungjun/)님께서 발표하실 때 실제 예시를 발표하셨다. 여기서 external control arm을 활용한 경우이다.
