@@ -17,4 +17,6 @@ Pragmatic trial을 RWD의 증거로 삼는다는 것도 인상 깊었다. Pragma
 
 결국 clinical trial에서 보여진 효능과 안전성이 실제 real world에서도 효과와 안전성으로 나타나야 의미가 있다는 것을 강조하였다. 다만 그러한 재현이 항상 이루어지는 것이 아니다. 앞으로 분석 방법론이 발달하고 데이터 관리 방법이 발전하여 임상시험에서 나온 결과가 observational study에서도 잘 재현되기를 기대한다.
 
-[https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program.html)
+발표자료 : [https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program.html)
+
+발표자 : [곽수영](https://www.linkedin.com/in/systat/)

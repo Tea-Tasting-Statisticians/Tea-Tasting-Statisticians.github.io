@@ -24,4 +24,6 @@ ISPOR-ISPE (학회주도) : [https://osf.io/registries/rwe/discover](https://osf
 
 RWE 활용은 앞으로 어떻게 될까? FDA framework 뒷부분에 stakeholder engagement 내용이 나온다. FDA 내부에서 RWE 관련 논의를 하는 내용, 외부의 환자 단체, 제약회사, 학계 등이 RWE 관련하여 함께 논의한다. 이해관계자들이 RWE를 어떻게 바라보느냐에 따라 향방이 달라질 것으로 보인다. 조심스럽게 이야기하자면 필요에 의해 앞으로도 RWE 활용이 더 활발해질 것으로 보인다.
 
-[https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program_2.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program_2.html)
+발표자료 : [https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program_2.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program_2.html)
+
+발표자 : [전인영](https://www.linkedin.com/in/inyoungjun/)
