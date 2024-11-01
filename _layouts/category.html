@@ -21,4 +21,26 @@ layout: page
       </li>
     {% endfor %}
   </ul>
+
+  {% assign third_categories = '' | split: '' %}
+  {% for post in page.posts %}
+    {% assign third_category = post.categories[2] %}
+    {% if third_category %}
+      {% unless third_categories contains third_category %}
+        {% assign third_categories = third_categories | push: third_category %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign third_categories = third_categories | sort %}
+  {% if third_categories.size > 0 %}
+    <h2 class="ps-lg-2 mt-4">Subcategories</h2>
+    <ul class="content ps-0">
+      {% for third_category in third_categories %}
+        <li class="d-flex justify-content-between px-md-3">
+          <a href="/categories/{{ third_category | slugify | url_encode }}">{{ third_category }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
 </div>
