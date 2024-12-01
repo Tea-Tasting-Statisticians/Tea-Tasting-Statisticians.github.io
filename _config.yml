@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -41,7 +41,6 @@ social:
     - https://github.com/Tea-Tasting-Statisticians # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    
 
 # Site Verification Settings
 webmaster_verifications:
@@ -74,7 +73,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: goatcounter
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -87,7 +86,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: light
+theme_mode: light # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -108,7 +107,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: giscus
+  provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -184,7 +183,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: true
+      comments: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
@@ -222,7 +221,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-plugins:
-  - jekyll-seo-tag
-  
