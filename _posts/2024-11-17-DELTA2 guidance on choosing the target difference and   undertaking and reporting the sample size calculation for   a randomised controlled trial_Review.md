@@ -1,7 +1,7 @@
 ---
 title: DELTA2 guidance on choosing the target difference and undertaking and reporting the sample size calculation for a RCT_Review
 date: 2024-11-17
-categories: [ENG,Performance Metric]
+categories: [ENG,Performance Metric (ENG)]
 math: true
 tags: [study design, sample size, target difference]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
