@@ -1,5 +1,5 @@
 ---
-title: (ENG) RWE guideline causal inference part2
+title: RWE guideline causal inference part2 (ENG)
 date: 2024-12-11
 categories: [ENG,Real World Evidence (ENG)]
 math: true
