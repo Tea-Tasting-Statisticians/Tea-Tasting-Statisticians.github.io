@@ -40,3 +40,5 @@ Second example: Per protocol set analysis, which only includes participants who 
 
 
 Presentation material : [https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part2.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part2.html)
+
+Source: [Original Korean article](https://tea-tasting-statisticians.github.io/posts/Causal_inference_part2/) \| English translation by Claude 3.5 Sonnet (New)

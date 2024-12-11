@@ -15,4 +15,7 @@ If these conditions are met, we can say two groups were similar. Since one group
 However, in reality, characteristics might be unbalanced when sample sizes are small. There might also be important variables (such as recruiting hospitals). Therefore, randomization is sometimes done after stratifying such information.
 
 Please check the link below for detailed information.
+
 [https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html)
+
+Source: [Original Korean article](https://tea-tasting-statisticians.github.io/posts/RWE_guideline_week1/) \| English translation by Claude 3.5 Sonnet (New)
