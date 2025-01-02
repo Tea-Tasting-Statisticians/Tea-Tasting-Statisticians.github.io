@@ -37,3 +37,5 @@ Thank you to everyone who witnessed and celebrated this special moment with us. 
 부부의 연을 맺었다는 것은 서로 하나되었다는 의미이고, 결혼하지 않은 사람에 비해 하나님을 닮기가 더 쉽다고 합니다. 일종의 고속도로를 탔다고 하지요. 
 
 앞으로 서로 사랑하고, 배려하며 하나님을 닮아가겠습니다. 와서 우리의 결혼의 증인이 되어주시고 축하해주셔서 감사합니다!
+
+![](../img/shsymarriage.jpeg)
