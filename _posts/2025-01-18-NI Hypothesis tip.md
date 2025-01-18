@@ -1,7 +1,7 @@
 ---
 title: 비열등성 가설 설정 tip
 date: 2025-01-18
-categories: [KOR,clinical trial]
+categories: [KOR,Clinical Trial Designs]
 tags: [clinical trial]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---
