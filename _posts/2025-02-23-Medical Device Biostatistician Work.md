@@ -34,7 +34,7 @@ author: <Tea Tasting Lady>
 	- 통계 가설
 		- 임상시험의 1차 유효성 평가변수에 대하여 설정 
 			- 해당 의료기기의 주 유효성을 평가하는 변수를 1차 유효성 평가변수로 설정
-		- 연구 목적을 검증하기 위한 귀무가설, 대립가설의 형태로 기술 
+		- 연구 목적을 검정하기 위한 귀무가설, 대립가설의 형태로 기술 
 	- 시험대상자 수 산출 공식 
 		- 설정한 통계 가설에 적합한 공식 선택
 			- 비열등성, 동등성, 우월성 검정에 따라 적절한 산출식 선택
@@ -63,7 +63,7 @@ author: <Tea Tasting Lady>
 	- 변수의 속성에 맞게 설정
 		- 연속형, 범주형 변수를 구분하여 적합한 통계 분석방법 제시
 		- 연속형 변수의 군간 비교
-			- t-test, Wiocoon rank sum test, ANOVA 등
+			- t-test, Wilcoxon rank sum test, ANOVA 등
 		- 범주형 변수의 군간 비교
 			- chi-square test, Fisher's exact test 등 
 - 결측치 처리 방법 
