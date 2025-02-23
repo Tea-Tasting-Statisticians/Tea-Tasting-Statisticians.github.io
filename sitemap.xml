@@ -23,6 +23,8 @@
         <priority>{{ post.sitemap.priority }}</priority>
       {% endif %}
 
+      <description>{{ post.content | strip_html | truncatewords: 30, '...' }}</description>
+
     </url>
   {% endfor %}
 </urlset>
