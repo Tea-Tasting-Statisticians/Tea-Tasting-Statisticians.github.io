@@ -1,6 +1,6 @@
 ---
 title: Statistical humor (ENG)
-date: 2025-03-23
+date: 2025-03-02
 categories: [ENG, etc]
 tags: [statistics, humor, data science, bayesian, nerd]     # lower case 
 author: <Tea Tasting Gentleman>
