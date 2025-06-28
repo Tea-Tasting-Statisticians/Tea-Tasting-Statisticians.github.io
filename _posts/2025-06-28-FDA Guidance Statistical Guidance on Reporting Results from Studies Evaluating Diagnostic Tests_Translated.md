@@ -116,16 +116,12 @@ FDA는 첫 시료를 수집하거나 첫 측정을 하기 전에 당신의 연�
 
    비교 기준점(comparative benchmark)과 비교와 보고 방식의 선택은 참조 표준의 존재 여부와/또는 실제적 적용성(practical applicability)에 영향을 받는다. 참조 표준의 사용성에 따라, FDA는 비교 기준점의 선택에 관한 다음 권고사항을 제시한다:
 
-           1. 만약 참조 표준이 사용가능하다면: 
-           - 이것을 민감도와 특이도를 추정하는 데 사용하라
-           2.  만약 참조 표준이 사용가능하지만 적용가능하지 않다 (impractical):       
-           - 이 것을 가능한 만큼 사용하라. 
-           - 민감도와 특이도의 추정치를 계산하고 이 참조 표준을 최대한 사용하지 못해서 생겼을 수 있는 편의를 교정하기 위해 보정하라.
-           3.만약 참조 표준이 사용가능하지 않거나 당신의 특정 적응증/또는 의도된  사용군에 대해 적용할 수 없다면: 
-           - 참조표준을 구성할 수 있을 지에 대해 고려하라. 
-           - 만약 그러하다면, 구성된 표준 하에서 추정된 민감도와 특이도를 계산하라.
-           4. 만약 참조 표준이 사용가능하지 않으며 구성될 수 없다면: 
-           - 일치도 (agreement)의 척도를 계산하고 보고하라 (Appendices 참조).
+           1. 만약 참조 표준이 사용가능하다면: 이것을 민감도와 특이도를 추정하는 데 사용하라
+           2. 만약 참조 표준이 사용가능하지만 적용가능하지 않다 (impractical):이 것을 가능한 만큼 사용하라.
+              민감도와 특이도의 추정치를 계산하고 이 참조 표준을 최대한 사용하지 못해서 생겼을 수 있는 편의를 교정하기 위해 보정하라.
+           3.만약 참조 표준이 사용가능하지 않거나 당신의 특정 적응증/또는 의도된  사용군에 대해 적용할 수 없다면:
+              참조표준을 구성할 수 있을 지에 대해 고려하라. 만약 그러하다면, 구성된 표준 하에서 추정된 민감도와 특이도를 계산하라.
+           4. 만약 참조 표준이 사용가능하지 않으며 구성될 수 없다면:일치도 (agreement)의 척도를 계산하고 보고하라 (Appendices 참조).
 
   우리는 이제 이러한 권고사항들에 대해 더 구체적으로 제시하고자 한다:
 
@@ -434,6 +430,7 @@ Table 1. Common 2x2 table format for reporting results comparing a new test outc
 Table 1. 새로운 검사 결과를 참조 표준 결과와 비교한 것을 보고하기 위한 일반적인 2x2 테이블 포맷
 
 새로운 검사는 양성(+)이나 음성(-)의 두 가지 가능한 결과를 지니고 있다. 관심 질환이 있는 대상자는 참조 표준 (+)로 제시되며 관심 질환이 없는 대상자는 참조 표준 (-)로 제시된다.
+
 ![](../img/Pasted image 20250628200441.png)
 
 여기서, TP = 참 양성 사건의 수 (number of true positive events)
@@ -442,15 +439,18 @@ TN = 위 음성 사건의 수 (number of true negative events)
 FN = 위 음성 사건의 수 (number of false negative events)
 
 Table 1로부터, 추정된 민감도는 새로운 검사+ (New Test+)이면서 관심 질환을 가진 대상자들(참조 표준+ (reference standard+))의 비율이다. 추정된 특이도는 새로운 검사- (New Test-)이면서 관심 질환이 없는 대상자들 (참조 표준- (reference standard-))의 비율이다. 공식은 다음과 같다.
+
 ![](../img/Pasted image 20250628200537.png)
 
 이 계산의 예는 다음과 같다. 의도된 사용군에서 220명의 대상자로부터 각각 한 개의 검체가 채취되었다고 가정하자. 각 검체는 새로운 검사와 참조 표준으로 검사되었다. 51명의 대상자가 관심 질환을 가지고 있었고 169명은 그렇지 않았다. 결과는 Table 2에 2x2 테이블 포맷으로 제시되었다.
 
 Table 2. Example of results comparing a new test to reference standrad for 220 subjects
 Table 2. 220명의 대상자에 대해 새로운 검사를 참조 표준에 비교한 결과의 예시
+
 ![](../img/Pasted image 20250628200624.png)
 
 Table 2로부터, 추정된 민감도와 특이도는 다음과 같은 방식으로 계산된다:
+
 ![](../img/Pasted image 20250628200702.png)
 
 민감도와 특이도에 대한 양측 95% score 신뢰구간은 각각 (74.3%, 93.2%)와 (96.7%, 99.9%)이다. 
@@ -487,6 +487,7 @@ negative percent agreement = 100% X d/(b+d)
 이러한 계산들의 일부 예에서처럼, 이전과 같은 동일한 220명의 대상자들을 고려해보자. 모든 220명이 새로운 검사와 비-참조 표준으로 시험된 후에, 우리는 다음과 같은 결과를 얻는다.
 
 Table 4. Example of results comparing a new test to a non-reference standard for 220 subjects
+
 Table 4. 220명의 대상자에 대해 새로운 검사를 비참조 표준에 비교한 결과의 예시
 
 ![](../img/Pasted image 20250628201028.png)
@@ -504,12 +505,14 @@ Table 4로부터, 일치도 척도를 다음과 같이 계산할 수 있다:
 Table 5A와 5B는 함께 전반적 일치도는 동일하게 유지되면서 두 검사의 성능이 다를 수 있음을 각기 다른 양성과 음성 퍼센트 일치도 결과를 증거로 하여 보여주는 예시이다. 두 검사들에 대하여서, 전반적 일치도는 96.5%(552/572)이다. 새로운 검사 A에 대해, 양성과 음성 퍼센트 일치도 (new/non ref.std) 결과는 각각 67.8% (40/59)과 99.8% (512/513)이다. 새로운 검사 B의 대응되는 결과는 다르다: 결과는 각각 97.6% (40/41)과 96.4% (512/531)이다.
 
 Table 5A. Example of results comparing new test A to a non-reference standard for 572 subjects where the positive percent agreement is low, but overall agreement is high
+
 Table 5A. 양성 퍼센트 일치도는 낮지만 전반적 일치도는 높은, 새로운 검사 A를 비-참조 표준과 572명의 대상자에 대해 비교한 결과의 예
 
 ![](../img/Pasted image 20250628201300.png)
 
 
 Table 5B. Example of results comparing new test B to a non-reference standard for 572 subjects where the positive percent agreement is high, and overall agreement is high
+
 Table 5B. 양성 퍼센트 일치도가 높고 전반적 일치도도 높은, 새로운 검사B를 비-참조 표준과 572명의 대상자에 대해 비교한 결과의 예
 
 ![](../img/Pasted image 20250628201402.png)
@@ -531,6 +534,7 @@ Table 2와 4의 예에서 비-참조 표준이 모든 220명의 대상자들�
 두 검사가 일치할 때, 이 검사들이 또한 올바르다고 가정할 수는 없다. 이것을 설명하기 위해서, 새로운 검사 결과, 비-참조 표준 결과 그리고 참조 표준을 비교하는 삼원적 비교(three-way comparison)가 필요하다. 삼원적 비교를 나타내는 유용한 방식을 Table 6A에 제시하였다.
 
 Table 6A. A three-way presentation of results comparing the new test, the non-reference standard, and the reference standard
+
 Table 6A. 새로운 검사, 비-참조 표준, 그리고 참조 표준 결과를 비교하는 삼원적 제시
 
 ![](../img/Pasted image 20250628201450.png)
@@ -540,6 +544,7 @@ Table 6A의 첫 번째 줄과 네 번째 줄로부터, 새로운 검사와 비-
 4x2 Table 6A의 대안으로써, 이러한 결과들을 참조 표준으로 구획화된 두 개의 별개 2x2 table로 제시하는 방법을 택할 수도 있다 (Table 6B). 데이터는 동일하지만, Table 6B의 형태로 제시하는 것이 Table 6A의 형태로 제시되는 것과는 다른 통찰력을 제공해줄 수도 있다.
 
 Table 6B. An alternative presentation of results comparing the new test, the non-reference standard, and the reference standard
+
 Table 6B. 새로운 검사, 비-참조 표준, 그리고 참조 표준 결과 비교의 대안적 제시법
 
 ![](../img/Pasted image 20250628201602.png)
@@ -554,6 +559,7 @@ Table 6B. 새로운 검사, 비-참조 표준, 그리고 참조 표준 결과
 질환 유병률이 일치도에 어떻게 영향을 주는 지 보이기 위해, 연구 집단 내의 질환 유병률이 훨씬 더 낮지만, 질환이 있거나 없는 대상자들에 대한 새로운 검사와 비-참조 표준의 일치도는 동일하게 유지된다고 가정하자. 예를 들어, 연구 집단이 169명의 대상자 대신, 질환이 없는 대상자 676명(169명의 4배)을 포함하여 연구 집단의 질환 유병률이 23.2%가 아닌 7% 51/(51+676)라고 가정해보자. 새로운 데이터는 Table 6C처럼 보일 것이다. Table 6C의 참조 표준+ 열은 Table 6A와 동일하지만 Table 6C의 참조 표준- 열은 Table 6A 결과의 4배이다.
 
 Table 6C. A three-way presentation of results comparing the new test, the non-reference standard, and reference standard. Condition prevalence is one-fouirth of that in Table 6A.
+
 Table 6C. 새로운 검사, 비-참조 표준, 그리고 참조 표준 결과를 비교하는 삼원적 제시. 질환 유병률은 Table 6A의 1/4.
 
 ![](../img/Pasted image 20250628201702.png)
@@ -574,11 +580,13 @@ Table 6C에서, 질환이 있는 대상자들에 대한 새로운 검사와 비
 이 가장 간단한 상황에서, 불일치 해결은 다음 방식의 2-단계 검사 과정으로 설명할 수 있다. 1 단계는 새로운 검사와 비-참조 표준을 사용하여 모든 대상자들을 검사하는 것이다. 결과는 Table 4와 같이 제시되었다. 2단계에서, 새로운 검사와 비-참조 표준이 불일치할 때, 추가적인 검사(해결책 resolver)이 어떤 검사가 “맞는지(right)" 보기 위해 수행된다. Table 7이 다시 검사된 대상자들을 제시한다. 해결책의 결과는 Table 8에 보고되어 있다.
 
 Table 7. Two stage testing process of discrepant resolution. The (discrepant) subjects on the off-diagonal (in bold) are additionally tested by a resolver.
+
 Table 7. 불일치 해결의 2 단계 검사 과정. (굵게 표시된) 사선의 (불일치한) 대상자들은 해결책(resolver)에 의해 추가적으로 검사됨.
 
 ![](../img/Pasted image 20250628201747.png)
 
 Table 8. Resolver results
+
 Table 8. 해결책 결과
 
 ![](../img/Pasted image 20250628201808.png)
@@ -595,6 +603,7 @@ Table 8의 결과는 연구 집단에 대해 새로운 검사가 해결책과 �
 Table 9는 Table 8의 결과가 개정된 결과를 계산하기 위해 부적절하게 어떻게 사용되었는지에 대한 예이다. 구체적으로, 모든 40 새로운 검사+/비-참조 표준+ 대상자들이 부정확하게 참조 표준+로써 계산되었고 모든 171 새로운 검사-/비-참조 표준- 대상자들은 참조 표준-로써 부정확하게 계산되었다. 다음에, 5건의 새로운 검사+/비-참조 표준-/참조 표준+ 대상자들이 새로운 검사+/비참조 표준+로 이동되었고 3건의 새로운 검사-/비-참조 표준+/참조 표준- 대상자들이 새로운 검사-/비-참조 표준-로 이동되었다. 1건의 새로운 검사-/비-참조 표준+/참조 표준+는 새로운 검사-/비-참조 표준+에 머무른다.
 
 Table 9. Inappropriate revision of original results (Table 4) based on discrepant resolution results(Table 8)
+
 Table 9. 불일치 해결책 결과(Table 8)에 근거하여 원래의 결과(Table 4)를 부적절하게 개정한 것
 
 ![](../img/Pasted image 20250628201853.png)
@@ -603,6 +612,7 @@ Table 9. 불일치 해결책 결과(Table 8)에 근거하여 원래의 결과(Ta
 일반적으로, Table 9의 개정된 총수(totals)는 Table 10B와 같은 또 다른 2x2 table에서 제시된다.
 
 Table 10. Inappropriate revised results (Table 10B) based on discrepant resolution of the original results (Table 7)
+
 Table 10. 원 결과(Table 7)에 대한 불일치 해결책에 근거하여 부적절하게 개정된 결과(Table 10B)
 ![](../img/Pasted image 20250628201924.png)
 
