@@ -118,9 +118,10 @@ FDA는 첫 시료를 수집하거나 첫 측정을 하기 전에 당신의 연�
 
            1. 만약 참조 표준이 사용가능하다면: 
            - 이것을 민감도와 특이도를 추정하는 데 사용하라
-           2.  만약 참조 표준이 사용가능하지만 적용가능하지 않다 (impractical):       - 이 것을 가능한 만큼 사용하라. 
-           - 민감도와 특이도의 추정치를 계산하고 이 참조 표준을 최대한 사용하지 못해서       생겼을 수 있는 편의를 교정하기 위해 보정하라.
-           3.만약 참조 표준이 사용가능하지 않거나 당신의 특정 적응증/또는 의도된  시영       군에 대해 적용할 수 없다면: 
+           2.  만약 참조 표준이 사용가능하지만 적용가능하지 않다 (impractical):       
+           - 이 것을 가능한 만큼 사용하라. 
+           - 민감도와 특이도의 추정치를 계산하고 이 참조 표준을 최대한 사용하지 못해서 생겼을 수 있는 편의를 교정하기 위해 보정하라.
+           3.만약 참조 표준이 사용가능하지 않거나 당신의 특정 적응증/또는 의도된  사용군에 대해 적용할 수 없다면: 
            - 참조표준을 구성할 수 있을 지에 대해 고려하라. 
            - 만약 그러하다면, 구성된 표준 하에서 추정된 민감도와 특이도를 계산하라.
            4. 만약 참조 표준이 사용가능하지 않으며 구성될 수 없다면: 
@@ -487,6 +488,7 @@ negative percent agreement = 100% X d/(b+d)
 
 Table 4. Example of results comparing a new test to a non-reference standard for 220 subjects
 Table 4. 220명의 대상자에 대해 새로운 검사를 비참조 표준에 비교한 결과의 예시
+
 ![](../img/Pasted image 20250628201028.png)
 
 Table 4로부터, 일치도 척도를 다음과 같이 계산할 수 있다:
@@ -503,11 +505,13 @@ Table 5A와 5B는 함께 전반적 일치도는 동일하게 유지되면서 �
 
 Table 5A. Example of results comparing new test A to a non-reference standard for 572 subjects where the positive percent agreement is low, but overall agreement is high
 Table 5A. 양성 퍼센트 일치도는 낮지만 전반적 일치도는 높은, 새로운 검사 A를 비-참조 표준과 572명의 대상자에 대해 비교한 결과의 예
+
 ![](../img/Pasted image 20250628201300.png)
 
 
 Table 5B. Example of results comparing new test B to a non-reference standard for 572 subjects where the positive percent agreement is high, and overall agreement is high
 Table 5B. 양성 퍼센트 일치도가 높고 전반적 일치도도 높은, 새로운 검사B를 비-참조 표준과 572명의 대상자에 대해 비교한 결과의 예
+
 ![](../img/Pasted image 20250628201402.png)
 
 따라서, 전반적 일치도의 척도가 이 자체로는 검사 성능의 충분한 특징이 되지 못한다.
@@ -528,6 +532,7 @@ Table 2와 4의 예에서 비-참조 표준이 모든 220명의 대상자들�
 
 Table 6A. A three-way presentation of results comparing the new test, the non-reference standard, and the reference standard
 Table 6A. 새로운 검사, 비-참조 표준, 그리고 참조 표준 결과를 비교하는 삼원적 제시
+
 ![](../img/Pasted image 20250628201450.png)
 
 Table 6A의 첫 번째 줄과 네 번째 줄로부터, 새로운 검사와 비-참조 표준은 40+171=211 명의 대상자에 대해서 일치하나 6+1=7 명의 대상자에 대해서는 새로운 검사와 비참조 표준 간에는 일치하지만 참조표준과 비교한 결과는 잘못 되었다.
@@ -536,6 +541,7 @@ Table 6A의 첫 번째 줄과 네 번째 줄로부터, 새로운 검사와 비-
 
 Table 6B. An alternative presentation of results comparing the new test, the non-reference standard, and the reference standard
 Table 6B. 새로운 검사, 비-참조 표준, 그리고 참조 표준 결과 비교의 대안적 제시법
+
 ![](../img/Pasted image 20250628201602.png)
 
 #### **Agreement changes depending on prevalence**
@@ -545,14 +551,14 @@ Table 6B. 새로운 검사, 비-참조 표준, 그리고 참조 표준 결과
 
 이 현상을 설명하기 위해, Table 6A의 데이터로부터 시작해보자. 이 연구 집단의 질환 유병률은 23.2% (51/220)이다. 질환이 있는 대상자들 (참조 표준+ 열)에게서 새로운 검사와 비-참조 표준의 전반적 퍼센트 일치도는 88.2% ((39+6)/51)이고 질환이 없는 대상자들 (참조표준- 열)에서의 전반적 일치도는 98.2% ((1+165)/169)이다. 질환이 있거나 없는 대상자들을 통합한 전반적 일치도는 96.9% ((39+6+1+165)/220)인데 이는 Table 4에서 계산된 것과 동일한 수치이다. 양성 퍼센트 일치도는 90.9% (40/(40+4))이고 음성 퍼센트 일치도는 97.2% (171/(171+5))이다.
 
-질환 유병률이 일치도에 어떻게 영향을 주는 지 보이기 위해, 연구 집단 내의 질환 유병률이 훨씬 더 낮지만, 질환이 있거나 없는 대상자들에 대한 새로운 검사와 비-참조 표준의 일치도는 동일하게 유지된다고 가정하자. 예를 들어, 연구 집단이 169명의 대상자 대신, 질환이 없는 대상자 676명(169명의 4배)을 포함하여 연구 집단의 질환 유병률이 23.2%가 아닌 7% (51/(51+6760)라고 가정해보자. 새로운 데이터는 Table 6C처럼 보일 것이다. Table 6C의 참조 표준+ 열은 Table 6A와 동일하지만 Table 6C의 참조 표준- 열은 Table 6A 결과의 4배이다.
+질환 유병률이 일치도에 어떻게 영향을 주는 지 보이기 위해, 연구 집단 내의 질환 유병률이 훨씬 더 낮지만, 질환이 있거나 없는 대상자들에 대한 새로운 검사와 비-참조 표준의 일치도는 동일하게 유지된다고 가정하자. 예를 들어, 연구 집단이 169명의 대상자 대신, 질환이 없는 대상자 676명(169명의 4배)을 포함하여 연구 집단의 질환 유병률이 23.2%가 아닌 7% 51/(51+676)라고 가정해보자. 새로운 데이터는 Table 6C처럼 보일 것이다. Table 6C의 참조 표준+ 열은 Table 6A와 동일하지만 Table 6C의 참조 표준- 열은 Table 6A 결과의 4배이다.
 
 Table 6C. A three-way presentation of results comparing the new test, the non-reference standard, and reference standard. Condition prevalence is one-fouirth of that in Table 6A.
-
 Table 6C. 새로운 검사, 비-참조 표준, 그리고 참조 표준 결과를 비교하는 삼원적 제시. 질환 유병률은 Table 6A의 1/4.
+
 ![](../img/Pasted image 20250628201702.png)
 
-Table 6C에서, 질환이 있는 대상자들에 대한 새로운 검사와 비-참조 표준의 퍼센트 일치도는 여전히 88.2% ((39+6)/51)이고 질환이 없는 대상자들에 대한 퍼센트 일치도(참조표준- 열)는 여전히 98.2%((4+660)/676)이다. 그러나, 질환이 있거나 없는 대상자들을 합친 전반적 퍼센트 일치도는 97.5%((39+6+4+660)/727)로 원래의 95.9%보다 더 높다. 더 극적인 차이를 보여주는 것은 양성 퍼센트 일치도로 90.9%에 비해 훨씬 더 낮은 76.8% (43/(43+130)이고 음성 퍼센트 일치도는 97.2%에 비해 약간 더 높은 99.2% (666/(666+50)) 이다.
+Table 6C에서, 질환이 있는 대상자들에 대한 새로운 검사와 비-참조 표준의 퍼센트 일치도는 여전히 88.2% ((39+6)/51)이고 질환이 없는 대상자들에 대한 퍼센트 일치도(참조표준- 열)는 여전히 98.2%((4+660)/676)이다. 그러나, 질환이 있거나 없는 대상자들을 합친 전반적 퍼센트 일치도는 97.5%((39+6+4+660)/727)로 원래의 95.9%보다 더 높다. 더 극적인 차이를 보여주는 것은 양성 퍼센트 일치도로 90.9%에 비해 훨씬 더 낮은 76.8% 43/(43+130)이고 음성 퍼센트 일치도는 97.2%에 비해 약간 더 높은 99.2% (666/(666+50)) 이다.
 
 새로운 검사와 비-참조 표준의 성능은 Table 6A와 6C에서 변하지 않았지만, 모든 일치도 척도들은 단순히 질환 유병률이 변하였기 때문에 변하였다. 
 
@@ -569,10 +575,12 @@ Table 6C에서, 질환이 있는 대상자들에 대한 새로운 검사와 비
 
 Table 7. Two stage testing process of discrepant resolution. The (discrepant) subjects on the off-diagonal (in bold) are additionally tested by a resolver.
 Table 7. 불일치 해결의 2 단계 검사 과정. (굵게 표시된) 사선의 (불일치한) 대상자들은 해결책(resolver)에 의해 추가적으로 검사됨.
+
 ![](../img/Pasted image 20250628201747.png)
 
 Table 8. Resolver results
 Table 8. 해결책 결과
+
 ![](../img/Pasted image 20250628201808.png)
 
 Table 8의 결과는 연구 집단에 대해 새로운 검사가 해결책과 일치하는 수(8명의 대상자)가 비-참조 표준이 해결책과 일치하는 수(1명의 대상자)보다 더 크다는 점을 제시한다. 그러나, 우리가 모든 대상자들에 대한 참조 표준의 결과(Table 6A에서처럼)나 연구 집단 내 관심 질환 유병률을 알고 있지 않은 한, 이러한 차이의 상대적 크기를 추정하거나 다른 대상자 집단에 대해 이러한 차이를 일반화시키는 일은 불가능하다.
@@ -588,6 +596,7 @@ Table 9는 Table 8의 결과가 개정된 결과를 계산하기 위해 부적�
 
 Table 9. Inappropriate revision of original results (Table 4) based on discrepant resolution results(Table 8)
 Table 9. 불일치 해결책 결과(Table 8)에 근거하여 원래의 결과(Table 4)를 부적절하게 개정한 것
+
 ![](../img/Pasted image 20250628201853.png)
 *올바르다고 부정확하게 가정된 모든 대상자 결과 (40*과 171*에 대한 올바른 결과에 대해서 Table 6A 참조할 것)
 
@@ -610,81 +619,80 @@ Table 10. 원 결과(Table 7)에 대한 불일치 해결책에 근거하여 부
 ## **8. Glossary**
 ## **8. 용어집**
 
-**편의가 있는 추정치 biased estimate
-
+**편의가 있는 추정치 biased estimate**
 - 체계적으로(systematically) 너무 높거나 너무 낮은 추정치
 
-**진단 정확도 diagnostic accuracy
+**진단 정확도 diagnostic accuracy**
 - 새로운 검사와 참조 표준의 결과 간 일치도의 정도
 
-**불일치 해결책 discrepant resolution
+**불일치 해결책 discrepant resolution**
 - 해결책(resolver)을 새로운 검사와 비-참조 표준이 불일치하는 대상자들을 분류하기 위한 시도로써 사용하는 2-단계 검사 과정
 
-**외적 타당도 external validity
+**외적 타당도 external validity**
 - 연구의 결과가 의도된 사용군의 “실제 세계(real world)" 성능을 충분히 반영하는 정도
 
-**위음성 결과 false negative result
+**위음성 결과 false negative result**
 - 관심 질환이 있는(지명된 참조 표준에 의해 판정됨) 대상자에 대한 음성 검사 결과
 
-**위양성 결과 false positive result
+**위양성 결과 false positive result**
 - 관심 질환이 없는(지명된 참조 표준에 의해 판정됨) 대상자에 대한 양성 검사 결과
 
-**FN
+**FN**
 - 위음성 결과의 대상자/검체의 수
 
-**FP
+**FP**
 - 위양성 결과의 대상자/검체의 수
 
-**의도된 사용군 intended use population
+**의도된 사용군 intended use population**
 - 검사가 사용되도록 의도된 대상자들/검체들 (그리고 검체 유형들); STARD에서는 목표 집단 target population이라고 불림
 
-**음성 검사의 우도비 likelihood ratio of negative test
+**음성 검사의 우도비 likelihood ratio of negative test**
 - 참 양성 비율(민감도)과 위 양성 비율(1- 특이도)의 비; 민감도/(1-특이도)로 계산됨.
 
-**양성 검사의 우도비 likelihood ratio of positive test
+**양성 검사의 우도비 likelihood ratio of positive test**
 - 위 음성 비율(1-민감도)과 참 음성 비율(특이도)의 비: (1-민감도)/특이도로 계산됨.
 
-**음성 퍼센트 일치도 negative percent agreement (new/non ref. std.)
+**음성 퍼센트 일치도 negative percent agreement (new/non ref. std.)**
 - 비-참조 표준 결과가 음성인 대상자들 중 새로운 검사가 음성인 대상자들의 비율
 
-**전반적 일치도 overall agreement
+**전반적 일치도 overall agreement**
 - 새로운 검사와 비-참조 표준이 동일한 결과인 대상자들의 비율
 
-**양성 퍼센트 일치도 positive percent agreement (new/non ref. std.)
+**양성 퍼센트 일치도 positive percent agreement (new/non ref. std.)**
 - 비-참조 표준 결과가 양성인 대상자들 중 새로운 검사가 양성인 대상자들의 비율
 
-**음성 결과의 예측도 predictive value of a negative result (음성 예측도 혹은 NPV(negative predictive value)라고도 불림)
+**음성 결과의 예측도 predictive value of a negative result (음성 예측도 혹은 NPV(negative predictive value)라고도 불림)**
 - 목표 질환이 없는, 검사 결과 음성인 대상자들의 비율; 100xTN/(TN+FN)
 
-**양성 결과의 예측도 predictive value of a positive result (양성 예측도 혹은 PPV(positive predictive value)라고도 불림)
+**양성 결과의 예측도 predictive value of a positive result (양성 예측도 혹은 PPV(positive predictive value)라고도 불림)**
 - 목표 질환이 있는, 검사 결과 양성인 대상자들의 비율; 100xTP/(TP+FP)
 
-**유병률 prevalence
+**유병률 prevalence**
 - 명시된 군 내 사람들의 총 수(관심 질환이 있는 사람들+ 질환이 없는 사람들)와 비교하여 명시된 군 내에서 관심 질환이 있는 사람들의 수의 비율로써 표현되는, 한 주어진 시점에서 관심 질환의 빈도; 명시된 군 내 관심 질환의 시험전 확률(pretest probability)
 
-**참조 표준 reference standard
+**참조 표준 reference standard**
 - 목표 질환 유무를 확립하기 위한 최선의 사용가능한 방식; 참조 표준은 단일 검사 또는 방식이거나 임상적 추적조사를 포함한 방식과 기술의 조합일 수 있음.
 
-**민감도 sensitivity
+**민감도 sensitivity**
 - 목표 질환이 있는 대상자들 중 검사가 양성인 대상자들의 비율; 100 x TP/(TP+FN)으로 계산됨.
 
-**특이도 specificity
+**특이도 specificity**
 - 목표 질환이 없는 대상자들 중 검사가 음성인 대상자들의 비율; 100 x TN/(TN+FP)으로 계산됨.
 
-**연구군 study population
+**연구군 study population**
 - 연구에 포함된 대상자들/환자들 (그리고 검체 유형들)
 
-**목표 질환 (관심 질환) target condition (condition of interest)
+**목표 질환 (관심 질환) target condition (condition of interest)**
 - 이미 존재하고 있는 것으로 알려진 질병의 단계를 매기는 것이나 치료의 시작, 수정 혹은 종료와 같은 임상적 조치를 촉발하는 건강 상태처럼 특정 질병, 질병 단계, 건강 상태 혹은 환자 내에서의 그 외 식별가능한 상태.
 
-**TN
+**TN**
 - 참음성 결과의 대상자/검체의 수
 
-**TP
+**TP**
 - 참양성 결과의 대상자/검체의 수
 
-**참 음성 결과 true negative result
+**참 음성 결과 true negative result**
 - 관심 질환이 없는(지명된 참조 표준에 의해 판정됨) 대상자에 대한 음성 검사 결과
 
-**참 양성 결과 true positive result
+**참 양성 결과 true positive result**
 - 관심 질환이 있는(지명된 참조 표준에 의해 판정됨) 대상자에 대한 양성 검사 결과
