@@ -2,9 +2,9 @@
 title: Weekly 1 on 1 Meeting
 date: 2025-06-07
 categories: [tip (KOR)]
+math: true
 tags: [tip, korean]   # lower case 
 author: <Tea Tasting Lady>
-math: true
 --- 
 
 
