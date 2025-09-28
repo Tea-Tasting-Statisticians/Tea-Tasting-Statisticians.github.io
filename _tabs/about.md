@@ -14,7 +14,7 @@ E-mail : shstat1729@gmail.com
 Linkedin : [https://www.linkedin.com/in/shstat1729/](https://www.linkedin.com/in/shstat1729/)
 
 
-[Tea Tasting Lady](https://www.linkedin.com/in/systat/) is a biostatistician. The ["Tea Tasting Lady"](https://www.linkedin.com/in/systat/) is the author and operator of the ['Tea Tasting Lady, TTL'](https://www.datachef.co.kr/post_ttl_stat) blog. With over a decade of experience in regulatory sciences, she is an accomplished biostatistician. Her professional journey includes seven years at the Ministry of Food and Drug Safety (MFDS) in South Korea, followed by a five-year working experiences at Lunit. Currently, she holds the position of Senior Biostatistician at JNPMEDI, where she continues to apply her extensive expertise in regulatory affairs and biostatistics.
+[Tea Tasting Lady](https://www.linkedin.com/in/systat/) is a biostatistician with over a decade of experience in regulatory sciences, she is an accomplished biostatistician. Her professional journey includes seven years at the Ministry of Food and Drug Safety (MFDS) in South Korea, followed by a five-year working experiences at Lunit. Currently, she holds the position of Senior Biostatistician at JNPMEDI, where she continues to apply her extensive expertise in regulatory affairs and biostatistics.
 
 E-mail : systat1729@gmail.com
 
@@ -32,7 +32,7 @@ Linkedin : [https://www.linkedin.com/in/systat/](https://www.linkedin.com/in/sys
 링크드인 : [https://www.linkedin.com/in/shstat1729/](https://www.linkedin.com/in/shstat1729/)
 
 
-[Tea Tasting Lady](https://www.linkedin.com/in/systat/)는 생물통계학자입니다. [Tea Tasting Lady](https://www.linkedin.com/in/systat/)는 ['Tea Tasting Lady, TTL'](https://www.datachef.co.kr/post_ttl_stat) 블로그의 저자이자 운영자입니다. 규제과학 분야에서 10년 이상의 경험을 가진 그녀는 생물통계학 전문가입니다. 그녀는 한국 식품의약품안전처(MFDS)에서 7년간 근무한 후, Lunit에서 5년간 근무하였습니다. 현재 그녀는 JNPMEDI에서 이사로 근무하며, 규제 업무와 생물통계학에 대한 폭넓은 전문 지식을 계속해서 적용하고 있습니다.
+[Tea Tasting Lady](https://www.linkedin.com/in/systat/)는 생물통계학자입니다. 규제과학 분야에서 10년 이상의 경험을 가진 그녀는 생물통계학 전문가입니다. 그녀는 한국 식품의약품안전처(MFDS)에서 7년간 근무한 후, Lunit에서 5년간 근무하였습니다. 현재 그녀는 JNPMEDI에서 이사로 근무하며, 규제 업무와 생물통계학에 대한 폭넓은 전문 지식을 계속해서 적용하고 있습니다.
 
 이메일 : systat1729@gmail.com
 
