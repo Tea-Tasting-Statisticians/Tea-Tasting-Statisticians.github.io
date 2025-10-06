@@ -78,7 +78,7 @@ Z 값과 표준정규분포…(image from Amang Kim님)
 왜 이런 '비직관'적인 결과가 나오냐면,
 해당 표본에서의 개별 결과값이 평균과
 비교해서 변하는 정도(variability)를 나타내는 
-표본 분산(sample variance)은 n(sample size)이 커질수록 
+표준 오차(standard error)는 n(sample size)이 커질수록 
 작아지고, 일종의 확률값인 p-value 값을 구할 때
 사용하는 통계량(statistic)인 z(종 모양 분포라고 흔히들 
 알고 있는 표준정규분포를 따름)는 
