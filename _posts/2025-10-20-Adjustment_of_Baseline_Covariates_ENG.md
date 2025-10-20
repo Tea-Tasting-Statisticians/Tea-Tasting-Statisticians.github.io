@@ -22,7 +22,7 @@ Y = β₀ + β₁*X + ε
 
 Here, the effect of X is the regression coefficient β₁, where $$\ β₁= \ E[Y\|X=1] - E[Y\|X=0]$$.
 
-When randomization is implemented, in linear models (e.g., linear regression models), the values of $$E(Y\|X=1)-E(Y\|X=0)$$ and $$E(Y\|X=1,Z)-E(Y\|X=0,Z)$$ are generally similar (i.e., β₁ ≈ α₁). This is because randomization eliminates variables that simultaneously affect both X and Y. However, when introducing a non-linear link function (such as the logit in logistic regression or Cox regression), $$E(Y\|X=1,Z)-E(Y\|X=0,Z)$$ and $$E(Y\|X=1,Z)-E(Y\|X=0,Z)$$ can differ, meaning β₁ ≠ α₁.
+When randomization is implemented, in linear models (e.g., linear regression models), the values of $$E(Y\|X=1)-E(Y\|X=0)$$ and $$E(Y\|X=1,Z)-E(Y\|X=0,Z)$$ are generally similar (i.e., β₁ ≈ α₁). This is because randomization eliminates variables that simultaneously affect both X and Y. However, when introducing a non-linear link function (such as the logit in logistic regression or Cox regression), $$E(Y\|X=1)-E(Y\|X=0)$$ and $$E(Y\|X=1,Z)-E(Y\|X=0,Z)$$ can differ, meaning β₁ ≠ α₁.
 
 Consider the following law of iterated expectations:
 
