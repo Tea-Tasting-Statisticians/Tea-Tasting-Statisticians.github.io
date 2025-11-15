@@ -1,7 +1,7 @@
 ---
 title: Connection between non-comparative adaptive design and estimand framework
 date: 2025-11-15
-categories: [KOR, Clinical Trial Designs, Advanced designs for clinical trial]
+categories: [ENG, Clinical Trial Designs (ENG), Advanced designs for clinical trial (ENG)]
 tags: [clinical trial design, estimand framework, non-inferiority, superiority, intercurrent event, non-comparative]   # lower case 
 author: <Tea Tasting Gentleman>
 math: true
