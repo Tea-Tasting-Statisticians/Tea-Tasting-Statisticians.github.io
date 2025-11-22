@@ -1,5 +1,5 @@
 ---
-title: 의료기기 임상 Project Study Template 개발 및 활용
+title: 의료기기 임상 Project Template 개발 및 활용
 date: 2025-11-22
 categories: [KOR, etc (KOR)]
 tags: [korean]   # lower case 
