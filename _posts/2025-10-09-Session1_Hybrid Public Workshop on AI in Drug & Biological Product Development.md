@@ -267,21 +267,21 @@ math: true
 			- 실패한 임상시험의 자료도 매우 유용할 것임 
 	- by Moderator: 매우 인상적인 논의였음
 		- by Thomas
-			- negative result 를 보고하지 않았던 것도 다시 활용이 필요함 
+			- 임상시험에서의 negative result 를 아예 보고하지 않았던 것도 다시 활용이 필요함 
 		- by Dana
-			- Chronic Pancreatic 의 경험 공유
+			- Chronic Pancreatic 질환이 있는 환자로써 본인 경험 공유
 			- AI scribe 를 활용하여 실수가 있을 경우 어떻게 수정할 것인지?
 			- Risk of AI만을 이야기할 것이 아니라 human error 에 대한 것도 솔직히 평가, 공유할 수 있어야 함 
-			- AI가 fix 를 하는 데 적극적으로 활용하면 net reduction 이 있을 것임
+			- AI가 fix 를 하는 것을 적극적으로 활용하면 전반적으로 error의 net reduction 이 있을 것임
 		- by Greg
 			- AI가 이제는 human mistake 를 찾아내는 상황이 됨
 			- 몇년 전에는 human 이 AI의 mistake 를 찾아냈었음 
 			- AI가 궁극적으로는 human error 를 잡아내고 교정하는 수준에 이를 것임
 				- 현재는 중간 단계 
 	- by Moderator
-		- Critical element 가 next few years에는 무엇일지?
+		- Critical element 가 향후 몇년은 무엇일지?
 		- by Dana
-			- What benefits, opportunities 가 있을 지 솔직히 논의할 수 있어야 함
+			- AI활용으로 어떤 benefit, opportunities 가 있을 지 솔직히 논의할 수 있어야 함
 			- 많은 사람들이 1개 이상의 질환이 있음
 			- AI, human decision 이 혼재할 것임
 			- 시간이 많지 않음
@@ -304,8 +304,6 @@ math: true
 			- Bringing AI in manufacturing process 는 어려움
 				- 무엇이 가능하고 무엇이 가능하지 않을지?
 				- Risk 가 무엇일지?
-				- FDA human inspector 에 대응이 가능할까?
-			- 가장 낮은 level 에 맞춰야 하나? 
 		- by Dana
 			- 우리가 왜 기존에 하던 대로 연구하고 데이터를 수집해야 하나?
 			- AI가 여러 일을 더 쉽게 할 수 있을 능력이 있음 
