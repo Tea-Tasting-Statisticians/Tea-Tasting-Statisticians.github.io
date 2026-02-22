@@ -12,12 +12,12 @@ math: true
 
 # Information
 - Link for the article
-	- [http://www.stat.columbia.edu/~gelman/research/published/stat50.pdf](http://www.stat.columbia.edu/~gelman/research/published/stat50.pdf)
+	- [https://www.stat.columbia.edu/~gelman/research/published/stat50.pdf](https://www.stat.columbia.edu/~gelman/research/published/stat50.pdf)
 - Webinar Prof. Andrew Gelman: the Most Important Statistical Ideas in the Past 50 Years
 	- [https://youtu.be/M6ha2UeSZbo?si=E237jb25YyYOaPyh](https://youtu.be/M6ha2UeSZbo?si=E237jb25YyYOaPyh)
 - Written by 
 	- Andrew Gelman (Professor of statistics and Political Science at Columbia University)
-		- [http://www.stat.columbia.edu/~gelman/](http://www.stat.columbia.edu/~gelman/)
+		- [https://www.stat.columbia.edu/~gelman/](https://www.stat.columbia.edu/~gelman/)
 	- Aki Vehtari (Professor in computational Baysian modeling at Aalto University)
 		- [https://users.aalto.fi/~ave/](https://users.aalto.fi/~ave/)
 
