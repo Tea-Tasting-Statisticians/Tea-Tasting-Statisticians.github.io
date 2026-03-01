@@ -1,22 +1,24 @@
 ---
 layout: null
+permalink: /rss.xml
 ---
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-<channel>
-  <title>Tea Tasting Statisticians</title>
-  <link>https://tea-tasting-statisticians.github.io/</link>
-  <description>Brewing Up Statistical Insights</description>
-  <language>en-us</language>
-  <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-
-  {% for post in site.posts %}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | default: "Tea Tasting Statisticians" | xml_escape }}</title>
+    <link>{{ "/" | absolute_url | xml_escape }}</link>
+    <description>{{ site.description | default: site.tagline | xml_escape }}</description>
+    <language>{{ site.lang | default: "en-US" }}</language>
+    <atom:link href="{{ "/rss.xml" | absolute_url | xml_escape }}" rel="self" type="application/rss+xml" />
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    {% for post in site.posts limit: 50 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <link>{{ site.url }}{{ post.url }}</link>
-      <description>{{ post.excerpt | xml_escape }}</description>
+      <link>{{ post.url | absolute_url | xml_escape }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url | xml_escape }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description>{{ post.excerpt | markdownify | strip_html | normalize_whitespace | truncate: 300 | xml_escape }}</description>
     </item>
-  {% endfor %}
-</channel>
+    {% endfor %}
+  </channel>
 </rss>
