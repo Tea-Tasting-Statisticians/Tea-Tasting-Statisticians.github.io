@@ -21,6 +21,13 @@
       },
       "problemMatcher": [],
       "detail": "Build the Jekyll site for production."
+    },
+    {
+      "label": "Normalize Post Images",
+      "type": "shell",
+      "command": "bash tools/normalize-post-images.sh --post ${file}",
+      "problemMatcher": [],
+      "detail": "Normalize Obsidian image links and filenames for the current post."
     }
   ]
 }
