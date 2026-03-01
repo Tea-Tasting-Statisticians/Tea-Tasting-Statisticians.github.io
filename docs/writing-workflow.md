@@ -13,6 +13,8 @@ Example:
 
 So you can preview/publish without running the normalizer for every edit.
 
+Note: auto-conversion only happens when the target image file actually exists in the repo (for example under `img/`).
+
 ## Obsidian Setup
 
 Configure Obsidian with the following values:
@@ -67,4 +69,16 @@ Dry-run (no file changes):
 
 ```bash
 bash tools/normalize-post-images.sh --post _posts/<your-post>.md --dry-run
+```
+
+## Troubleshooting (CI / htmlproofer)
+
+- If GitHub Actions reports `internal image ... does not exist`, the markdown references an image filename that is not present in `img/`.
+- Fix options:
+  - add the missing file to `img/`, or
+  - remove/update that image reference in the post.
+- Quick check:
+
+```bash
+rg -n "!\[\[|!\[\].*\(/img/" _posts/<your-post>.md
 ```

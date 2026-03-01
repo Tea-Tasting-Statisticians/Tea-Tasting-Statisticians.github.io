@@ -55,7 +55,17 @@ module ObsidianImageCompat
     encoded_parts.join("/")
   end
 
-  def convert_embeds(content)
+  def local_image_exists?(normalized_path, site_source)
+    return false if site_source.nil? || site_source.empty?
+    return false unless normalized_path.start_with?("/")
+
+    rel = normalized_path.sub(%r{\A/}, "")
+    decoded_rel = rel.split("/").map { |seg| decode_segment(seg) }.join("/")
+    abs = File.join(site_source, decoded_rel)
+    File.exist?(abs)
+  end
+
+  def convert_embeds(content, site_source = nil)
     return content if content.nil? || content.empty?
 
     content.gsub(EMBED_REGEX) do
@@ -63,7 +73,7 @@ module ObsidianImageCompat
       alt = (Regexp.last_match(2) || "").strip
       normalized = normalize_image_path(raw_src)
 
-      if normalized
+      if normalized && local_image_exists?(normalized, site_source)
         "![#{alt}](#{normalized})"
       else
         Regexp.last_match(0)
@@ -75,5 +85,6 @@ end
 Jekyll::Hooks.register [:posts, :pages, :documents], :pre_render do |doc|
   next unless doc.respond_to?(:content)
 
-  doc.content = ObsidianImageCompat.convert_embeds(doc.content)
+  site_source = doc.site&.source
+  doc.content = ObsidianImageCompat.convert_embeds(doc.content, site_source)
 end
