@@ -10,7 +10,7 @@ Neuroscience to Read Before You Get Stupid (Book Reading)
 
 Original Title : 멍청해지기 전에 읽는 뇌과학 - 이인아 저 (독후감)
 
-There is a concept called neuroplasticity. The brain continues to change depending on what it experiences and on the process of reusing those experiences. This is how we are able to learn. This book explains very well the principles of how the brain learns and how to develop the brain. It seems to convey neuroscience effectively in accessible language without relying on the strict terminology of academic texts. In particular, it focuses on the hippocampus, and it is said that Professor Lee Ina researches the hippocampus.
+There is a concept called neuroplasticity. The brain continues to change depending on what it experiences and on the process of reusing those experiences. This is how we are able to learn. This book explains very well the principles of how the brain learns and how to develop the brain. It seems to convey neuroscience effectively in accessible language without relying on the strict terminology of academic texts. In particular, it focuses on the hippocampus, and it is said that Professor Inah Lee researches the hippocampus.
 
 The hippocampus is one of the most important brain regions contributing to remembering events that occurred sequentially at a specific time and place. It is also used when creating stories and constructing anecdotes. The hippocampus plays a major role in simulation through imagination, and it is also used for navigation and finding one’s way. Of course, because the brain is highly interconnected with other regions, it is difficult to say the hippocampus alone is used; it functions through interaction with various areas.
 
