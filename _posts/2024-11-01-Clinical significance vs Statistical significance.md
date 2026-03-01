@@ -9,7 +9,7 @@ author: <Tea Tasting Lady>
 
 **통계적 유의성 vs 임상적 유의성**
 
-![](../img/heart.jpeg)
+![](/img/heart.jpeg)
 
 
 예전에 컬러링한 Heart 도안..문제의 핵심(Heart of the problem)에 대해 생각해보자는 취지에서 골라봄
@@ -71,7 +71,7 @@ sample size가 너무 작아 5명 vs 5명의 차이를 비교한 
 0.05보다 작더라도 0.1 kg의 차이가 임상적으로 의미가 
 없는 값일수도 있고 그렇다.  
 
-![](../img/normaldist.jpeg)
+![](/img/normaldist.jpeg)
 
 Z 값과 표준정규분포…(image from Amang Kim님)
 

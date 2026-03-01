@@ -18,13 +18,13 @@ author: <Tea Tasting Gentleman>
 
  그러면 위에서 언급한 이혼률은 어떻게 생각해볼 수 있을까요? 결혼 시점으로부터 이혼할 때까지의 기간이 모두 다르기 때문에, 결혼 후 1년 이혼률, 3년 이혼률, 5년 이혼률 등을 생각해볼 수 있겠지요. 전체 결혼 기간에 대해서 중도절단과 event 발생까지 고려한 Kaplan-Meier plot을 그려볼 수 있습니다. 생존 기간에 따른 이혼 발생을 한 눈에 확인할 수 있는 curve입니다. 이때 생존률은 추정 공식을 활용하여 계산합니다. 관심 있으신 분들은 Kaplan-Meier estimator를 확인해보시면 됩니다. Kaplan-Meier estimator를 활용하여 결혼 후 1년 이혼률, 3년 이혼률, 5년 이혼률을 추정해볼 수 있습니다. 아래 그림이 Kaplan-Meier plot 예시입니다.
 
-![](../img/Kaplan_Meier_curve.png)
+![](/img/Kaplan_Meier_curve.png)
 
 [Reference link](https://www.researchgate.net/figure/Kaplan-Meier-curve-for-freedom-from-the-first-recurrence-of-thrombosis-Kaplan-Meier_fig2_358085115)
 
  여기서 더 나아가 한국인 부부와 한국인과 외국인 부부의 생존 곡선을 비교하고 싶을 때에도 Kaplan-Meier plot을 그려볼 수 있습니다. 다음과 같이 두 생존 곡선을 한 눈에 확인할 수 있습니다.
 
-![](../img/Kaplan_Meier_curve_2.png)
+![](/img/Kaplan_Meier_curve_2.png)
 
 [Reference link](https://www.datacamp.com/tutorial/survival-analysis-R)
 

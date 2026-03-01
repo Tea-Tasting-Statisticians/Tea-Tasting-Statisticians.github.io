@@ -17,7 +17,7 @@ author: <Tea Tasting Lady>
 	- Statisitcal reporting
 	- Medical journal
 
-![](../img/Mindmap_Preview.png)
+![](/img/Mindmap_Preview.png)
 
 ### Summary
 - Parsimonious reporting of P values 

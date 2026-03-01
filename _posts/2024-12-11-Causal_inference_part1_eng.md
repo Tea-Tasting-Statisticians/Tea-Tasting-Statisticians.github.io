@@ -3,7 +3,7 @@ title: RWE guideline causal inference part1 (ENG)
 date: 2024-12-11
 categories: [ENG,Real World Evidence (ENG)]
 math: true
-tags: [causal inference, randomized controlled trial, RCT, clinical trial]     # TAG names should always be lowercase
+tags: [causal inference, randomized controlled trial, rct, clinical trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
 We had our first meeting of the Pseudo Lab's RWE (Real World Evidence) guideline study. To generate real world evidence from real world data, we need to understand the concept of causal inference.

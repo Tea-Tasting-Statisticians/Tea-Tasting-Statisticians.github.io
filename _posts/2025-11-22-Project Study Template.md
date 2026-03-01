@@ -15,7 +15,7 @@ math: true
 
 # Template Structure
 임상 Project Study Template  구조 입니다.
-![Project Structure](../img/Template_Structure.png) 
+![Project Structure](/img/Template_Structure.png) 
 
 ## 1. Regulatory Framework
 ### 1. 1 관련 규정 

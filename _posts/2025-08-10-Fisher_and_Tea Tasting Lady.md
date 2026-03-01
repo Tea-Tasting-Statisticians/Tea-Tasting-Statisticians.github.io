@@ -6,7 +6,7 @@ math: true
 tags: [korean]   # lower case 
 author: <Tea Tasting Lady>
 --- 
-![](../img/Teas.jpg)
+![](/img/Teas.jpg)
 
 Tea Tasting Lady란 닉네임으로  2021년 초부터 게시판 하나를 맡아 통계 관련 글을 쓰기 시작했습니다.     
 필명인 Tea Tasting Lady는 통계학자 Fisher의  The Design of Experiments에 나오는  Lady Muriel의 일화에서 아이디어를 얻어 지었습니다. 
@@ -17,7 +17,7 @@ Lady Muriel이 홍차를 마실때 우유를 먼저 따랐는지 홍차를 따�
 
 8잔 중 4잔을 고르는 경우의 수 [8!/{4!(8-4)!}]는 70가지이고 4잔을 고른 것에 대해 순서를 정확히 고를 수 있는 경우는 0잔부터 4잔까지 아래와 같이 success count와 경우의 수가 정의될 수 있습니다. 
 
-![](../img/TTS_dist.png)
+![](/img/TTS_dist.png)
 * Image from [https://en.wikipedia.org/wiki/Lady_tasting_tea](https://en.wikipedia.org/wiki/Lady_tasting_tea) 
 
 이 setting에서 4잔의 순서를 모두 맞추는 확률은 1/70 = 0.014이고 통상적으로 설정하는 유의수준 5% 기준에서 4잔을 모두 정확하게 골랐으면 Lady Muriel이 차를 따른 순서를 구분할 수 없다는 null hypothesis를 기각(reject the null hypothesis)하게 됩니다. 이 실험의 경우 4잔 중 3잔 이상의 순서를 정확히 고를 확률은 (16+1)/70 = 24.3% 가 되어 4잔을 모두 정확하게 구분해야만 유의수준 5%기준에서 우연히 순서를 맞추었을 가능성을 기각할 수 있게 됩니다. 

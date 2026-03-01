@@ -70,7 +70,7 @@ Box 1 | Recommendations to avoid overuse and misuse of AI in clinical research 
 - A high AUC is not necessarily a mark of quality,
 - as the ML model might be over-fit  (Fig. 1).
 - Figure 1 **Model fitting**
-    ![](../img/Figure1.png)
+    ![](/img/Figure1.png)
 - When a traditional regression technique is applied and compared against ML algorithms,
     - the more sophisticated ML models often offer
     - only marginal accuracy gains,
@@ -175,4 +175,4 @@ Box 1 | Recommendations to avoid overuse and misuse of AI in clinical research 
             - which  would otherwise sow distrust and cause patient harm
 
 ## Table 1: Definitions of several key terms in machine learning
-![](../img/Table1.png)
+![](/img/Table1.png)

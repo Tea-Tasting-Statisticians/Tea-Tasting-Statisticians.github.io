@@ -76,7 +76,7 @@ author: <Tea Tasting Lady>
 - AI 활용한 제품의 심사를 위해 유연하고 과학에 기반한 규제 계획(adaptive, science-based regulatory scheme)이 필요함
 - 의료기기에 대해서
 	- TPLC Total Product Life Cycle 방식 도입함
-		- ![](../img/Pasted image 20241017124554.png)
+		- ![](/img/Pasted image 20241017124554.png)
 	- 새로운 기술 적용을 위한 혁신적 프로그램(e.g., Software Precertification Pilot Program)에 대해서도 열려 있음
 
 #### Flexible Approaches Across the Spectrum of AI Models 
@@ -92,12 +92,12 @@ author: <Tea Tasting Lady>
 - 의료 제품의 개발에 AI가 활용 잠재성이 높음
 	- 타겟 약물 식별, 선별 및 후보물질 선별, PK/PD 모델링 등에 적용 
 	- Box1
-		- ![](../img/Pasted image 20241017125720.png)
+		- ![](/img/Pasted image 20241017125720.png)
 - FDA 규제 담당자는 개발된 최종 제품의 이점이 위험도보다 더 높은 지(benefits outweigh its risk for that intended use) 적절히 평가할 수 있어야 함 
 - 임상 연구 및 시판 후 감시와 평가에도 AI 활용이 가능함 
 	- 환자 모집, 임상 시험 관리, 임상 자료 수집, 시판 후 조사 와 평가에 적용
 	- Box2 
-		- ![](../img/Pasted image 20241017130109.png)
+		- ![](/img/Pasted image 20241017130109.png)
 
 #### Preparing for the Unknowns of LLMs and Generative AI
 - 허가받은 LLM 제품은 아직 없음

@@ -31,7 +31,7 @@ Superiority trial의 경우는 0을 기준으로 superior 여부를  평가하�
 아래의 Sample size 공식은 양측 검정(Test for Equality)에  대한 공식으로, 설정한 유의수준 alpha가 Zalpha/2 로 반영되어  
 있습니다.
 
-![](../img/sample_size_formula.png)
+![](/img/sample_size_formula.png)
 
 Sample size 계산은 Test for Equality인 경우에는 양측 검정에서의 alpha/2 = 0.025, Non-inferiority/ Superiority의 경우에는 단측 검정임을 반영하여 
 alpha = 0.025를 사용하기 때문에 결과적으로 sample size 계산 결과는 동일합니다.

@@ -16,4 +16,4 @@ A similar discussion appears in the estimand framework. An estimand is a precise
 
 Among strategies for handling intercurrent events, there is something called the treatment policy strategy. Even if rescue medication actually occurs, this is a method of proceeding with the analysis as if rescue medication did not occur. In superiority trials, this strategy works in the direction of narrowing the difference between the treatment group's effect and the control group's effect, so the estimand presents a more conservative estimate. Nevertheless, if statistically significant results are obtained, it proves that there is an effect despite conservative assumptions. However, in non-inferiority trials or equivalence trials, the treatment policy strategy should be used with caution. This is because it will work in the direction of reducing the difference between the two groups. This seemed similar to the non-comparative data case in adaptive design mentioned above.
 
-![](../img/adaptive_design_noninferiority_trial.png) 
+![](/img/adaptive_design_noninferiority_trial.png) 

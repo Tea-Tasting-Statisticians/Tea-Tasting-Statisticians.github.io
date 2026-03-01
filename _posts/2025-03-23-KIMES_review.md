@@ -2,7 +2,7 @@
 title: 국제의료기기 병원설비전시회 KIMES 후기
 date: 2025-03-23
 categories: [KOR, etc (KOR)]
-tags: [KIMES]     # lower case 
+tags: [kimes]     # lower case 
 author: <Tea Tasting Gentleman>
 math: true
 --- 

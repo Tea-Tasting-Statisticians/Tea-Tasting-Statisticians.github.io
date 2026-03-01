@@ -3,7 +3,7 @@ title: 의료기기의 실사용증거 적용에 대한 가이드라인 후기
 date: 2025-02-23
 categories: [KOR,Real World Evidence]
 math : true
-tags: [Real World Evidence, Real World Data]     # TAG names should always be lowercase
+tags: [real world evidence, real world data]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
 

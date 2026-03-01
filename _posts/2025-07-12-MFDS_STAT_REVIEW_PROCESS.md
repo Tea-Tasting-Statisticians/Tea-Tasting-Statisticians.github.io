@@ -202,17 +202,17 @@ author: <Tea Tasting Lady>
 ## 임상통계 검토서 작성기준 
 - [식약처 원문 링크](https://www.mfds.go.kr/brd/m_210/view.do?seq=15028&srchFr=&srchTo=&srchWord=%ED%86%B5%EA%B3%84&srchTp=0&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&Data_stts_gubun=C9999&page=1)
 
-![](../img/Pasted image 20250712193112.png)
+![](/img/Pasted image 20250712193112.png)
 ## 임상통계 검토서의 구성
 - 임상시험계획서 검토 요약은 계획서 별로 각각 작성한다 
 - 임상결과보고서의 검토요약은 임상시험별로 각각 작성한다 
 
 ## 임상통계 검토서 양식
-![](../img/Pasted image 20250712193310.png)
-![](../img/Pasted image 20250712193400.png)
+![](/img/Pasted image 20250712193310.png)
+![](/img/Pasted image 20250712193400.png)
 
 ## [붙임1] 검토의견
-![](../img/Pasted image 20250712193443.png)
+![](/img/Pasted image 20250712193443.png)
 
 ## [붙임2] 임상통계 검토요약
-![](../img/Pasted image 20250712193519.png)
+![](/img/Pasted image 20250712193519.png)

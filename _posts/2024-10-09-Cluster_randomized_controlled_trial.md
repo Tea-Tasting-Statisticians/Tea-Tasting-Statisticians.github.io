@@ -3,7 +3,7 @@ title: Cluster Ranodmized Controlled Trial
 date: 2024-10-09
 categories: [KOR,Clinical Trial Designs, Advanced designs for clinical trial]
 math: true
-tags: [cluster randomized controlled trial, RCT, pragmatic trial]     # TAG names should always be lowercase
+tags: [cluster randomized controlled trial, rct, pragmatic trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
 

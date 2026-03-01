@@ -2,7 +2,7 @@
 title: Considerations Regarding Non-Interventional Studies for Drug and Biological Products Guidance for Industry
 date: 2025-01-12
 categories: [KOR,Real World Evidence]
-tags: [RWE,RWD,real world evidence, real world data, protocol, statistical analysis plan, FDA]     # TAG names should always be lowercase
+tags: [rwe,rwd,real world evidence, real world data, protocol, statistical analysis plan, fda]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
 

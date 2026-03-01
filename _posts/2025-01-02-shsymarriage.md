@@ -2,7 +2,7 @@
 title: From Statistical Significance to Significant Others
 date: 2025-01-02
 categories: [ENG, Marriage]
-tags: [Gentleman, Lady, Marriage]     # TAG names should always be lowercase
+tags: [gentleman, lady, marriage]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
 🎊 Personal Milestone Update 🎊
@@ -38,4 +38,4 @@ Thank you to everyone who witnessed and celebrated this special moment with us. 
 
 앞으로 서로 사랑하고, 배려하며 하나님을 닮아가겠습니다. 와서 우리의 결혼의 증인이 되어주시고 축하해주셔서 감사합니다!
 
-![](../img/shsymarriage.jpeg)
+![](/img/shsymarriage.jpeg)

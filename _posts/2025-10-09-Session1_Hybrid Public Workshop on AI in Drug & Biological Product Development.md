@@ -8,7 +8,7 @@ math: true
 --- 
 # AI in Drug & Biological Product Development Hybrid Public Workshop 2025
 
-![Event_Slide](../img/image.png)
+![Event_Slide](/img/image.png)
 
 ## Introduction
 - AI/ML 적용은 아직 초기 단계가 대부분임 
@@ -16,7 +16,7 @@ math: true
 - Perception of AI is really important 
 - AI를 활용한 Innovation 을 어떻게 support 할 것인가? 
 
-![Agenda_Slide](../img/image-1.png)
+![Agenda_Slide](/img/image-1.png)
 
 ## Keynotes  
 ### by Shantanu Nundy
@@ -103,7 +103,7 @@ math: true
 - 앞으로도 계속 의미있고 유용한 Guidance 를 만들기 위해 계속 노력할 것임 
 
 ## Session 1: Where are we now? 
-![Session1_Slide](../img/image-2.png)
+![Session1_Slide](/img/image-2.png)
 - by Moderator M. Khair Elzarrd 
 	- 이번 세션에서 의미있는 논의가 이루어지기를 원함 
 	- Panel 소개

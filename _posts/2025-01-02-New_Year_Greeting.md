@@ -11,4 +11,4 @@ May we approach our work with clarity and purpose, finding satisfaction in disco
 Like the reliable methods we depend on in statistics, let's move forward with confidence and precision toward our professional goals.  
 Here's to another year of helping others make well-informed decisions through careful analysis and thoughtful practice.
 
-![](../img/UMP_test_wiki.png)
+![](/img/UMP_test_wiki.png)

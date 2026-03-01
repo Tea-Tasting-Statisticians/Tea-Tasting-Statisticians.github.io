@@ -16,4 +16,4 @@ When displaying means in bar graphs or line graphs, standard error is often disp
 
 To summarize, standard deviation is a broad concept that refers to the degree of data dispersion, while standard error is a concept that refers to the degree of dispersion of statistic. Both are standard deviations.
 
-![](../img/standard_deviation_error.jpeg)
+![](/img/standard_deviation_error.jpeg)
