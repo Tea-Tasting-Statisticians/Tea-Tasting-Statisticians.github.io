@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2026-02-22-Most important statistical ideas of the past 50 years_Gelman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-02-22-Most important statistical ideas of the past 50 years_Gelman"
             }
           }
         ]
@@ -185,10 +185,14 @@
   },
   "active": "2ec831d5aecbd422",
   "lastOpenFiles": [
+    "_posts/robots.txt.sb-5bf16bc3-peXKY8",
+    "_posts/2026-03-01-Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv.md",
+    "_posts/2026-03-01-Neuroscience_to_Read_Before_You_Get_Stupid_ENG.md",
+    "_posts/2026-03-01-Neuroscience_to_Read_Before_You_Get_Stupid_KOR.md",
+    "_posts/2026-02-22-Most important statistical ideas of the past 50 years_Gelman.md",
+    "README.md",
     "title_image.jpg",
     "title_image.jpeg",
-    "README.md",
-    "_posts/2026-03-01-Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv.md",
     "_site/about/index.html",
     "_site/about",
     "_site/archives/index.html",
@@ -209,8 +213,6 @@
     "_site/assets/img/favicons/apple-touch-icon.png",
     "_site/title_image.jpeg",
     "_site/img/충돌부구조.png",
-    "_site/img/스크린샷 2026-03-01 오후 5.24.57.png",
-    "_posts/2026-03-01-Neuroscience_to_Read_Before_You_Get_Stupid_ENG.md",
-    "_posts/2026-03-01-Neuroscience_to_Read_Before_You_Get_Stupid_KOR.md"
+    "_site/img/스크린샷 2026-03-01 오후 5.24.57.png"
   ]
 }
