@@ -2,9 +2,9 @@
 title: Framework for FDA's Real-World Evidence Program part 1
 date: '2024-10-26'
 categories:
-- KOR
 - Real World Evidence
 tags:
+- lang-kor
 - randomized controlled trial
 - real world evidence
 - pragmatic trial

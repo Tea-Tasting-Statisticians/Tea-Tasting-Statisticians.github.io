@@ -1,10 +1,12 @@
 ---
 title: 식약처 의료기기 임상관련 통계업무
+description: A field view of statistical tasks that matter most in device regulatory
+  workflows.
 date: '2025-02-23'
 categories:
-- KOR
-- Clinical Trial Designs
+- Clinical Trial Design
 tags:
+- lang-kor
 - clinical trial
 author: Tea Tasting Lady
 math: true

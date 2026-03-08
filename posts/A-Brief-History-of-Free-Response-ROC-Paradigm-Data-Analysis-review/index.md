@@ -2,9 +2,9 @@
 title: A Brief History of Free-Response ROC Paradigm Data Analysis 리뷰
 date: '2024-09-18'
 categories:
-- KOR
 - Medical AI
 tags:
+- lang-kor
 - performance metric
 - afroc
 - medical ai

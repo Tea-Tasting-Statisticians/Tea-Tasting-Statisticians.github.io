@@ -1,10 +1,12 @@
 ---
 title: 의료기기의 실사용증거 적용에 대한 가이드라인 후기
+description: Quick interpretation of MFDS device RWE guidance and where teams usually
+  struggle.
 date: '2025-02-23'
 categories:
-- KOR
 - Real World Evidence
 tags:
+- lang-kor
 - real world evidence
 - real world data
 author: Tea Tasting Gentleman

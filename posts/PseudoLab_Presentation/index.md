@@ -2,9 +2,9 @@
 title: 가짜연구소 발표 후기
 date: '2025-03-29'
 categories:
-- KOR
-- etc (KOR)
+- Clinical Trial Design
 tags:
+- lang-kor
 - pseudolab
 - presentation
 - adaptive design

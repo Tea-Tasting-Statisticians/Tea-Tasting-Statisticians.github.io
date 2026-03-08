@@ -2,9 +2,9 @@
 title: 통계적 유의성 vs 임상적 유의성
 date: '2024-11-01'
 categories:
-- KOR
-- Clinical Trial Designs
+- Clinical Trial Design
 tags:
+- lang-kor
 - clinical significance
 - statistical significance
 author: Tea Tasting Lady

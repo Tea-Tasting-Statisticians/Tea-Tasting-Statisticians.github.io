@@ -1,10 +1,10 @@
 ---
-title: RWE guideline causal inference part2 (ENG)
+title: RWE guideline causal inference part2
 date: '2024-12-11'
 categories:
-- ENG
-- Real World Evidence (ENG)
+- Real World Evidence
 tags:
+- lang-eng
 - real world evidence
 - causal inference
 - graphical model

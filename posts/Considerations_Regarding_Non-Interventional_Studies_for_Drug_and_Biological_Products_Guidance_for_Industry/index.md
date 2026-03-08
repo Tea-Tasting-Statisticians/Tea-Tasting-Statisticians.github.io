@@ -1,11 +1,13 @@
 ---
 title: Considerations Regarding Non-Interventional Studies for Drug and Biological
   Products Guidance for Industry
+description: Key takeaways for planning non-interventional studies that can support
+  regulatory use.
 date: '2025-01-12'
 categories:
-- KOR
 - Real World Evidence
 tags:
+- lang-kor
 - rwe
 - rwd
 - real world evidence

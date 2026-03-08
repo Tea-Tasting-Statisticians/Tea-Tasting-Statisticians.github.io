@@ -1,11 +1,13 @@
 ---
 title: Use of Real-World Evidence to Support Regulatory Decision-Making for Medical
   Devices
+description: What regulators expect when using real-world evidence in medical device
+  decisions.
 date: '2025-01-19'
 categories:
-- KOR
-- Clinical Trial Designs
+- Clinical Trial Design
 tags:
+- lang-kor
 - clinical trial
 author: Tea Tasting Gentleman
 math: true

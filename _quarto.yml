@@ -13,7 +13,7 @@ timezone: Asia/Seoul
 
 website:
   title: "Tea Tasting Statisticians"
-  description: "Brewing Up Statistical Insights"
+  description: "Biostatistics and regulatory guidance for MedTech, pharma, and clinical teams."
   site-url: https://tea-tasting-statisticians.com
   open-graph: true
   twitter-card: true
@@ -40,14 +40,21 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/systat/
         text: "Tea Tasting Lady"
+      - icon: rss
+        href: /posts/index.xml
+        text: "Subscribe via RSS"
     contents:
       - text: Home
         href: index.qmd
+      - text: Start Here
+        href: start-here.qmd
+      - text: FDA Guidance Digest
+        href: guidance-watch.qmd
       - text: Posts
         href: posts/index.qmd
       - text: Categories
         href: categories.qmd
-      - text: Tags
+      - text: Problem Index
         href: tags.qmd
       - text: Archives
         href: archives.qmd
@@ -81,6 +88,22 @@ format:
       - text: |
           <script data-goatcounter="https://tea-tasting-statisticians.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
           <meta name="google-site-verification" content="CDmwxkfajMdAyUWqJaIldv9oPmm7Xi2gwd8CHdzkUgc">
+    include-after-body:
+      - text: |
+          <script>
+            document.addEventListener("DOMContentLoaded", function () {
+              if (!/^\/posts\/[^/]+\/?$/.test(window.location.pathname)) return;
+              var shareUrl = encodeURIComponent(window.location.href);
+              var shareText = encodeURIComponent(document.title + " | Tea Tasting Statisticians");
+              var a = document.createElement("a");
+              a.href = "https://www.linkedin.com/sharing/share-offsite/?url=" + shareUrl + "&summary=" + shareText;
+              a.className = "linkedin-share-fab";
+              a.target = "_blank";
+              a.rel = "noopener";
+              a.textContent = "Share on LinkedIn";
+              document.body.appendChild(a);
+            });
+          </script>
 
 execute:
   freeze: auto

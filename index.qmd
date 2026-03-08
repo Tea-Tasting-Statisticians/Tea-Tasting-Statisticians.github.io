@@ -1,15 +1,50 @@
 ---
 title: Tea Tasting Statisticians
-listing:
-  contents: posts/*/index.md
-  type: default
-  sort: "date desc"
-  max-items: 12
-  sort-ui: false
-  filter-ui: false
-  categories: true
 ---
 
-We are **Tea Tasting Statisticians**. This blog shares practical notes on biostatistics, regulatory science, clinical trial design, and real-world evidence.
+## Mission
 
-For all posts, visit the [Posts](/posts/) page.
+Tea Tasting Statisticians is a practical biostatistics and regulatory science blog for **MedTech, pharma, and clinical teams**.
+We translate FDA/MFDS/ICH guidance into operational decisions for study design, evidence strategy, and submission readiness.
+If you are a clinician, medical affairs lead, clinical operations manager, or product owner without a statistics degree, this site is built for you.
+
+## Start Here
+
+- [Start Here](/start-here/): onboarding path by role and common questions.
+- [FDA Guidance Digest](/guidance-watch/): curated, high-signal guidance summaries in Korean and English.
+- [Problem Index](/tags/): pick a practical problem and jump to relevant posts.
+
+## Featured: FDA Guidance Digest
+
+- [Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause](/posts/Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv/)  
+  Why this matters: clarifies what evidence logic regulators expect when classic RCT pathways are constrained.
+- [FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests](/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/)  
+  Why this matters: helps non-statisticians understand what must be explicit in diagnostic test reporting.
+- [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices](/posts/RWE_medical_device_FDA/)  
+  Why this matters: shows how RWE can support device submissions and where review risk usually appears.
+
+## Who Writes This
+
+::: {.callout-note}
+**Tea Tasting Lady**  
+Senior biostatistician with 10+ years in regulatory science, including 7 years at MFDS and 5 years in industry.
+
+**Tea Tasting Gentleman**  
+Biostatistician and PhD candidate in clinical epidemiology focused on diabetes, RWE, and innovative trial designs.
+:::
+
+## Recommended Recent Reads
+
+- [Connection between noncomparative adaptive design and estimand framework](/posts/Noncomparative_adaptive_design_estimand_framework/)
+- [Adjustment of Baseline Covariates in Randomized Controlled Trial](/posts/Adjustment_of_Baseline_Covariates/)
+- [FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests](/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/)
+- [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices](/posts/RWE_medical_device_FDA/)
+- [식약처 의료기기 임상관련 통계업무](/posts/Medical-Device-Biostatistician-Work/)
+
+For full chronological browsing, go to [All Posts](/posts/).
+
+## Stay Connected
+
+- Follow authors on LinkedIn: [Tea Tasting Lady](https://www.linkedin.com/in/systat/) and [Tea Tasting Gentleman](https://www.linkedin.com/in/shstat1729/)
+- Subscribe by RSS: [posts feed](/posts/index.xml)
+- Discuss posts in comments (Giscus) and share to your team with the LinkedIn share button on each post.

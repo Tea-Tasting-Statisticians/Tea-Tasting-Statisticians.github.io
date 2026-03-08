@@ -1,11 +1,10 @@
 ---
-title: Switching noninferiority and superiority trial (ENG)
+title: Switching noninferiority and superiority trial
 date: '2024-10-26'
 categories:
-- ENG
-- Clinical Trial Designs (ENG)
-- Switching Trials (ENG)
+- Clinical Trial Design
 tags:
+- lang-eng
 - switching trial
 - noninferiority
 - superiority

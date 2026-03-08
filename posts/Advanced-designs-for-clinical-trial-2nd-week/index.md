@@ -2,10 +2,9 @@
 title: Pragmatic trial
 date: '2024-09-18'
 categories:
-- KOR
-- Clinical Trial Designs
-- Advanced designs for clinical trial
+- Clinical Trial Design
 tags:
+- lang-kor
 - clinical trial
 - pragmatic trial
 - efficacy

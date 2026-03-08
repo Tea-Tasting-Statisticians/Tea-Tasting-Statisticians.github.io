@@ -2,13 +2,11 @@
 title: 식약처 임상통계 심사 평가시 일반적 고려사항
 date: '2025-07-12'
 categories:
-- KOR
 - Regulatory Science
-- 식약처
 tags:
+- lang-kor
 - regulatory science
 - mfds
-- korean
 author: Tea Tasting Lady
 math: true
 ---

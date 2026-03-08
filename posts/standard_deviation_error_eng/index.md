@@ -2,9 +2,9 @@
 title: Standard deviation and standard error
 date: '2025-10-03'
 categories:
-- ENG
-- etc
+- Statistics Fundamentals
 tags:
+- lang-eng
 - standard deviation
 - standard error
 author: Tea Tasting Gentleman

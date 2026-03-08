@@ -2,9 +2,9 @@
 title: 표준편차와 표준오차
 date: '2025-10-03'
 categories:
-- KOR
-- etc (KOR)
+- Statistics Fundamentals
 tags:
+- lang-kor
 - standard deviation
 - standard error
 author: Tea Tasting Gentleman

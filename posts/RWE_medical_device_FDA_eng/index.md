@@ -1,11 +1,13 @@
 ---
 title: Use of Real-World Evidence to Support Regulatory Decision-Making for Medical
-  Devices (ENG)
+  Devices
+description: How to frame RWE for device regulatory decisions without losing review
+  credibility.
 date: '2025-01-19'
 categories:
-- ENG
-- Real World Evidence (ENG)
+- Real World Evidence
 tags:
+- lang-eng
 - clinical trial
 author: Tea Tasting Gentleman
 math: true

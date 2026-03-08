@@ -2,10 +2,9 @@
 title: Biostat Guidance
 date: '2024-09-21'
 categories:
-- KOR
-- Sharing Useful Information
-- 가짜연구소 스터디 자료
+- Regulatory Science
 tags:
+- lang-kor
 - biostat
 - biostatistics
 - regulatory guidance

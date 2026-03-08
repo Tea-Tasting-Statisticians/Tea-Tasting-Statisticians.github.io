@@ -2,10 +2,9 @@
 title: FDA Perspective on the Regulation of AI in Health Care and Biomedicine
 date: '2024-10-18'
 categories:
-- KOR
 - Regulatory Science
-- FDA
 tags:
+- lang-kor
 - fda
 - medical ai
 author: Tea Tasting Lady

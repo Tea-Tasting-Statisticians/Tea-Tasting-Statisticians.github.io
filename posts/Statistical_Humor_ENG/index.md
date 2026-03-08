@@ -1,10 +1,10 @@
 ---
-title: Statistical humor (ENG)
+title: Statistical humor
 date: '2025-03-02'
 categories:
-- ENG
-- etc
+- Statistics Fundamentals
 tags:
+- lang-eng
 - statistics
 - humor
 - data science

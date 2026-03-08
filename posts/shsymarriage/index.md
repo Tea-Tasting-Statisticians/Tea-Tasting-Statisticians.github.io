@@ -2,9 +2,9 @@
 title: From Statistical Significance to Significant Others
 date: '2025-01-02'
 categories:
-- ENG
-- Marriage
+- Notes & Reads
 tags:
+- lang-eng
 - gentleman
 - lady
 - marriage

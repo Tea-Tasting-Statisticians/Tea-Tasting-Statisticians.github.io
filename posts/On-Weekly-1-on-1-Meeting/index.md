@@ -2,11 +2,10 @@
 title: Weekly 1 on 1 Meeting
 date: '2025-06-07'
 categories:
-- KOR
-- tip (KOR)
+- Notes & Reads
 tags:
+- lang-kor
 - tip
-- korean
 author: Tea Tasting Lady
 math: true
 ---

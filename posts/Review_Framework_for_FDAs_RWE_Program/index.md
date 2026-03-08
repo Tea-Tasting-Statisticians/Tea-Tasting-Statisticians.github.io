@@ -1,10 +1,12 @@
 ---
 title: Comment on Framework for FDA's Real-World Evidence Program - part 1
+description: How the FDA RWE framework translates into concrete evidence strategy
+  choices.
 date: '2024-11-01'
 categories:
-- KOR
 - Real World Evidence
 tags:
+- lang-kor
 - randomized controlled trial
 - real world evidence
 - pragmatic trial

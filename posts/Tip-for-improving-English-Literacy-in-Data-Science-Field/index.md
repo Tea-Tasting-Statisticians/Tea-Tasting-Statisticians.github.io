@@ -2,9 +2,9 @@
 title: 데이터 사이언스 분야 영어 실력 늘리는 Tip
 date: '2025-04-13'
 categories:
-- KOR
-- tip (KOR)
+- Notes & Reads
 tags:
+- lang-kor
 - tip
 author: Tea Tasting Lady
 math: true

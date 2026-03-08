@@ -2,9 +2,9 @@
 title: Adaptive design & Master protocol 스터디 모집 (영어로 진행)
 date: '2025-02-23'
 categories:
-- KOR
-- Adaptive Design and Master Protocol
+- Clinical Trial Design
 tags:
+- lang-kor
 - Master Protocol
 - Adaptive Design
 - oncology

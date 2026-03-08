@@ -3,9 +3,9 @@ title: DELTA2 guidance on choosing the target difference and undertaking and rep
   the sample size calculation for a RCT_Review
 date: '2024-11-17'
 categories:
-- ENG
-- Performance Metric (ENG)
+- Clinical Trial Design
 tags:
+- lang-eng
 - study design
 - sample size
 - target difference

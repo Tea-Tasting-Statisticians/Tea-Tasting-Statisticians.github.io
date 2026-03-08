@@ -3,10 +3,9 @@ title: Session1_AI in Drug & Biological Product Development Hybrid Public Worksh
   2025
 date: '2025-10-09'
 categories:
-- KOR
-- etc (KOR)
+- Notes & Reads
 tags:
-- korean
+- lang-kor
 author: Tea Tasting Lady
 math: true
 ---

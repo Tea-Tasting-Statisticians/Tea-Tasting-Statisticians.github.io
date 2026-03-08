@@ -1,0 +1,27 @@
+---
+title: FDA Guidance Digest
+comments: false
+toc: false
+---
+
+High-value regulatory guidance summaries and interpretation posts.
+
+## Core Guidance Summaries
+
+- [Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause](/posts/Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv/)
+- [FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests](/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/)
+- [Considerations Regarding Non-Interventional Studies for Drug and Biological Products Guidance for Industry](/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry/)
+- [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices](/posts/RWE_medical_device_FDA/)
+
+## Framework and Context Posts
+
+- [Comment on Framework for FDA's Real-World Evidence Program - part 1](/posts/Review_Framework_for_FDAs_RWE_Program/)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 2](/posts/Review_Framework_for_FDAs_RWE_Program_part2/)
+- [Comment on ICH M14 Guideline - part 1](/posts/Review_ICH_M14_Guideline_part1/)
+- [Comment on ICH M14 Guideline - part 2](/posts/Review_ICH_M14_Guideline_part2/)
+
+## How to use this page
+
+- Use these posts as briefing notes before protocol meetings.
+- Send links to cross-functional stakeholders to align on evidence expectations.
+- Pair each guidance post with one method post from [Problem Index](/tags/) to convert policy into analysis decisions.

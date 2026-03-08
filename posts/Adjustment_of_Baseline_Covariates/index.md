@@ -1,11 +1,12 @@
 ---
 title: Adjustment of Baseline Covariates in Randomized Controlled Trial
+description: Why covariate adjustment affects precision, interpretation, and regulatory
+  confidence.
 date: '2025-10-20'
 categories:
-- KOR
-- Clinical Trial Designs
-- Advanced designs for clinical trial
+- Clinical Trial Design
 tags:
+- lang-kor
 - clinical trial design
 - adjustment of baseline covariates
 - precision

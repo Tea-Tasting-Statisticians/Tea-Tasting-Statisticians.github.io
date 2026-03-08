@@ -2,10 +2,9 @@
 title: Switching noninferiority and superiority trial
 date: '2024-10-19'
 categories:
-- KOR
-- Clinical Trial Designs
-- Switching Trials
+- Clinical Trial Design
 tags:
+- lang-kor
 - switching trial
 - noninferiority
 - superiority

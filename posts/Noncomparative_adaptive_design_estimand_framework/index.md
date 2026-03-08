@@ -1,11 +1,12 @@
 ---
 title: Connection between noncomparative adaptive design and estimand framework
+description: How estimand thinking can de-risk adaptive and non-comparative trial
+  decisions.
 date: '2025-11-15'
 categories:
-- ENG
-- Clinical Trial Designs (ENG)
-- Advanced designs for clinical trial (ENG)
+- Clinical Trial Design
 tags:
+- lang-eng
 - clinical trial design
 - estimand framework
 - non-inferiority

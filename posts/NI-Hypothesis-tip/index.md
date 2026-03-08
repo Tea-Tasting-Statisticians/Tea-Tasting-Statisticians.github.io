@@ -2,9 +2,9 @@
 title: 비열등성 가설 설정 tip
 date: '2025-01-18'
 categories:
-- KOR
-- Clinical Trial Designs
+- Clinical Trial Design
 tags:
+- lang-kor
 - clinical trial
 author: Tea Tasting Lady
 math: true

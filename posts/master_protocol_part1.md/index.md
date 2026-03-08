@@ -2,10 +2,9 @@
 title: Master protocol part 1
 date: '2024-10-19'
 categories:
-- KOR
-- Clinical Trial Designs
-- Advanced designs for clinical trial
+- Clinical Trial Design
 tags:
+- lang-kor
 - master protocol
 - basket trial
 - umbrella trial

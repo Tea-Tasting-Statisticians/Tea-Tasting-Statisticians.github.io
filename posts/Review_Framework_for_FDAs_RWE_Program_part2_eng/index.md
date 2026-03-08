@@ -1,10 +1,10 @@
 ---
-title: Comment on Framework for FDA's Real-World Evidence Program - part 2 (ENG)
+title: Comment on Framework for FDA's Real-World Evidence Program - part 2
 date: '2024-11-01'
 categories:
-- ENG
-- Real World Evidence (ENG)
+- Real World Evidence
 tags:
+- lang-eng
 - randomized controlled trial
 - real world evidence
 - pragmatic trial

@@ -2,9 +2,9 @@
 title: New Year Greeting
 date: '2025-01-02'
 categories:
-- ENG
-- etc
+- Medical AI
 tags:
+- lang-eng
 - ump
 - uniformly most powerful test
 author: Tea Tasting Lady

@@ -2,10 +2,9 @@
 title: Steps to avoid over use and misuse of ML in clinical research Review
 date: '2024-12-01'
 categories:
-- ENG
-- Clinical Trial Designs (ENG)
-- Medical AI (ENG)
+- Clinical Trial Design
 tags:
+- lang-eng
 - clinical trial designs
 - medical ai
 author: Tea Tasting Lady

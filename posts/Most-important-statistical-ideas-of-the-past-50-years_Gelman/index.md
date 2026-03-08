@@ -2,10 +2,9 @@
 title: Most important statistical ideas of the past 50 years_Gelman
 date: '2026-02-22'
 categories:
-- ENG
-- Statistics (ENG)
+- Statistics Fundamentals
 tags:
-- korean
+- lang-eng
 author: Tea Tasting Lady
 math: true
 ---

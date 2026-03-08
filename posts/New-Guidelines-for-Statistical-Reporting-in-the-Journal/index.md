@@ -2,10 +2,9 @@
 title: New Guidelines for Statistical Reporting in the Journal
 date: '2025-01-12'
 categories:
-- ENG
-- Clinical Trial Designs (ENG)
-- Medical AI (ENG)
+- Clinical Trial Design
 tags:
+- lang-eng
 - clinical trial designs
 - pvalue
 author: Tea Tasting Lady

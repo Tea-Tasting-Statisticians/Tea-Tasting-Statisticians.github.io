@@ -3,9 +3,9 @@ title: Reflection Paper on Use of Real World Data in Non-Interventional Studies 
   Generate Real-World Evidence
 date: '2024-12-11'
 categories:
-- KOR
 - Real World Evidence
 tags:
+- lang-kor
 - fda
 - non-interventional study
 - real world evidence

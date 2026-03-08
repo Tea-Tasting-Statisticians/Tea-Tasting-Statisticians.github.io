@@ -2,10 +2,9 @@
 title: Sample size calculation in terms of epsilon and delta
 date: '2024-10-01'
 categories:
-- KOR
-- Clinical Trial Designs
-- Sample size calculation
+- Clinical Trial Design
 tags:
+- lang-kor
 - true mean difference
 - clinical significance
 - statistical significance

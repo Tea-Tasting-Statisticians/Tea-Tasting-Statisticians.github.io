@@ -2,9 +2,9 @@
 title: Project Application; Adaptive Design and Master Protocol
 date: '2025-02-23'
 categories:
-- ENG
-- Adaptive Design and Master Protocol (ENG)
+- Clinical Trial Design
 tags:
+- lang-eng
 - Master Protocol
 - Adaptive Design
 - oncology

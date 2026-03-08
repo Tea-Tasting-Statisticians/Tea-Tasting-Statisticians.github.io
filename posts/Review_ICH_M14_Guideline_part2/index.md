@@ -2,9 +2,9 @@
 title: Comment on ICH M14 Guideline - part 2
 date: '2024-11-17'
 categories:
-- KOR
 - Real World Evidence
 tags:
+- lang-kor
 - safety
 - real world evidence
 - ich guideline

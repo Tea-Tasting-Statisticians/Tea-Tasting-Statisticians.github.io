@@ -1,0 +1,31 @@
+---
+title: Start Here
+comments: false
+toc: false
+---
+
+This page is for first-time readers who want practical regulatory statistics guidance quickly.
+
+## If you work in clinical/regulatory teams (non-statistician)
+
+1. [FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests](/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/)
+2. [Adjustment of Baseline Covariates in Randomized Controlled Trial](/posts/Adjustment_of_Baseline_Covariates/)
+3. [Connection between noncomparative adaptive design and estimand framework](/posts/Noncomparative_adaptive_design_estimand_framework/)
+
+## If you prepare device submissions
+
+1. [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices](/posts/RWE_medical_device_FDA/)
+2. [식약처 의료기기 임상관련 통계업무](/posts/Medical-Device-Biostatistician-Work/)
+3. [의료기기의 실사용증거 적용에 대한 가이드라인 후기](/posts/RWE_guidance_final/)
+
+## If you are new to trial design decisions
+
+1. [Introduction to advanced designs for clinical trial](/posts/Advanced-designs-for-clinical-trial-1st-week/)
+2. [Pragmatic trial](/posts/Advanced-designs-for-clinical-trial-2nd-week/)
+3. [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority.md/)
+
+## Recommended weekly reading routine
+
+- Read one guidance interpretation post from [FDA Guidance Digest](/guidance-watch/).
+- Read one method post from [Problem Index](/tags/).
+- Share one post with your clinical, RA/QA, or medical affairs team and discuss implications for your protocol.

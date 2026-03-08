@@ -1,11 +1,13 @@
 ---
 title: FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating
   Diagnostic Tests
+description: A practical reading guide for what FDA expects in diagnostic test study
+  reporting.
 date: '2025-06-28'
 categories:
-- KOR
-- Clinical Trial Designs
+- Clinical Trial Design
 tags:
+- lang-kor
 - clinical trial
 author: Tea Tasting Lady
 math: true

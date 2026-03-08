@@ -2,9 +2,9 @@
 title: RWE guideline week1 causal inference
 date: '2024-10-09'
 categories:
-- KOR
 - Real World Evidence
 tags:
+- lang-kor
 - causal inference
 - randomized controlled trial
 - rct

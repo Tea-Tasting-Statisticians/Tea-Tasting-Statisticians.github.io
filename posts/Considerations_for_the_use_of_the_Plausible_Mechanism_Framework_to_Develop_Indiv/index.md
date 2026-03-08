@@ -2,12 +2,13 @@
 title: Considerations for the use of the Plausible Mechanism Framework to Develop
   Individualized Therapies that Target Specific Genetic Conditions with Known Biological
   Cause
+description: FDA draft guidance explained for real submission planning when classic
+  RCT evidence is constrained.
 date: '2026-03-01'
 categories:
-- KOR
 - Regulatory Science
-- FDA
 tags:
+- lang-kor
 - genetic therapy
 - fda
 - guidance

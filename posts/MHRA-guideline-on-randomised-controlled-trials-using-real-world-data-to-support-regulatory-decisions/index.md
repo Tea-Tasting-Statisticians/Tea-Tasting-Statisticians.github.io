@@ -3,9 +3,9 @@ title: MHRA guideline on randomised controlled trials using real-world data to s
   regulatory decisions
 date: '2024-12-11'
 categories:
-- KOR
 - Real World Evidence
 tags:
+- lang-kor
 - mhra
 - non-interventional study
 - real world evidence

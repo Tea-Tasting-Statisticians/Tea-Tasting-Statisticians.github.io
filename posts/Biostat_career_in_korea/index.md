@@ -2,10 +2,9 @@
 title: 국내 임상통계 관련 진로 소개
 date: '2024-09-19'
 categories:
-- KOR
 - Regulatory Science
-- Biostat Career
 tags:
+- lang-kor
 - regulatory science
 - biostat career
 - 임상통계

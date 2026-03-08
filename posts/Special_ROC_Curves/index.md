@@ -2,9 +2,9 @@
 title: Speical ROC Curves
 date: '2024-09-28'
 categories:
-- KOR
-- Performance Metric
+- Medical AI
 tags:
+- lang-kor
 - performance metric
 - medical ai
 author: Tea Tasting Lady

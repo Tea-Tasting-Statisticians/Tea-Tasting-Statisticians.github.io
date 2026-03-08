@@ -4,6 +4,7 @@ date: '2025-05-24'
 categories:
 - Regulatory Science
 tags:
+- lang-kor
 - clinical trial
 - regulation
 author: Tea Tasting Lady

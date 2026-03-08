@@ -2,10 +2,9 @@
 title: 멍청해지기 전에 읽는 뇌과학 - 이인아 저 (독후감)
 date: '2026-03-01'
 categories:
-- KOR
-- etc (KOR)
+- Notes & Reads
 tags:
-- korean
+- lang-kor
 - neuroscience
 - book reading
 author: Tea Tasting Gentleman

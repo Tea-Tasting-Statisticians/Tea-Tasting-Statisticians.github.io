@@ -2,10 +2,9 @@
 title: Adaptive design
 date: '2024-11-17'
 categories:
-- KOR
-- Clinical Trial Designs
-- Advanced designs for clinical trial
+- Clinical Trial Design
 tags:
+- lang-kor
 - clinical trial
 - trial design
 author: Tea Tasting Gentleman

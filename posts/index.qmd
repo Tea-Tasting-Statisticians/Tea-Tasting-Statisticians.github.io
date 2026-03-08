@@ -9,3 +9,10 @@ listing:
   categories: true
   feed: true
 ---
+
+Use filters to narrow quickly:
+
+- Category filter: six content categories only
+- Tag filter: use `lang-kor` or `lang-eng` for language
+
+If you are new here, start with [Start Here](/start-here/) or [FDA Guidance Digest](/guidance-watch/).

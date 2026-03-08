@@ -2,9 +2,9 @@
 title: Fisher와 Tea Tasting Lady
 date: '2025-08-10'
 categories:
-- KOR
+- Notes & Reads
 tags:
-- korean
+- lang-kor
 author: Tea Tasting Lady
 math: true
 ---

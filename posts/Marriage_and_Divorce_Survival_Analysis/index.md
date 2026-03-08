@@ -2,9 +2,9 @@
 title: 결혼과 이혼률, 그리고 생존분석
 date: '2025-07-27'
 categories:
-- KOR
-- Survival Analysis (KOR)
+- Statistics Fundamentals
 tags:
+- lang-kor
 - survival analysis
 - divorce rate
 - marriage

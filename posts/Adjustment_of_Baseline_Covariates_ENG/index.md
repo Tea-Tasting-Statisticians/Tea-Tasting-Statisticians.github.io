@@ -1,11 +1,11 @@
 ---
-title: Adjustment of Baseline Covariates in Randomized Controlled Trial (ENG)
+title: Adjustment of Baseline Covariates in Randomized Controlled Trial
+description: When and how baseline covariate adjustment strengthens trial evidence.
 date: '2025-10-20'
 categories:
-- ENG
-- Clinical Trial Designs (ENG)
-- Advanced designs for clinical trial (ENG)
+- Clinical Trial Design
 tags:
+- lang-eng
 - clinical trial design
 - adjustment of baseline covariates
 - precision

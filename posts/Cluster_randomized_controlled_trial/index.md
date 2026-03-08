@@ -2,10 +2,9 @@
 title: Cluster Ranodmized Controlled Trial
 date: '2024-10-09'
 categories:
-- KOR
-- Clinical Trial Designs
-- Advanced designs for clinical trial
+- Clinical Trial Design
 tags:
+- lang-kor
 - cluster randomized controlled trial
 - rct
 - pragmatic trial

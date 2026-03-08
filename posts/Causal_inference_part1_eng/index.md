@@ -1,10 +1,10 @@
 ---
-title: RWE guideline causal inference part1 (ENG)
+title: RWE guideline causal inference part1
 date: '2024-12-11'
 categories:
-- ENG
-- Real World Evidence (ENG)
+- Real World Evidence
 tags:
+- lang-eng
 - causal inference
 - randomized controlled trial
 - rct
