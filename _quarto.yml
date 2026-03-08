@@ -1,0 +1,86 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - googlef47d389d46e6c4f0.html
+    - naver31517cb4b186ebfa9d807beab94a8228.html
+    - robots.txt
+    - img/**
+    - title_image.jpeg
+
+lang: en
+timezone: Asia/Seoul
+
+website:
+  title: "Tea Tasting Statisticians"
+  description: "Brewing Up Statistical Insights"
+  site-url: https://tea-tasting-statisticians.com
+  open-graph: true
+  twitter-card: true
+  google-analytics: "G-MEJWDXPCDV"
+  search:
+    location: sidebar
+    type: overlay
+  navbar:
+    title: false
+    logo: /title_image.jpeg
+    pinned: false
+    collapse-below: md
+  sidebar:
+    style: docked
+    collapse-level: 1
+    background: light
+    tools:
+      - icon: github
+        href: https://github.com/Tea-Tasting-Statisticians/Tea-Tasting-Statisticians.github.io
+        text: "GitHub repository"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shstat1729/
+        text: "Tea Tasting Gentleman"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/systat/
+        text: "Tea Tasting Lady"
+    contents:
+      - text: Home
+        href: index.qmd
+      - text: Posts
+        href: posts/index.qmd
+      - text: Categories
+        href: categories.qmd
+      - text: Tags
+        href: tags.qmd
+      - text: Archives
+        href: archives.qmd
+      - text: About
+        href: about.qmd
+  comments:
+    giscus:
+      repo: Tea-Tasting-Statisticians/Tea-Tasting-Statisticians.github.io
+      repo-id: R_kgDOMzgjQg
+      category: Q&A
+      category-id: DIC_kwDOMzgjQs4CilBR
+      mapping: pathname
+      reactions-enabled: true
+      input-position: bottom
+  page-footer:
+    left: |
+      Copyright &copy; 2026 Tea Tasting Statisticians
+    right: |
+      Built with [Quarto](https://quarto.org)
+
+format:
+  html:
+    date-format: "YYYY-MM-DD"
+    theme:
+      light:
+        - flatly
+        - mozilla.scss
+    css: styles.css
+    toc: false
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://tea-tasting-statisticians.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+          <meta name="google-site-verification" content="CDmwxkfajMdAyUWqJaIldv9oPmm7Xi2gwd8CHdzkUgc">
+
+execute:
+  freeze: auto

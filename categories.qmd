@@ -1,0 +1,216 @@
+---
+title: Categories
+comments: false
+toc: false
+---
+
+Browse posts grouped by category.
+
+## Adaptive Design and Master Protocol
+- [Adaptive design & Master protocol 스터디 모집 (영어로 진행)](/posts/Adaptive_design_and_master_protocol_project/) (2025-02-23)
+
+## Adaptive Design and Master Protocol (ENG)
+- [Project Application; Adaptive Design and Master Protocol](/posts/Adaptive_design_and_master_protocol_project_ENG/) (2025-02-23)
+
+## Advanced designs for clinical trial
+- [Adjustment of Baseline Covariates in Randomized Controlled Trial](/posts/Adjustment_of_Baseline_Covariates/) (2025-10-20)
+- [Adjustment of baseline covariates](/posts/Adjustment_basline_covariates/) (2024-11-17)
+- [Adaptive design](/posts/Adaptive_design/) (2024-11-17)
+- [Master protocol part 1](/posts/master_protocol_part1.md/) (2024-10-19)
+- [Cluster Ranodmized Controlled Trial](/posts/Cluster_randomized_controlled_trial/) (2024-10-09)
+- [Pragmatic trial](/posts/Advanced-designs-for-clinical-trial-2nd-week/) (2024-09-18)
+- [Introduction to advanced designs for clinical trial](/posts/Advanced-designs-for-clinical-trial-1st-week/) (2024-09-18)
+
+## Advanced designs for clinical trial (ENG)
+- [Connection between noncomparative adaptive design and estimand framework](/posts/Noncomparative_adaptive_design_estimand_framework/) (2025-11-15)
+- [Adjustment of Baseline Covariates in Randomized Controlled Trial (ENG)](/posts/Adjustment_of_Baseline_Covariates_ENG/) (2025-10-20)
+
+## Biostat Career
+- [국내 임상통계 관련 진로 소개](/posts/Biostat_career_in_korea/) (2024-09-19)
+
+## Clinical Trial Designs
+- [Adjustment of Baseline Covariates in Randomized Controlled Trial](/posts/Adjustment_of_Baseline_Covariates/) (2025-10-20)
+- [통계적 우월성 검정 가설 설정 (단측 검정 vs 양측 검정)](/posts/Hypothesis-Setting-in-Statistical-Superiority/) (2025-09-28)
+- [FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests](/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/) (2025-06-28)
+- [식약처 의료기기 임상관련 통계업무](/posts/Medical-Device-Biostatistician-Work/) (2025-02-23)
+- [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices](/posts/RWE_medical_device_FDA/) (2025-01-19)
+- [비열등성 가설 설정 tip](/posts/NI-Hypothesis-tip/) (2025-01-18)
+- [Adjustment of baseline covariates](/posts/Adjustment_basline_covariates/) (2024-11-17)
+- [Adaptive design](/posts/Adaptive_design/) (2024-11-17)
+- [통계적 유의성 vs 임상적 유의성](/posts/Clinical-significance-vs-Statistical-significance/) (2024-11-01)
+- [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority.md/) (2024-10-19)
+- [Master protocol part 1](/posts/master_protocol_part1.md/) (2024-10-19)
+- [Cluster Ranodmized Controlled Trial](/posts/Cluster_randomized_controlled_trial/) (2024-10-09)
+- [Sample size calculation in terms of epsilon and delta](/posts/Sample_size_calculation_epsilon_delta/) (2024-10-01)
+- [Pragmatic trial](/posts/Advanced-designs-for-clinical-trial-2nd-week/) (2024-09-18)
+- [Introduction to advanced designs for clinical trial](/posts/Advanced-designs-for-clinical-trial-1st-week/) (2024-09-18)
+
+## Clinical Trial Designs (ENG)
+- [Connection between noncomparative adaptive design and estimand framework](/posts/Noncomparative_adaptive_design_estimand_framework/) (2025-11-15)
+- [Adjustment of Baseline Covariates in Randomized Controlled Trial (ENG)](/posts/Adjustment_of_Baseline_Covariates_ENG/) (2025-10-20)
+- [New Guidelines for Statistical Reporting in the Journal](/posts/New-Guidelines-for-Statistical-Reporting-in-the-Journal/) (2025-01-12)
+- [Steps to avoid over use and misuse of ML in clinical research Review](/posts/Steps_to_avoid_overuse_and_misuse_of_machine_learning_in_clinical_research_Review/) (2024-12-01)
+- [Switching noninferiority and superiority trial (ENG)](/posts/switching_noninferiority_superiority_eng.md/) (2024-10-26)
+
+## ENG
+- [Neuroscience to Read Before You Get Stupid (ENG)](/posts/Neuroscience_to_Read_Before_You_Get_Stupid_ENG/) (2026-03-01)
+- [Most important statistical ideas of the past 50 years_Gelman](/posts/Most-important-statistical-ideas-of-the-past-50-years_Gelman/) (2026-02-22)
+- [Connection between noncomparative adaptive design and estimand framework](/posts/Noncomparative_adaptive_design_estimand_framework/) (2025-11-15)
+- [Adjustment of Baseline Covariates in Randomized Controlled Trial (ENG)](/posts/Adjustment_of_Baseline_Covariates_ENG/) (2025-10-20)
+- [Standard deviation and standard error](/posts/standard_deviation_error_eng/) (2025-10-03)
+- [Statistical humor (ENG)](/posts/Statistical_Humor_ENG/) (2025-03-02)
+- [Project Application; Adaptive Design and Master Protocol](/posts/Adaptive_design_and_master_protocol_project_ENG/) (2025-02-23)
+- [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices (ENG)](/posts/RWE_medical_device_FDA_eng/) (2025-01-19)
+- [New Guidelines for Statistical Reporting in the Journal](/posts/New-Guidelines-for-Statistical-Reporting-in-the-Journal/) (2025-01-12)
+- [Considerations Regarding Non-Interventional Studies for Drug and Biological Products Guidance for Industry (ENG)](/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry_ENG/) (2025-01-12)
+- [From Statistical Significance to Significant Others](/posts/shsymarriage/) (2025-01-02)
+- [New Year Greeting](/posts/New_Year_Greeting/) (2025-01-02)
+- [RWE guideline causal inference part2 (ENG)](/posts/Causal_inference_part2_eng/) (2024-12-11)
+- [RWE guideline causal inference part1 (ENG)](/posts/Causal_inference_part1_eng/) (2024-12-11)
+- [Steps to avoid over use and misuse of ML in clinical research Review](/posts/Steps_to_avoid_overuse_and_misuse_of_machine_learning_in_clinical_research_Review/) (2024-12-01)
+- [DELTA2 guidance on choosing the target difference and undertaking and reporting the sample size calculation for a RCT_Review](/posts/DELTA2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial_Review/) (2024-11-17)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 2 (ENG)](/posts/Review_Framework_for_FDAs_RWE_Program_part2_eng/) (2024-11-01)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 1 (ENG)](/posts/Review_Framework_for_FDAs_RWE_Program_eng/) (2024-11-01)
+- [Switching noninferiority and superiority trial (ENG)](/posts/switching_noninferiority_superiority_eng.md/) (2024-10-26)
+
+## FDA
+- [Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause](/posts/Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv/) (2026-03-01)
+- [FDA Perspective on the Regulation of AI in Health Care and Biomedicine](/posts/FDA-Perspective-on-the-Regulation-of-AI-in-Health-Care-and-Biomedicine_Review/) (2024-10-18)
+
+## KOR
+- [멍청해지기 전에 읽는 뇌과학 - 이인아 저 (독후감)](/posts/Neuroscience_to_Read_Before_You_Get_Stupid_KOR/) (2026-03-01)
+- [Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause](/posts/Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv/) (2026-03-01)
+- [의료기기 임상 Project Template 개발 및 활용](/posts/Project-Study-Template/) (2025-11-22)
+- [Adjustment of Baseline Covariates in Randomized Controlled Trial](/posts/Adjustment_of_Baseline_Covariates/) (2025-10-20)
+- [Session1_AI in Drug & Biological Product Development Hybrid Public Workshop 2025](/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/) (2025-10-09)
+- [표준편차와 표준오차](/posts/standard_deviation_error/) (2025-10-03)
+- [통계적 우월성 검정 가설 설정 (단측 검정 vs 양측 검정)](/posts/Hypothesis-Setting-in-Statistical-Superiority/) (2025-09-28)
+- [Fisher와 Tea Tasting Lady](/posts/Fisher_and_Tea-Tasting-Lady/) (2025-08-10)
+- [결혼과 이혼률, 그리고 생존분석](/posts/Marriage_and_Divorce_Survival_Analysis/) (2025-07-27)
+- [식약처 임상통계 심사 평가시 일반적 고려사항](/posts/MFDS_STAT_REVIEW_PROCESS/) (2025-07-12)
+- [FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests](/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/) (2025-06-28)
+- [Weekly 1 on 1 Meeting](/posts/On-Weekly-1-on-1-Meeting/) (2025-06-07)
+- [데이터 사이언스 분야 영어 실력 늘리는 Tip](/posts/Tip-for-improving-English-Literacy-in-Data-Science-Field/) (2025-04-13)
+- [가짜연구소 발표 후기](/posts/PseudoLab_Presentation/) (2025-03-29)
+- [국제의료기기 병원설비전시회 KIMES 후기](/posts/KIMES_review/) (2025-03-23)
+- [의료기기의 실사용증거 적용에 대한 가이드라인 후기](/posts/RWE_guidance_final/) (2025-02-23)
+- [식약처 의료기기 임상관련 통계업무](/posts/Medical-Device-Biostatistician-Work/) (2025-02-23)
+- [Adaptive design & Master protocol 스터디 모집 (영어로 진행)](/posts/Adaptive_design_and_master_protocol_project/) (2025-02-23)
+- [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices](/posts/RWE_medical_device_FDA/) (2025-01-19)
+- [비열등성 가설 설정 tip](/posts/NI-Hypothesis-tip/) (2025-01-18)
+- [Considerations Regarding Non-Interventional Studies for Drug and Biological Products Guidance for Industry](/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry/) (2025-01-12)
+- [Reflection Paper on Use of Real World Data in Non-Interventional Studies to Generate Real-World Evidence](/posts/Reflection-Paper-on-Use-of-Real-World-Data-in-Non-Interventional-Studies-to-Generate-Real-World-Evidence/) (2024-12-11)
+- [MHRA guideline on randomised controlled trials using real-world data to support regulatory decisions](/posts/MHRA-guideline-on-randomised-controlled-trials-using-real-world-data-to-support-regulatory-decisions/) (2024-12-11)
+- [Comment on ICH M14 Guideline - part 2](/posts/Review_ICH_M14_Guideline_part2/) (2024-11-17)
+- [Comment on ICH M14 Guideline - part 1](/posts/Review_ICH_M14_Guideline_part1/) (2024-11-17)
+- [Adjustment of baseline covariates](/posts/Adjustment_basline_covariates/) (2024-11-17)
+- [Adaptive design](/posts/Adaptive_design/) (2024-11-17)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 2](/posts/Review_Framework_for_FDAs_RWE_Program_part2/) (2024-11-01)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 1](/posts/Review_Framework_for_FDAs_RWE_Program/) (2024-11-01)
+- [통계적 유의성 vs 임상적 유의성](/posts/Clinical-significance-vs-Statistical-significance/) (2024-11-01)
+- [Framework for FDA's Real-World Evidence Program part 1](/posts/Framework_for_FDAs_RWE_Program/) (2024-10-26)
+- [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority.md/) (2024-10-19)
+- [Master protocol part 1](/posts/master_protocol_part1.md/) (2024-10-19)
+- [RWE guideline week2 causal inference part2](/posts/Causal_inference_part2/) (2024-10-19)
+- [FDA Perspective on the Regulation of AI in Health Care and Biomedicine](/posts/FDA-Perspective-on-the-Regulation-of-AI-in-Health-Care-and-Biomedicine_Review/) (2024-10-18)
+- [RWE guideline week1 causal inference](/posts/RWE_guideline_week1/) (2024-10-09)
+- [Cluster Ranodmized Controlled Trial](/posts/Cluster_randomized_controlled_trial/) (2024-10-09)
+- [Sample size calculation in terms of epsilon and delta](/posts/Sample_size_calculation_epsilon_delta/) (2024-10-01)
+- [Speical ROC Curves](/posts/Special_ROC_Curves/) (2024-09-28)
+- [Breast imaging understanding how accuracy is measured when lesions are the unit of analysis review](/posts/Breast-Imaging_Understanding-How-Accuracy-Is-Measured-When-Lesions-are-the-Unit-of-Analysis_Review/) (2024-09-28)
+- [Smart Causal Inference](/posts/smart-causal-inference/) (2024-09-21)
+- [Biostat Guidance](/posts/biostat-guidance/) (2024-09-21)
+- [국내 임상통계 관련 진로 소개](/posts/Biostat_career_in_korea/) (2024-09-19)
+- [Pragmatic trial](/posts/Advanced-designs-for-clinical-trial-2nd-week/) (2024-09-18)
+- [Introduction to advanced designs for clinical trial](/posts/Advanced-designs-for-clinical-trial-1st-week/) (2024-09-18)
+- [A Brief History of Free-Response ROC Paradigm Data Analysis 리뷰](/posts/A-Brief-History-of-Free-Response-ROC-Paradigm-Data-Analysis-review/) (2024-09-18)
+
+## Marriage
+- [From Statistical Significance to Significant Others](/posts/shsymarriage/) (2025-01-02)
+
+## Medical AI
+- [A Brief History of Free-Response ROC Paradigm Data Analysis 리뷰](/posts/A-Brief-History-of-Free-Response-ROC-Paradigm-Data-Analysis-review/) (2024-09-18)
+
+## Medical AI (ENG)
+- [New Guidelines for Statistical Reporting in the Journal](/posts/New-Guidelines-for-Statistical-Reporting-in-the-Journal/) (2025-01-12)
+- [Steps to avoid over use and misuse of ML in clinical research Review](/posts/Steps_to_avoid_overuse_and_misuse_of_machine_learning_in_clinical_research_Review/) (2024-12-01)
+
+## Performance Metric
+- [Speical ROC Curves](/posts/Special_ROC_Curves/) (2024-09-28)
+- [Breast imaging understanding how accuracy is measured when lesions are the unit of analysis review](/posts/Breast-Imaging_Understanding-How-Accuracy-Is-Measured-When-Lesions-are-the-Unit-of-Analysis_Review/) (2024-09-28)
+
+## Performance Metric (ENG)
+- [DELTA2 guidance on choosing the target difference and undertaking and reporting the sample size calculation for a RCT_Review](/posts/DELTA2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial_Review/) (2024-11-17)
+
+## Real World Evidence
+- [의료기기의 실사용증거 적용에 대한 가이드라인 후기](/posts/RWE_guidance_final/) (2025-02-23)
+- [Considerations Regarding Non-Interventional Studies for Drug and Biological Products Guidance for Industry](/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry/) (2025-01-12)
+- [Reflection Paper on Use of Real World Data in Non-Interventional Studies to Generate Real-World Evidence](/posts/Reflection-Paper-on-Use-of-Real-World-Data-in-Non-Interventional-Studies-to-Generate-Real-World-Evidence/) (2024-12-11)
+- [MHRA guideline on randomised controlled trials using real-world data to support regulatory decisions](/posts/MHRA-guideline-on-randomised-controlled-trials-using-real-world-data-to-support-regulatory-decisions/) (2024-12-11)
+- [Comment on ICH M14 Guideline - part 2](/posts/Review_ICH_M14_Guideline_part2/) (2024-11-17)
+- [Comment on ICH M14 Guideline - part 1](/posts/Review_ICH_M14_Guideline_part1/) (2024-11-17)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 2](/posts/Review_Framework_for_FDAs_RWE_Program_part2/) (2024-11-01)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 1](/posts/Review_Framework_for_FDAs_RWE_Program/) (2024-11-01)
+- [Framework for FDA's Real-World Evidence Program part 1](/posts/Framework_for_FDAs_RWE_Program/) (2024-10-26)
+- [RWE guideline week2 causal inference part2](/posts/Causal_inference_part2/) (2024-10-19)
+- [RWE guideline week1 causal inference](/posts/RWE_guideline_week1/) (2024-10-09)
+
+## Real World Evidence (ENG)
+- [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices (ENG)](/posts/RWE_medical_device_FDA_eng/) (2025-01-19)
+- [Considerations Regarding Non-Interventional Studies for Drug and Biological Products Guidance for Industry (ENG)](/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry_ENG/) (2025-01-12)
+- [RWE guideline causal inference part2 (ENG)](/posts/Causal_inference_part2_eng/) (2024-12-11)
+- [RWE guideline causal inference part1 (ENG)](/posts/Causal_inference_part1_eng/) (2024-12-11)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 2 (ENG)](/posts/Review_Framework_for_FDAs_RWE_Program_part2_eng/) (2024-11-01)
+- [Comment on Framework for FDA's Real-World Evidence Program - part 1 (ENG)](/posts/Review_Framework_for_FDAs_RWE_Program_eng/) (2024-11-01)
+
+## Regulatory Science
+- [Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause](/posts/Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv/) (2026-03-01)
+- [식약처 임상통계 심사 평가시 일반적 고려사항](/posts/MFDS_STAT_REVIEW_PROCESS/) (2025-07-12)
+- [디지털 의료기기 임상 관련 정리](/posts/MFDS_Digital_Medical_Device_Clinical_Trials/) (2025-05-24)
+- [FDA Perspective on the Regulation of AI in Health Care and Biomedicine](/posts/FDA-Perspective-on-the-Regulation-of-AI-in-Health-Care-and-Biomedicine_Review/) (2024-10-18)
+- [국내 임상통계 관련 진로 소개](/posts/Biostat_career_in_korea/) (2024-09-19)
+
+## Sample size calculation
+- [Sample size calculation in terms of epsilon and delta](/posts/Sample_size_calculation_epsilon_delta/) (2024-10-01)
+
+## Sharing Useful Information
+- [Smart Causal Inference](/posts/smart-causal-inference/) (2024-09-21)
+- [Biostat Guidance](/posts/biostat-guidance/) (2024-09-21)
+
+## Statistics (ENG)
+- [Most important statistical ideas of the past 50 years_Gelman](/posts/Most-important-statistical-ideas-of-the-past-50-years_Gelman/) (2026-02-22)
+
+## Survival Analysis (KOR)
+- [결혼과 이혼률, 그리고 생존분석](/posts/Marriage_and_Divorce_Survival_Analysis/) (2025-07-27)
+
+## Switching Trials
+- [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority.md/) (2024-10-19)
+
+## Switching Trials (ENG)
+- [Switching noninferiority and superiority trial (ENG)](/posts/switching_noninferiority_superiority_eng.md/) (2024-10-26)
+
+## etc
+- [Neuroscience to Read Before You Get Stupid (ENG)](/posts/Neuroscience_to_Read_Before_You_Get_Stupid_ENG/) (2026-03-01)
+- [Standard deviation and standard error](/posts/standard_deviation_error_eng/) (2025-10-03)
+- [Statistical humor (ENG)](/posts/Statistical_Humor_ENG/) (2025-03-02)
+- [New Year Greeting](/posts/New_Year_Greeting/) (2025-01-02)
+
+## etc (KOR)
+- [멍청해지기 전에 읽는 뇌과학 - 이인아 저 (독후감)](/posts/Neuroscience_to_Read_Before_You_Get_Stupid_KOR/) (2026-03-01)
+- [의료기기 임상 Project Template 개발 및 활용](/posts/Project-Study-Template/) (2025-11-22)
+- [Session1_AI in Drug & Biological Product Development Hybrid Public Workshop 2025](/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/) (2025-10-09)
+- [표준편차와 표준오차](/posts/standard_deviation_error/) (2025-10-03)
+- [가짜연구소 발표 후기](/posts/PseudoLab_Presentation/) (2025-03-29)
+- [국제의료기기 병원설비전시회 KIMES 후기](/posts/KIMES_review/) (2025-03-23)
+
+## tip (KOR)
+- [Weekly 1 on 1 Meeting](/posts/On-Weekly-1-on-1-Meeting/) (2025-06-07)
+- [데이터 사이언스 분야 영어 실력 늘리는 Tip](/posts/Tip-for-improving-English-Literacy-in-Data-Science-Field/) (2025-04-13)
+
+## 가짜연구소 스터디 자료
+- [Smart Causal Inference](/posts/smart-causal-inference/) (2024-09-21)
+- [Biostat Guidance](/posts/biostat-guidance/) (2024-09-21)
+
+## 식약처
+- [식약처 임상통계 심사 평가시 일반적 고려사항](/posts/MFDS_STAT_REVIEW_PROCESS/) (2025-07-12)
+

@@ -1,0 +1,15 @@
+---
+title: Tea Tasting Statisticians
+listing:
+  contents: posts/*/index.md
+  type: default
+  sort: "date desc"
+  max-items: 12
+  sort-ui: false
+  filter-ui: false
+  categories: true
+---
+
+We are **Tea Tasting Statisticians**. This blog shares practical notes on biostatistics, regulatory science, clinical trial design, and real-world evidence.
+
+For all posts, visit the [Posts](/posts/) page.

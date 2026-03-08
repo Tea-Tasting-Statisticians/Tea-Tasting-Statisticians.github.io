@@ -1,0 +1,833 @@
+[build]
+  command = "quarto render"
+  publish = "_site"
+
+[build.environment]
+  QUARTO_VERSION = "1.7.33"
+
+[[redirects]]
+  from = "https://www.tea-tasting-statisticians.com/*"
+  to = "https://tea-tasting-statisticians.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/Adaptive-design-and-master-protocol-project-ENG/"
+  to = "/posts/Adaptive_design_and_master_protocol_project_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Adaptive-design-and-master-protocol-project/"
+  to = "/posts/Adaptive_design_and_master_protocol_project/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Adaptive-design/"
+  to = "/posts/Adaptive_design/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Adjustment-basline-covariates/"
+  to = "/posts/Adjustment_basline_covariates/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Adjustment-of-Baseline-Covariates-ENG/"
+  to = "/posts/Adjustment_of_Baseline_Covariates_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Adjustment-of-Baseline-Covariates/"
+  to = "/posts/Adjustment_of_Baseline_Covariates/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Biostat-career-in-korea/"
+  to = "/posts/Biostat_career_in_korea/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Breast-Imaging-Understanding-How-Accuracy-Is-Measured-When-Lesions-are-the-Unit-of-Analysis-Review/"
+  to = "/posts/Breast-Imaging_Understanding-How-Accuracy-Is-Measured-When-Lesions-are-the-Unit-of-Analysis_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Causal-inference-part1-eng/"
+  to = "/posts/Causal_inference_part1_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Causal-inference-part2-eng/"
+  to = "/posts/Causal_inference_part2_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Causal-inference-part2/"
+  to = "/posts/Causal_inference_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Cluster-randomized-controlled-trial/"
+  to = "/posts/Cluster_randomized_controlled_trial/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Considerations-Regarding-Non-Interventional-Studies-for-Drug-and-Biological-Products-Guidance-for-Industry-ENG/"
+  to = "/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Considerations-Regarding-Non-Interventional-Studies-for-Drug-and-Biological-Products-Guidance-for-Industry/"
+  to = "/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Considerations-for-the-use-of-the-Plausible-Mechanism-Framework-to-Develop-Indiv/"
+  to = "/posts/Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/DELTA2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial-Review/"
+  to = "/posts/DELTA2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests-Translated/"
+  to = "/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/FDA-Perspective-on-the-Regulation-of-AI-in-Health-Care-and-Biomedicine-Review/"
+  to = "/posts/FDA-Perspective-on-the-Regulation-of-AI-in-Health-Care-and-Biomedicine_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Fisher-and-Tea-Tasting-Lady/"
+  to = "/posts/Fisher_and_Tea-Tasting-Lady/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Framework-for-FDAs-RWE-Program/"
+  to = "/posts/Framework_for_FDAs_RWE_Program/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/KIMES-review/"
+  to = "/posts/KIMES_review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/MFDS-Digital-Medical-Device-Clinical-Trials/"
+  to = "/posts/MFDS_Digital_Medical_Device_Clinical_Trials/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/MFDS-STAT-REVIEW-PROCESS/"
+  to = "/posts/MFDS_STAT_REVIEW_PROCESS/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Marriage-and-Divorce-Survival-Analysis/"
+  to = "/posts/Marriage_and_Divorce_Survival_Analysis/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Most-important-statistical-ideas-of-the-past-50-years-Gelman/"
+  to = "/posts/Most-important-statistical-ideas-of-the-past-50-years_Gelman/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Neuroscience-to-Read-Before-You-Get-Stupid-ENG/"
+  to = "/posts/Neuroscience_to_Read_Before_You_Get_Stupid_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Neuroscience-to-Read-Before-You-Get-Stupid-KOR/"
+  to = "/posts/Neuroscience_to_Read_Before_You_Get_Stupid_KOR/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/New-Year-Greeting/"
+  to = "/posts/New_Year_Greeting/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Noncomparative-adaptive-design-estimand-framework/"
+  to = "/posts/Noncomparative_adaptive_design_estimand_framework/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/PseudoLab-Presentation/"
+  to = "/posts/PseudoLab_Presentation/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/RWE-guidance-final/"
+  to = "/posts/RWE_guidance_final/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/RWE-guideline-week1/"
+  to = "/posts/RWE_guideline_week1/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/RWE-medical-device-FDA-eng/"
+  to = "/posts/RWE_medical_device_FDA_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/RWE-medical-device-FDA/"
+  to = "/posts/RWE_medical_device_FDA/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Review-Framework-for-FDAs-RWE-Program-eng/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Review-Framework-for-FDAs-RWE-Program-part2-eng/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_part2_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Review-Framework-for-FDAs-RWE-Program-part2/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Review-Framework-for-FDAs-RWE-Program/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Review-ICH-M14-Guideline-part1/"
+  to = "/posts/Review_ICH_M14_Guideline_part1/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Review-ICH-M14-Guideline-part2/"
+  to = "/posts/Review_ICH_M14_Guideline_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Sample-size-calculation-epsilon-delta/"
+  to = "/posts/Sample_size_calculation_epsilon_delta/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Session1-Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Special-ROC-Curves/"
+  to = "/posts/Special_ROC_Curves/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Statistical-Humor-ENG/"
+  to = "/posts/Statistical_Humor_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Steps-to-avoid-overuse-and-misuse-of-machine-learning-in-clinical-research-Review/"
+  to = "/posts/Steps_to_avoid_overuse_and_misuse_of_machine_learning_in_clinical_research_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/a-brief-history-of-free-response-roc-paradigm-data-analysis-review/"
+  to = "/posts/A-Brief-History-of-Free-Response-ROC-Paradigm-Data-Analysis-review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adaptive-design-and-master-protocol-project-eng/"
+  to = "/posts/Adaptive_design_and_master_protocol_project_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adaptive-design-and-master-protocol-project/"
+  to = "/posts/Adaptive_design_and_master_protocol_project/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adaptive-design/"
+  to = "/posts/Adaptive_design/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adaptive_design/"
+  to = "/posts/Adaptive_design/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adaptive_design_and_master_protocol_project/"
+  to = "/posts/Adaptive_design_and_master_protocol_project/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adaptive_design_and_master_protocol_project_eng/"
+  to = "/posts/Adaptive_design_and_master_protocol_project_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adjustment-basline-covariates/"
+  to = "/posts/Adjustment_basline_covariates/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adjustment-of-baseline-covariates-eng/"
+  to = "/posts/Adjustment_of_Baseline_Covariates_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adjustment-of-baseline-covariates/"
+  to = "/posts/Adjustment_of_Baseline_Covariates/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adjustment_basline_covariates/"
+  to = "/posts/Adjustment_basline_covariates/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adjustment_of_baseline_covariates/"
+  to = "/posts/Adjustment_of_Baseline_Covariates/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/adjustment_of_baseline_covariates_eng/"
+  to = "/posts/Adjustment_of_Baseline_Covariates_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/advanced-designs-for-clinical-trial-1st-week/"
+  to = "/posts/Advanced-designs-for-clinical-trial-1st-week/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/advanced-designs-for-clinical-trial-2nd-week/"
+  to = "/posts/Advanced-designs-for-clinical-trial-2nd-week/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/biostat-career-in-korea/"
+  to = "/posts/Biostat_career_in_korea/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/biostat_career_in_korea/"
+  to = "/posts/Biostat_career_in_korea/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/breast-imaging-understanding-how-accuracy-is-measured-when-lesions-are-the-unit-of-analysis-review/"
+  to = "/posts/Breast-Imaging_Understanding-How-Accuracy-Is-Measured-When-Lesions-are-the-Unit-of-Analysis_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/breast-imaging_understanding-how-accuracy-is-measured-when-lesions-are-the-unit-of-analysis_review/"
+  to = "/posts/Breast-Imaging_Understanding-How-Accuracy-Is-Measured-When-Lesions-are-the-Unit-of-Analysis_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/causal-inference-part1-eng/"
+  to = "/posts/Causal_inference_part1_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/causal-inference-part2-eng/"
+  to = "/posts/Causal_inference_part2_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/causal-inference-part2/"
+  to = "/posts/Causal_inference_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/causal_inference_part1_eng/"
+  to = "/posts/Causal_inference_part1_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/causal_inference_part2/"
+  to = "/posts/Causal_inference_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/causal_inference_part2_eng/"
+  to = "/posts/Causal_inference_part2_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/clinical-significance-vs-statistical-significance/"
+  to = "/posts/Clinical-significance-vs-Statistical-significance/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/cluster-randomized-controlled-trial/"
+  to = "/posts/Cluster_randomized_controlled_trial/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/cluster_randomized_controlled_trial/"
+  to = "/posts/Cluster_randomized_controlled_trial/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/considerations-for-the-use-of-the-plausible-mechanism-framework-to-develop-indiv/"
+  to = "/posts/Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/considerations-regarding-non-interventional-studies-for-drug-and-biological-products-guidance-for-industry-eng/"
+  to = "/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/considerations-regarding-non-interventional-studies-for-drug-and-biological-products-guidance-for-industry/"
+  to = "/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/considerations_for_the_use_of_the_plausible_mechanism_framework_to_develop_indiv/"
+  to = "/posts/Considerations_for_the_use_of_the_Plausible_Mechanism_Framework_to_Develop_Indiv/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/considerations_regarding_non-interventional_studies_for_drug_and_biological_products_guidance_for_industry/"
+  to = "/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/considerations_regarding_non-interventional_studies_for_drug_and_biological_products_guidance_for_industry_eng/"
+  to = "/posts/Considerations_Regarding_Non-Interventional_Studies_for_Drug_and_Biological_Products_Guidance_for_Industry_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/delta2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial-review/"
+  to = "/posts/DELTA2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/delta2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial_review/"
+  to = "/posts/DELTA2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/delta2-guidance-on-choosing-the-target-difference-and-undertaking-and-reporting-the-sample-size-calculation-for-a-randomised-controlled-trial_review/"
+  to = "/posts/DELTA2-guidance-on-choosing-the-target-difference-and---undertaking-and-reporting-the-sample-size-calculation-for---a-randomised-controlled-trial_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/fda-guidance-statistical-guidance-on-reporting-results-from-studies-evaluating-diagnostic-tests-translated/"
+  to = "/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/fda-guidance-statistical-guidance-on-reporting-results-from-studies-evaluating-diagnostic-tests_translated/"
+  to = "/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/fda-perspective-on-the-regulation-of-ai-in-health-care-and-biomedicine-review/"
+  to = "/posts/FDA-Perspective-on-the-Regulation-of-AI-in-Health-Care-and-Biomedicine_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/fda-perspective-on-the-regulation-of-ai-in-health-care-and-biomedicine_review/"
+  to = "/posts/FDA-Perspective-on-the-Regulation-of-AI-in-Health-Care-and-Biomedicine_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/fisher-and-tea-tasting-lady/"
+  to = "/posts/Fisher_and_Tea-Tasting-Lady/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/fisher_and_tea-tasting-lady/"
+  to = "/posts/Fisher_and_Tea-Tasting-Lady/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/framework-for-fdas-rwe-program/"
+  to = "/posts/Framework_for_FDAs_RWE_Program/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/framework_for_fdas_rwe_program/"
+  to = "/posts/Framework_for_FDAs_RWE_Program/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/hypothesis-setting-in-statistical-superiority/"
+  to = "/posts/Hypothesis-Setting-in-Statistical-Superiority/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/kimes-review/"
+  to = "/posts/KIMES_review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/kimes_review/"
+  to = "/posts/KIMES_review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/marriage-and-divorce-survival-analysis/"
+  to = "/posts/Marriage_and_Divorce_Survival_Analysis/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/marriage_and_divorce_survival_analysis/"
+  to = "/posts/Marriage_and_Divorce_Survival_Analysis/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/master-protocol-part1.md/"
+  to = "/posts/master_protocol_part1.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/master-protocol-part1/"
+  to = "/posts/master_protocol_part1.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/master_protocol_part1-md/"
+  to = "/posts/master_protocol_part1.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/master_protocol_part1/"
+  to = "/posts/master_protocol_part1.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/medical-device-biostatistician-work/"
+  to = "/posts/Medical-Device-Biostatistician-Work/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/mfds-digital-medical-device-clinical-trials/"
+  to = "/posts/MFDS_Digital_Medical_Device_Clinical_Trials/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/mfds-stat-review-process/"
+  to = "/posts/MFDS_STAT_REVIEW_PROCESS/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/mfds_digital_medical_device_clinical_trials/"
+  to = "/posts/MFDS_Digital_Medical_Device_Clinical_Trials/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/mfds_stat_review_process/"
+  to = "/posts/MFDS_STAT_REVIEW_PROCESS/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/mhra-guideline-on-randomised-controlled-trials-using-real-world-data-to-support-regulatory-decisions/"
+  to = "/posts/MHRA-guideline-on-randomised-controlled-trials-using-real-world-data-to-support-regulatory-decisions/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/most-important-statistical-ideas-of-the-past-50-years-gelman/"
+  to = "/posts/Most-important-statistical-ideas-of-the-past-50-years_Gelman/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/most-important-statistical-ideas-of-the-past-50-years_gelman/"
+  to = "/posts/Most-important-statistical-ideas-of-the-past-50-years_Gelman/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/neuroscience-to-read-before-you-get-stupid-eng/"
+  to = "/posts/Neuroscience_to_Read_Before_You_Get_Stupid_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/neuroscience-to-read-before-you-get-stupid-kor/"
+  to = "/posts/Neuroscience_to_Read_Before_You_Get_Stupid_KOR/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/neuroscience_to_read_before_you_get_stupid_eng/"
+  to = "/posts/Neuroscience_to_Read_Before_You_Get_Stupid_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/neuroscience_to_read_before_you_get_stupid_kor/"
+  to = "/posts/Neuroscience_to_Read_Before_You_Get_Stupid_KOR/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/new-guidelines-for-statistical-reporting-in-the-journal/"
+  to = "/posts/New-Guidelines-for-Statistical-Reporting-in-the-Journal/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/new-year-greeting/"
+  to = "/posts/New_Year_Greeting/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/new_year_greeting/"
+  to = "/posts/New_Year_Greeting/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/ni-hypothesis-tip/"
+  to = "/posts/NI-Hypothesis-tip/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/noncomparative-adaptive-design-estimand-framework/"
+  to = "/posts/Noncomparative_adaptive_design_estimand_framework/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/noncomparative_adaptive_design_estimand_framework/"
+  to = "/posts/Noncomparative_adaptive_design_estimand_framework/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/on-weekly-1-on-1-meeting/"
+  to = "/posts/On-Weekly-1-on-1-Meeting/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/project-study-template/"
+  to = "/posts/Project-Study-Template/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/pseudolab-presentation/"
+  to = "/posts/PseudoLab_Presentation/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/pseudolab_presentation/"
+  to = "/posts/PseudoLab_Presentation/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/reflection-paper-on-use-of-real-world-data-in-non-interventional-studies-to-generate-real-world-evidence/"
+  to = "/posts/Reflection-Paper-on-Use-of-Real-World-Data-in-Non-Interventional-Studies-to-Generate-Real-World-Evidence/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review-framework-for-fdas-rwe-program-eng/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review-framework-for-fdas-rwe-program-part2-eng/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_part2_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review-framework-for-fdas-rwe-program-part2/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review-framework-for-fdas-rwe-program/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review-ich-m14-guideline-part1/"
+  to = "/posts/Review_ICH_M14_Guideline_part1/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review-ich-m14-guideline-part2/"
+  to = "/posts/Review_ICH_M14_Guideline_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review_framework_for_fdas_rwe_program/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review_framework_for_fdas_rwe_program_eng/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review_framework_for_fdas_rwe_program_part2/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review_framework_for_fdas_rwe_program_part2_eng/"
+  to = "/posts/Review_Framework_for_FDAs_RWE_Program_part2_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review_ich_m14_guideline_part1/"
+  to = "/posts/Review_ICH_M14_Guideline_part1/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/review_ich_m14_guideline_part2/"
+  to = "/posts/Review_ICH_M14_Guideline_part2/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/rwe-guidance-final/"
+  to = "/posts/RWE_guidance_final/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/rwe-guideline-week1/"
+  to = "/posts/RWE_guideline_week1/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/rwe-medical-device-fda-eng/"
+  to = "/posts/RWE_medical_device_FDA_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/rwe-medical-device-fda/"
+  to = "/posts/RWE_medical_device_FDA/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/rwe_guidance_final/"
+  to = "/posts/RWE_guidance_final/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/rwe_guideline_week1/"
+  to = "/posts/RWE_guideline_week1/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/rwe_medical_device_fda/"
+  to = "/posts/RWE_medical_device_FDA/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/rwe_medical_device_fda_eng/"
+  to = "/posts/RWE_medical_device_FDA_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/sample-size-calculation-epsilon-delta/"
+  to = "/posts/Sample_size_calculation_epsilon_delta/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/sample_size_calculation_epsilon_delta/"
+  to = "/posts/Sample_size_calculation_epsilon_delta/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/session1-hybrid-public-workshop-on-ai-in-drug-&-biological-product-development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/session1_hybrid-public-workshop-on-ai-in-drug-&-biological-product-development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/session1_hybrid-public-workshop-on-ai-in-drug-biological-product-development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/special-roc-curves/"
+  to = "/posts/Special_ROC_Curves/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/special_roc_curves/"
+  to = "/posts/Special_ROC_Curves/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/standard-deviation-error-eng/"
+  to = "/posts/standard_deviation_error_eng/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/standard-deviation-error/"
+  to = "/posts/standard_deviation_error/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/statistical-humor-eng/"
+  to = "/posts/Statistical_Humor_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/statistical_humor_eng/"
+  to = "/posts/Statistical_Humor_ENG/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/steps-to-avoid-overuse-and-misuse-of-machine-learning-in-clinical-research-review/"
+  to = "/posts/Steps_to_avoid_overuse_and_misuse_of_machine_learning_in_clinical_research_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/steps_to_avoid_overuse_and_misuse_of_machine_learning_in_clinical_research_review/"
+  to = "/posts/Steps_to_avoid_overuse_and_misuse_of_machine_learning_in_clinical_research_Review/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching-noninferiority-superiority-eng.md/"
+  to = "/posts/switching_noninferiority_superiority_eng.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching-noninferiority-superiority-eng/"
+  to = "/posts/switching_noninferiority_superiority_eng.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching-noninferiority-superiority.md/"
+  to = "/posts/switching_noninferiority_superiority.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching-noninferiority-superiority/"
+  to = "/posts/switching_noninferiority_superiority.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching_noninferiority_superiority-md/"
+  to = "/posts/switching_noninferiority_superiority.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching_noninferiority_superiority/"
+  to = "/posts/switching_noninferiority_superiority.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching_noninferiority_superiority_eng-md/"
+  to = "/posts/switching_noninferiority_superiority_eng.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching_noninferiority_superiority_eng/"
+  to = "/posts/switching_noninferiority_superiority_eng.md/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/tip-for-improving-english-literacy-in-data-science-field/"
+  to = "/posts/Tip-for-improving-English-Literacy-in-Data-Science-Field/"
+  status = 301
+
