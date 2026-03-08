@@ -1,12 +1,12 @@
 [[plugins]]
   package = "@quarto/netlify-plugin-quarto"
+  [plugins.inputs]
+    cmd = "render"
+    version = "latest"
 
 [build]
-  command = "quarto render"
+  command = "echo 'Quarto build is handled by @quarto/netlify-plugin-quarto'"
   publish = "_site"
-
-[build.environment]
-  QUARTO_VERSION = "1.7.33"
 
 [[redirects]]
   from = "https://www.tea-tasting-statisticians.com/*"
