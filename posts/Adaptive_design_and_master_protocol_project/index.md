@@ -1,21 +1,13 @@
 ---
 title: Adaptive design & Master protocol 스터디 모집 (영어로 진행)
-date: '2025-02-23'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- Master Protocol
-- Adaptive Design
-- oncology
-- Clinical Trials
-- Precision Medicine
-- Biostatistics
-- Research
-- Innovation
-- Clinical Research
-author: Tea Tasting Gentleman
-math: true
+date: 2025-02-23
+categories: [KOR,Adaptive Design and Master Protocol]
+math : true
+tags: [Master Protocol, Adaptive Design, oncology, Clinical Trials,
+Precision Medicine, Biostatistics, Research, Innovation, Clinical Research]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 가짜연구소에서 Adaptive design과 master protocol을 다루는 스터디를 열었습니다.

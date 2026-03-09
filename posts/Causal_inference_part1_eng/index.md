@@ -1,18 +1,12 @@
 ---
-title: RWE guideline causal inference part1
-date: '2024-12-11'
-categories:
-- Real World Evidence
-tags:
-- lang-eng
-- causal inference
-- randomized controlled trial
-- rct
-- clinical trial
-author: Tea Tasting Gentleman
-math: true
+title: RWE guideline causal inference part1 (ENG)
+date: 2024-12-11
+categories: [ENG,Real World Evidence (ENG)]
+tags: [causal inference, randomized controlled trial, rct, clinical trial]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
-
 We had our first meeting of the Pseudo Lab's RWE (Real World Evidence) guideline study. To generate real world evidence from real world data, we need to understand the concept of causal inference.
 
 We studied comparability and randomization, which are among the most important concepts in causal inference. Roughly speaking, comparability between two groups is established when the groups are similar. The state of the treatment group before receiving treatment should be similar to the state of the control group before receiving treatment (e.g., placebo). Also, both groups should respond similarly to treatment.
@@ -25,4 +19,4 @@ Please check the link below for detailed information.
 
 [https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html)
 
-Source: [Original Korean article](https://tea-tasting-statisticians.com/posts/RWE_guideline_week1/) \| English translation by Claude 3.5 Sonnet (New)
+Source: [Original Korean article](https://tea-tasting-statisticians.github.io/posts/RWE_guideline_week1/) \| English translation by Claude 3.5 Sonnet (New)

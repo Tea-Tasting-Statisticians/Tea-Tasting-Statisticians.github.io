@@ -1,16 +1,11 @@
 ---
-title: DELTA2 guidance on choosing the target difference and undertaking and reporting
-  the sample size calculation for a RCT_Review
-date: '2024-11-17'
-categories:
-- Clinical Trial Design
-tags:
-- lang-eng
-- study design
-- sample size
-- target difference
-author: Tea Tasting Lady
-math: true
+title: DELTA2 guidance on choosing the target difference and undertaking and reporting the sample size calculation for a RCT_Review
+date: 2024-11-17
+categories: [ENG,Performance Metric (ENG)]
+tags: [study design, sample size, target difference]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
 
 # Information

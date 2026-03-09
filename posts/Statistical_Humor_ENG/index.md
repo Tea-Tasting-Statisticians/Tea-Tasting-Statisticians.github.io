@@ -1,19 +1,12 @@
 ---
-title: Statistical humor
-date: '2025-03-02'
-categories:
-- Statistics Fundamentals
-tags:
-- lang-eng
-- statistics
-- humor
-- data science
-- bayesian
-- nerd
-author: Tea Tasting Gentleman
-math: true
----
-
+title: Statistical humor (ENG)
+date: 2025-03-02
+categories: [ENG, etc]
+tags: [statistics, humor, data science, bayesian, nerd]     # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 When Statisticians Fall in Love 📊❤️
 
 Had to share this amusing exchange between two statisticians who just started dating:

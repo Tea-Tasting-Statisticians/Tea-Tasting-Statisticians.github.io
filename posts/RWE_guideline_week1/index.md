@@ -1,16 +1,11 @@
 ---
 title: RWE guideline week1 causal inference
-date: '2024-10-09'
-categories:
-- Real World Evidence
-tags:
-- lang-kor
-- causal inference
-- randomized controlled trial
-- rct
-- clinical trial
-author: Tea Tasting Gentleman
-math: true
+date: 2024-10-09
+categories: [KOR,Real World Evidence]
+tags: [causal inference, randomized controlled trial, rct, clinical trial]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 지난주 수요일에 가짜연구소 RWE(real world evidence) 가이드라인 스터디 첫 모임을 가졌습니다. Real world data로부터 real world evidence를 창출하기 위해서는 인과추론 개념을 알아야 합니다.

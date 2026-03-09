@@ -1,13 +1,11 @@
 ---
 title: Adaptive design
-date: '2024-11-17'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- clinical trial
-- trial design
-author: Tea Tasting Gentleman
+date: 2024-11-17
+categories: [KOR,Clinical Trial Designs, Advanced designs for clinical trial]
+tags: [clinical trial, trial design]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 조주희 교수님이 진행하시는 advanced designs of clinical trials 수업에서 adaptive design에 대해 다루었다. Adaptive design은 미리 계획된 프로토콜에 따라 임상시험 중간에 축적된 데이터에 기반하여 임상시험을 변경하는 디자인이다. 가장 중요한 것은 adaptive design의 요소는 미리 계획하여야 한다는 것이다. 

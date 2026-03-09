@@ -1,15 +1,11 @@
 ---
 title: Cluster Ranodmized Controlled Trial
-date: '2024-10-09'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- cluster randomized controlled trial
-- rct
-- pragmatic trial
-author: Tea Tasting Gentleman
-math: true
+date: 2024-10-09
+categories: [KOR,Clinical Trial Designs, Advanced designs for clinical trial]
+tags: [cluster randomized controlled trial, rct, pragmatic trial]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 Cluster randomized controlled trial (cluster RCT)은 randomization 대상이 개인이 아니라 집단이다.
@@ -67,6 +63,6 @@ $$n_{individual} = n_{cluster}/DE$$
 
 또한, 현실적인 이유(정치 / 정책 등)로 이러한 trial을 시행하게 된다. 군 단위로 처치를 하는게 나은 경우도 있다.
 
-실제 진료환경에서 임상적 효과를 거두기 위해 [pragmatic trial](https://tea-tasting-statisticians.com/posts/Advanced-designs-for-clinical-trial-2nd-week/)의 형태로 진행하는 경우가 많다.
+실제 진료환경에서 임상적 효과를 거두기 위해 [pragmatic trial](https://tea-tasting-statisticians.github.io/posts/Advanced-designs-for-clinical-trial-2nd-week/)의 형태로 진행하는 경우가 많다.
 
 셋째는 통계분석할 때에 각 표본들이 cluster에 따라 dependency가 존재하기 때문에 이를 보정하는 방법론을 고려하여야 한다.

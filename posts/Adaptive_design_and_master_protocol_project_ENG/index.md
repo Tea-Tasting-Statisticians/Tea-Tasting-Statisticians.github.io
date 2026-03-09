@@ -1,21 +1,13 @@
 ---
 title: Project Application; Adaptive Design and Master Protocol
-date: '2025-02-23'
-categories:
-- Clinical Trial Design
-tags:
-- lang-eng
-- Master Protocol
-- Adaptive Design
-- oncology
-- Clinical Trials
-- Precision Medicine
-- Biostatistics
-- Research
-- Innovation
-- Clinical Research
-author: Tea Tasting Gentleman
-math: true
+date: 2025-02-23
+categories: [ENG,Adaptive Design and Master Protocol (ENG)]
+math : true
+tags: [Master Protocol, Adaptive Design, oncology, Clinical Trials,
+Precision Medicine, Biostatistics, Research, Innovation, Clinical Research]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 From Fixed to Flexible: Join our project on Adaptive Designs & Master Protocols in Clinical Trials!

@@ -1,18 +1,11 @@
 ---
 title: Comment on Framework for FDA's Real-World Evidence Program - part 2
-date: '2024-11-01'
-categories:
-- Real World Evidence
-tags:
-- lang-kor
-- randomized controlled trial
-- real world evidence
-- pragmatic trial
-- effectiveness
-- fda framework
-- accelerated approval
-author: Tea Tasting Gentleman
-math: true
+date: 2024-11-01
+categories: [KOR,Real World Evidence]
+tags: [randomized controlled trial, real world evidence, pragmatic trial, effectiveness, fda framework, accelerated approval]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 요즘에는 Real World Evidence(RWE)를 effectiveness를 활용하고자 하는 흐름이 있다. 다만 RWE를 활용하기 위해서는 연구 디자인이 real world data(RWD)를 활용하는 것이 적합한지, 과학적으로 제대로 설계된 연구인지, 데이터를 신뢰할 수 있는지 등을 종합적으로 검토해야 한다. 또한 각 규제 조건에 알맞게 RWD를 선정하여야 한다.

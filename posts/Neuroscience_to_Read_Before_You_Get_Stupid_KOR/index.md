@@ -1,16 +1,12 @@
 ---
 title: 멍청해지기 전에 읽는 뇌과학 - 이인아 저 (독후감)
-date: '2026-03-01'
-categories:
-- Notes & Reads
-tags:
-- lang-kor
-- neuroscience
-- book reading
-author: Tea Tasting Gentleman
-math: true
----
-
+date: 2026-03-01
+categories: [KOR, etc (KOR)]
+tags: [korean, neuroscience, book reading]   # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 멍청해지기 전에 읽는 뇌과학 - 이인아 저 (독후감)
 
 신경가소성이라는 개념이 있다. 뇌가 무엇을 경험하는가 / 그리고 그 경험을 다시 활용해보는 과정에 따라 계속해서 변화한다. 이에 따라 우리는 학습을 할 수 있다. 이 책은 우리의 뇌의 학습의 원리와 뇌를 발달시키는 방법에 대해서 아주 잘 설명한 책이다. 학술서적처럼 엄밀한 용어를 쓰지 않고도 대중적인 용어로 뇌과학을 잘 전달한 책으로 보인다. 특히 뇌의 부위 중에서도 해마를 위주로 서술하고 있고 이인아 교수는 해마를 연구하고 있다고 한다.

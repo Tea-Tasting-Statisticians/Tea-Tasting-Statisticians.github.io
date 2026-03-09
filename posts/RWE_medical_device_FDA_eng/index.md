@@ -1,18 +1,13 @@
 ---
-title: Use of Real-World Evidence to Support Regulatory Decision-Making for Medical
-  Devices
-description: How to frame RWE for device regulatory decisions without losing review
-  credibility.
-date: '2025-01-19'
-categories:
-- Real World Evidence
-tags:
-- lang-eng
-- clinical trial
-author: Tea Tasting Gentleman
-math: true
+title: Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices (ENG)
+date: 2025-01-19
+categories: [ENG,Real World Evidence (ENG)]
+math : true
+tags: [clinical trial]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
-
 Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices
 
 Presenter: [Sang Ho Park](https://www.linkedin.com/in/shstat1729/)

@@ -1,22 +1,12 @@
 ---
 title: Connection between noncomparative adaptive design and estimand framework
-description: How estimand thinking can de-risk adaptive and non-comparative trial
-  decisions.
-date: '2025-11-15'
-categories:
-- Clinical Trial Design
-tags:
-- lang-eng
-- clinical trial design
-- estimand framework
-- non-inferiority
-- superiority
-- intercurrent event
-- non-comparative
-author: Tea Tasting Gentleman
-math: true
----
-
+date: 2025-11-15
+categories: [ENG, Clinical Trial Designs (ENG), Advanced designs for clinical trial (ENG)]
+tags: [clinical trial design, estimand framework, non-inferiority, superiority, intercurrent event, non-comparative]   # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 While studying the adaptive design guidelines in FDA guidance, I learned that adaptive design is also conceptually connected to the estimand framework. In adaptive design, there are cases where sample size is recalculated using the variance value of outcome event results without utilizing treatment assignment information. In other words, at pre-planned timepoints, variance information is used to decide whether to increase the sample size or leave it as is. What's important here is that this is possible in superiority trials, but there are statistical considerations for non-inferiority trials and equivalence trials.
 
 In the case of superiority trials, if a larger variance value than originally expected in the initial sample size calculation is observed, it's judged that there is high noise in the data, and more samples are collected. If a smaller variance value than expected is observed, it's judged that there is low noise in the data and the trial proceeds as is. When noise is high, the actual treatment group results may be better or worse compared to the control group results. The only information we have is the variance value, and because the same rule is applied whether the results are good, bad, or equal, the Type I error rate remains fixed.

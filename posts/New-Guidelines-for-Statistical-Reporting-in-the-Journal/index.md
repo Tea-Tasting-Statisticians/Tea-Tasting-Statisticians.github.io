@@ -1,15 +1,12 @@
 ---
 title: New Guidelines for Statistical Reporting in the Journal
-date: '2025-01-12'
-categories:
-- Clinical Trial Design
-tags:
-- lang-eng
-- clinical trial designs
-- pvalue
-author: Tea Tasting Lady
+date: 2025-01-12
+categories: [ENG,Clinical Trial Designs (ENG), Medical AI (ENG)]
+tags: [clinical trial designs,pvalue]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
-
 ### Title
 - New Guidelines for Statistical Reporting in the Journal
 

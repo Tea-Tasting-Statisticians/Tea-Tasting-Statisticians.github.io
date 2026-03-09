@@ -2,6 +2,13 @@
 
 Quarto-based blog for biostatistics, regulatory science, and real-world evidence.
 
+## Post authoring
+
+- Write new posts as single files in `_posts/` (`.md` or `.qmd`).
+- Keep `date:` in front matter (used for publish date/sorting).
+- Quarto runs `tools/sync-posts-from-jekyll.sh` before render and syncs them to `posts/<slug>/index.*`.
+- Production URLs stay under `/posts/<slug>/`.
+
 ## Local development
 
 1. Install [Quarto](https://quarto.org/docs/get-started/).

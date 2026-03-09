@@ -17,7 +17,7 @@ All posts by year.
 - [Connection between noncomparative adaptive design and estimand framework](/posts/Noncomparative_adaptive_design_estimand_framework/) (2025-11-15)
 - [Adjustment of Baseline Covariates in Randomized Controlled Trial (ENG)](/posts/Adjustment_of_Baseline_Covariates_ENG/) (2025-10-20)
 - [Adjustment of Baseline Covariates in Randomized Controlled Trial](/posts/Adjustment_of_Baseline_Covariates/) (2025-10-20)
-- [Session1_AI in Drug & Biological Product Development Hybrid Public Workshop 2025](/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/) (2025-10-09)
+- [Session1_AI in Drug & Biological Product Development Hybrid Public Workshop 2025](/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-and-Biological-Product-Development/) (2025-10-09)
 - [Standard deviation and standard error](/posts/standard_deviation_error_eng/) (2025-10-03)
 - [표준편차와 표준오차](/posts/standard_deviation_error/) (2025-10-03)
 - [통계적 우월성 검정 가설 설정 (단측 검정 vs 양측 검정)](/posts/Hypothesis-Setting-in-Statistical-Superiority/) (2025-09-28)

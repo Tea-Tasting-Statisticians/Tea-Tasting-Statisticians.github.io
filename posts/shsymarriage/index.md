@@ -1,16 +1,12 @@
 ---
 title: From Statistical Significance to Significant Others
-date: '2025-01-02'
-categories:
-- Notes & Reads
-tags:
-- lang-eng
-- gentleman
-- lady
-- marriage
-author: Tea Tasting Gentleman
+date: 2025-01-02
+categories: [ENG, Marriage]
+tags: [gentleman, lady, marriage]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
-
 🎊 Personal Milestone Update 🎊
 
 I'm thrilled to announce my marriage to 👩‍💻SooYoung Kwak on Saturday, December 21st!

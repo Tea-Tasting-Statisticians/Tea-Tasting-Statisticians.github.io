@@ -1,13 +1,12 @@
 ---
 title: 의료기기 임상 Project Template 개발 및 활용
-date: '2025-11-22'
-categories:
-- Notes & Reads
-tags:
-- lang-kor
-author: Tea Tasting Lady
-math: true
----
+date: 2025-11-22
+categories: [KOR, etc (KOR)]
+tags: [korean]   # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 
 # Introduction
 올해 5월 중순에 신입 팀원이 BSA(Biostatistician Associate) 으로 합류하였고 저는 BSM (Biostatistician Manager)으로써 함께 의료기기 임상통계 업무를 잘 해나갈 구조를 만들어가고 있습니다. 회사에서 맡은 의료기기 임상시험과 관련된 통계 업무를 잘 하기 위해서는 통계 분석을 위한 코딩 기술과 같은 통계 역량과 함께 해당 임상 연구에 대해 잘 이해하는 것도 중요합니다. 의료기기 임상 통계 업무를 체계적으로 하기 위해 매 프로젝트 마다 작성하는 임상 Project Study page 를 고안하게 되었습니다. 

@@ -1,18 +1,12 @@
 ---
-title: Reflection Paper on Use of Real World Data in Non-Interventional Studies to
-  Generate Real-World Evidence
-date: '2024-12-11'
-categories:
-- Real World Evidence
-tags:
-- lang-kor
-- fda
-- non-interventional study
-- real world evidence
-- rwe
-author: Tea Tasting Gentleman
+title: Reflection Paper on Use of Real World Data in Non-Interventional Studies to Generate Real-World Evidence
+date: 2024-12-11
+categories: [KOR,Real World Evidence]
+tags: [fda, non-interventional study, real world evidence, rwe]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
-
 [Reflection Paper on Use of Real World Data in Non-Interventional Studies to Generate Real-World Evidence](https://www.ema.europa.eu/en/documents/scientific-guideline/reflection-paper-use-real-world-data-non-interventional-studies-generate-real-world-evidence_en.pdf)
 
 [곽수영](https://www.linkedin.com/in/systat/)님께서 발표해주셨다. 유럽 EMA의 가이드라인인데, ICH M14 가이드라인과 비교했을 때 내용상의 큰 차이는 없었다. 다만, 여기서는 real world evidence를 활용하여 안전성 뿐만 아니라 효과를 밝히는 연구도 이야기하고 있다. 먼저 outcome의 분포, covariate, exposure 등을 평가하는 feasibility study를 진행한다. 그리고 outcome에 대한 분석을 하기 전에 프로토콜과 통계분석계획서(SAP, Statistical Analysis Plan)이 완성되어야 하고, 프로토콜과 SAP에 따라 분석을 실시해야 한다. 다만 프로토콜 작성이나 규제기관 절차는 EMA의 절차에 따라야 한다. 

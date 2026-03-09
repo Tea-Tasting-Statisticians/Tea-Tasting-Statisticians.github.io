@@ -1,17 +1,14 @@
 ---
-title: FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating
-  Diagnostic Tests
-description: A practical reading guide for what FDA expects in diagnostic test study
-  reporting.
-date: '2025-06-28'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- clinical trial
-author: Tea Tasting Lady
-math: true
----
+title: FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests 
+date: 2025-06-28
+categories: [KOR,Clinical Trial Designs]
+math : true
+tags: [clinical trial]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
+
 
 US FDA Guidance "Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests"을 전문 번역한 글로  예전에 제가 업무 관련해서 번역했었습니다.
 

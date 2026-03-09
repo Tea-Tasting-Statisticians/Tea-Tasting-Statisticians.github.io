@@ -1,13 +1,11 @@
 ---
 title: Adjustment of baseline covariates
-date: '2024-11-17'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- clinical trial
-- trial design
-author: Tea Tasting Gentleman
+date: 2024-11-17
+categories: [KOR,Clinical Trial Designs, Advanced designs for clinical trial]
+tags: [clinical trial, trial design]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 조주희 교수님이 진행하시는 advanced designs of clinical trials 수업에서 adjustment of baseline covariates에 대해 다루었다. 보통 임상시험에서는 공변량 (covariates)을 통제하지 않고 결과만 비교하기도 한다. 왜냐하면 randomization 결과로 confounder가 통제되고, collider와 같은 것들을 고려할 필요가 없기 때문이다. 

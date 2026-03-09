@@ -1,18 +1,12 @@
 ---
 title: 국내 임상통계 관련 진로 소개
-date: '2024-09-19'
-categories:
-- Regulatory Science
-tags:
-- lang-kor
-- regulatory science
-- biostat career
-- 임상통계
-- 진로
-- 규제과학
-author: Tea Tasting Lady
+date: 2024-09-19
+categories: [KOR,Regulatory Science, Biostat Career]
+tags: [regulatory science, biostat career, 임상통계, 진로, 규제과학]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
-
 학부에서 생물학, 대학원에서 생물통계 석사학위를 받은 후 
 2010년부터 임상통계 관련 일을 하고 있다.
 

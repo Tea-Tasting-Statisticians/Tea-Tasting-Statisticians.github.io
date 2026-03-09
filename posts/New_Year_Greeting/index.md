@@ -1,15 +1,12 @@
 ---
 title: New Year Greeting
-date: '2025-01-02'
-categories:
-- Medical AI
-tags:
-- lang-eng
-- ump
-- uniformly most powerful test
-author: Tea Tasting Lady
+date: 2025-01-02
+categories: [ENG, etc]
+tags: [ump, uniformly most powerful test]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
-
 I hope everyone reading this message has a wonderful 2025 🎉  
 As we begin this year, I hope we all have a **Uniformly Most Powerful** career path ahead - one that helps us grow consistently and reach our full potential in all aspects of professional life.  
 May we approach our work with clarity and purpose, finding satisfaction in discovering meaningful insights from the information around us.  

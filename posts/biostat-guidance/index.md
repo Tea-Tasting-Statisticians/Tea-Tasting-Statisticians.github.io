@@ -1,17 +1,12 @@
 ---
 title: Biostat Guidance
-date: '2024-09-21'
-categories:
-- Regulatory Science
-tags:
-- lang-kor
-- biostat
-- biostatistics
-- regulatory guidance
-- guidelines
-author: Tea Tasting Gentleman
+date: 2024-09-21
+categories: [KOR,Sharing Useful Information, 가짜연구소 스터디 자료]
+tags: [biostat, biostatistics, regulatory guidance, guidelines]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
-
 가짜연구소에서 임상시험 통계 가이드라인을 공부하고 자료를 정리하였습니다.
 
 7기 Let Biostat Guidance Guide Us 팀에서 제작하였습니다.

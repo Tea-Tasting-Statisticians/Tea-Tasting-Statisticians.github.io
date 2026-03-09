@@ -1,16 +1,11 @@
 ---
 title: Smart Causal Inference
-date: '2024-09-21'
-categories:
-- Real World Evidence
-tags:
-- lang-kor
-- causal inference
-- biostat
-- biostatistics
-- real-world evidence
-- real-world data
-author: Tea Tasting Gentleman
+date: 2024-09-21
+categories: [KOR,Sharing Useful Information, 가짜연구소 스터디 자료]
+tags: [causal inference, biostat,biostatistics, real-world evidence, real-world data]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 Introduction to causal inference

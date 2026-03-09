@@ -1,14 +1,11 @@
 ---
 title: 통계적 유의성 vs 임상적 유의성
-date: '2024-11-01'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- clinical significance
-- statistical significance
-author: Tea Tasting Lady
-math: true
+date: 2024-11-01
+categories: [KOR, Clinical Trial Designs]
+tags: [ clinical significance, statistical significance]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
 
 **통계적 유의성 vs 임상적 유의성**

@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  pre-render:
+    - bash tools/sync-posts-from-jekyll.sh
   resources:
     - googlef47d389d46e6c4f0.html
     - naver31517cb4b186ebfa9d807beab94a8228.html
@@ -78,6 +80,7 @@ website:
 format:
   html:
     date-format: "YYYY-MM-DD"
+    html-math-method: mathjax
     theme:
       light:
         - flatly

@@ -1,14 +1,12 @@
 ---
 title: Fisher와 Tea Tasting Lady
-date: '2025-08-10'
-categories:
-- Notes & Reads
-tags:
-- lang-kor
-author: Tea Tasting Lady
-math: true
----
-
+date: 2025-08-10
+categories: [KOR]
+tags: [korean]   # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 ![](/img/Teas.jpg)
 
 Tea Tasting Lady란 닉네임으로  2021년 초부터 게시판 하나를 맡아 통계 관련 글을 쓰기 시작했습니다.     

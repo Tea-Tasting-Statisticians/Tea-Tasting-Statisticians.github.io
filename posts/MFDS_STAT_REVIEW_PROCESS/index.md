@@ -1,15 +1,12 @@
 ---
 title: 식약처 임상통계 심사 평가시 일반적 고려사항
-date: '2025-07-12'
-categories:
-- Regulatory Science
-tags:
-- lang-kor
-- regulatory science
-- mfds
-author: Tea Tasting Lady
-math: true
----
+date: 2025-07-12
+categories: [KOR, Regulatory Science, 식약처]
+tags: [regulatory science, mfds, korean]   # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 
 # Info
 - MFDS/MaPP:지침서-0915-02

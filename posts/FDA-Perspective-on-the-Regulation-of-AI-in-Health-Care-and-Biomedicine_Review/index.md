@@ -1,15 +1,13 @@
 ---
 title: FDA Perspective on the Regulation of AI in Health Care and Biomedicine
-date: '2024-10-18'
-categories:
-- Regulatory Science
-tags:
-- lang-kor
-- fda
-- medical ai
-author: Tea Tasting Lady
-math: true
+date: 2024-10-18
+categories: [KOR,Regulatory Science, FDA]
+tags: [fda, medical ai]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
+
 
 ### Title
 - FDA Perspective on the Regulation of AI in Health Care and Biomedicine

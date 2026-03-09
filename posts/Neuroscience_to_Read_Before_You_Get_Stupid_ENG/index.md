@@ -1,16 +1,12 @@
 ---
-title: Neuroscience to Read Before You Get Stupid
-date: '2026-03-01'
-categories:
-- Notes & Reads
-tags:
-- lang-eng
-- neuroscience
-- book reading
-author: Tea Tasting Gentleman
-math: true
----
-
+title: Neuroscience to Read Before You Get Stupid (ENG)
+date: 2026-03-01
+categories: [ENG, etc]
+tags: [english, neuroscience, book reading]   # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 Neuroscience to Read Before You Get Stupid (Book Reading)
 
 Original Title : 멍청해지기 전에 읽는 뇌과학 - 이인아 저 (독후감)

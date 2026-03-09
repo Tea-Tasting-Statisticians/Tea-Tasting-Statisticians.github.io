@@ -1,16 +1,15 @@
 ---
 title: Weekly 1 on 1 Meeting
-date: '2025-06-07'
-categories:
-- Notes & Reads
-tags:
-- lang-kor
-- tip
-author: Tea Tasting Lady
-math: true
----
+date: 2025-06-07
+categories: [KOR, tip (KOR)]
+tags: [tip, korean]   # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 
-![](/img/conversation.png)
+
+ ![](/img/conversation.png)
 
 ## Introduction 
 5월 중순에 신입 팀원이 BSA(Biostatistician Associate) 으로 합류하였습니다. 저는 BSM (Biostatistician Manager)으로써 함께 의료기기 임상통계 업무를 잘 해나갈 틀(frame)을 만들어나가고 있는 중입니다.

@@ -34,3 +34,17 @@
   background: #004182;
   color: #fff;
 }
+
+/* Navbar logo size */
+.navbar-logo {
+  height: 150px !important;
+  max-height: 100px !important;
+  width: auto;
+}
+
+@media (max-width: 768px) {
+  .navbar-logo {
+    height: 150px !important;
+    max-height: 100px !important;
+  }
+}

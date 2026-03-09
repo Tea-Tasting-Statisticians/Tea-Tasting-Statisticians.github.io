@@ -1,13 +1,12 @@
 ---
 title: 비열등성 가설 설정 tip
-date: '2025-01-18'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- clinical trial
-author: Tea Tasting Lady
-math: true
+date: 2025-01-18
+categories: [KOR,Clinical Trial Designs]
+math : true
+tags: [clinical trial]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
 
 ![](/img/Figure2_Possible Results on NI Study.png)

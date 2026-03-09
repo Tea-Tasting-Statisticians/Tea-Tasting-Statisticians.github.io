@@ -1,20 +1,12 @@
 ---
 title: Adjustment of Baseline Covariates in Randomized Controlled Trial
-description: Why covariate adjustment affects precision, interpretation, and regulatory
-  confidence.
-date: '2025-10-20'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- clinical trial design
-- adjustment of baseline covariates
-- precision
-- confounder
-author: Tea Tasting Gentleman
-math: true
----
-
+date: 2025-10-20
+categories: [KOR, Clinical Trial Designs, Advanced designs for clinical trial]
+tags: [clinical trial design, adjustment of baseline covariates, precision, confounder]   # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 임상시험에서 프로토콜에 미리 baseline 보정변수를 제시하고 보정변수를 통제하여 통계분석을 진행하는 것이 권장된다는 FDA 가이드라인이 발행된지 몇년 안됐다. 무작위배정이 이루어진 경우, 잠재적 교란변수와 처치(X) 간의 연관성이 제거되므로 해당 변수는 더 이상 교란변수로 작용하지 않는다. 하지만 여전히 결과(Y)에 영향을 미치는 변수로 남을 수 있다. 이 변수를 보정하면 outcome에 대한 추정을 정밀하게 해주어 confidence interval이 좁아지는 장점이 있다. 그런데 이와 관련해서 선형 모형과 비선형 모형에서 보정변수를 사용할 때 주의점이 있다. 이에 대해 설명해보고자 한다.
 Linear functional은 벡터공간 V에서 field F (예: 실수 공간 또는 복소수 공간)으로 보내는 linear map이다. 
 

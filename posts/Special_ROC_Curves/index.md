@@ -1,13 +1,11 @@
 ---
 title: Speical ROC Curves
-date: '2024-09-28'
-categories:
-- Medical AI
-tags:
-- lang-kor
-- performance metric
-- medical ai
-author: Tea Tasting Lady
+date: 2024-09-28
+categories: [KOR,Performance Metric]
+tags: [performance metric, medical ai]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
 
 ![](/img/Topics_mindmap.png)

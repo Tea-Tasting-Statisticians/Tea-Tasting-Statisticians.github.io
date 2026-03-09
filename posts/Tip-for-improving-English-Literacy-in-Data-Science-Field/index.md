@@ -1,14 +1,12 @@
 ---
-title: 데이터 사이언스 분야 영어 실력 늘리는 Tip
-date: '2025-04-13'
-categories:
-- Notes & Reads
-tags:
-- lang-kor
-- tip
-author: Tea Tasting Lady
-math: true
----
+title: 데이터 사이언스 분야 영어 실력 늘리는 Tip 
+date: 2025-04-13
+categories: [KOR, tip (KOR)]
+tags: [tip]     # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 
 커뮤니티 모임 등에서 제가 자주 하는 조언 중의 하나가 영어공부를 열심히 하라는 것입니다.
 

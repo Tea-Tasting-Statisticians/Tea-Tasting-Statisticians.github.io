@@ -1,16 +1,12 @@
 ---
 title: Standard deviation and standard error
-date: '2025-10-03'
-categories:
-- Statistics Fundamentals
-tags:
-- lang-eng
-- standard deviation
-- standard error
-author: Tea Tasting Gentleman
-math: true
----
-
+date: 2025-10-03
+categories: [ENG,etc]
+tags: [standard deviation, standard error]  # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 In statistics, standard deviation and standard error are frequently used concepts. They are also commonly seen in medical research and papers. Standard deviation is a good metric for representing the degree of data dispersion. Standard deviation is defined as the square root of the mean of squared deviations. Variance, which we commonly talk about, is the mean of squared deviations.
 
 So what is standard error? Standard error is also a standard deviation. However, because it is the standard deviation of a statistic, it is a narrower concept than the standard deviation we generally refer to. For example, the sample mean and sample variance obtained from a sample are statistic. In this case, we can talk about the standard deviation of the statistic. It is a concept that quantifies the uncertainty that occurs in the inference process of parameter. This applies whether we're talking about frequentist or Bayesian approaches.

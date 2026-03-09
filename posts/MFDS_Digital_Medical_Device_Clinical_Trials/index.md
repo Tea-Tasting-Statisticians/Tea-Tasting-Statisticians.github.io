@@ -1,15 +1,12 @@
 ---
 title: 디지털 의료기기 임상 관련 정리
-date: '2025-05-24'
-categories:
-- Regulatory Science
-tags:
-- lang-kor
-- clinical trial
-- regulation
-author: Tea Tasting Lady
-math: true
----
+date: 2025-05-24
+categories: [Regulatory Science]
+tags: [clinical trial, regulation]     # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 
 # 디지털의료기기
 - 디지털기술의 범위(시행규칙 제2조)

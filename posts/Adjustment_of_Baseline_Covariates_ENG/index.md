@@ -1,19 +1,12 @@
 ---
-title: Adjustment of Baseline Covariates in Randomized Controlled Trial
-description: When and how baseline covariate adjustment strengthens trial evidence.
-date: '2025-10-20'
-categories:
-- Clinical Trial Design
-tags:
-- lang-eng
-- clinical trial design
-- adjustment of baseline covariates
-- precision
-- confounder
-author: Tea Tasting Gentleman
-math: true
----
-
+title: Adjustment of Baseline Covariates in Randomized Controlled Trial (ENG)
+date: 2025-10-20
+categories: [ENG, Clinical Trial Designs (ENG), Advanced designs for clinical trial (ENG)]
+tags: [clinical trial design, adjustment of baseline covariates, precision, confounder]   # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 It has only been a few years since the FDA published the guidance recommending that clinical trials pre-specify baseline covariates in the protocol and conduct statistical analyses while controlling for these covariates. When randomization is implemented, the association between potential confounders and treatment (X) is eliminated, so these variables no longer act as confounders. However, they can still remain as variables that affect the outcome (Y). Adjusting for these variables has the advantage of making outcome estimates more precise and narrowing the confidence interval. However, there are important considerations when using adjustment variables in linear versus non-linear models. I would like to explain this.
 
 A linear functional is a linear map from a vector space V to a field F (e.g., the real numbers or complex numbers). In statistics, the expectation (expected value) is a linear functional. The expectation plays a particularly important role in statistical models because statistical inference, as we commonly discuss it, is centered around expectations.

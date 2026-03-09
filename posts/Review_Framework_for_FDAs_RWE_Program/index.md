@@ -1,19 +1,11 @@
 ---
 title: Comment on Framework for FDA's Real-World Evidence Program - part 1
-description: How the FDA RWE framework translates into concrete evidence strategy
-  choices.
-date: '2024-11-01'
-categories:
-- Real World Evidence
-tags:
-- lang-kor
-- randomized controlled trial
-- real world evidence
-- pragmatic trial
-- effectiveness
-- fda framework
-author: Tea Tasting Gentleman
-math: true
+date: 2024-11-01
+categories: [KOR,Real World Evidence]
+tags: [randomized controlled trial, real world evidence, pragmatic trial, effectiveness, fda framework]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 Real world evidence (RWE)에 대해 FDA의 관점을 살펴볼 수 있었다. 다만, 가이드라인이 초창기에 2018년 12월에 작성되어서 그런지 상당히 조심스럽게 접근하는 면이 있었다. Real world data는 전통적인 임상시험(explanatory trial)이 아닌 곳에서 수집한 안전성과 효과에 대한 데이터를 말한다. Electronic health record(EHR)나 보험 청구 데이터 역시 real world data가 될 수 있다.

@@ -1,20 +1,12 @@
 ---
-title: Considerations for the use of the Plausible Mechanism Framework to Develop
-  Individualized Therapies that Target Specific Genetic Conditions with Known Biological
-  Cause
-description: FDA draft guidance explained for real submission planning when classic
-  RCT evidence is constrained.
-date: '2026-03-01'
-categories:
-- Regulatory Science
-tags:
-- lang-kor
-- genetic therapy
-- fda
-- guidance
-author: Tea Tasting Lady
-math: true
----
+title: Considerations for the use of the Plausible Mechanism Framework to Develop Individualized Therapies that Target Specific Genetic Conditions with Known Biological Cause
+date: 2026-03-01
+categories: [KOR, Regulatory Science, FDA]
+tags: [genetic therapy,fda, guidance]   # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 
 📅 **발표일:** 2026-02-24  
 🏥 **카테고리:** Genetic Therapy  

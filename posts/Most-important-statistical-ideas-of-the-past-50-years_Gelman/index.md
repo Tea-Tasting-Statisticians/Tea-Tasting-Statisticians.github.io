@@ -1,13 +1,12 @@
 ---
 title: Most important statistical ideas of the past 50 years_Gelman
-date: '2026-02-22'
-categories:
-- Statistics Fundamentals
-tags:
-- lang-eng
-author: Tea Tasting Lady
-math: true
----
+date: 2026-02-22
+categories: [ENG, Statistics (ENG)]
+tags: [korean]   # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 
 # Overview
 ![](/img/Pasted%20image%2020260221215800.png)

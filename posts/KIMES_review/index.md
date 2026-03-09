@@ -1,15 +1,12 @@
 ---
 title: 국제의료기기 병원설비전시회 KIMES 후기
-date: '2025-03-23'
-categories:
-- Notes & Reads
-tags:
-- lang-kor
-- kimes
-author: Tea Tasting Gentleman
-math: true
----
-
+date: 2025-03-23
+categories: [KOR, etc (KOR)]
+tags: [kimes]     # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 오늘 국제의료기기 병원설비전시회 KIMES에 다녀왔다. 국내 의료기기 수준이 꽤 높은 것을 볼 수 있었다. 인허가 과정을 잘 도우면 미국, 유럽에도 얼마든지 진출할 수 있겠다는 생각이 들었다.
 
 나는 데이터 분석을 하는 사람이니 electronic medical record (EMR) 시스템에 더 관심이 갔다. 어떤 곳은 EMR과 연동해서 환자에게 어플로 진료대기 관련 알람도 보내준다고 한다. 최근에 진료 대기 알람을 해주는 업체에서 유료화를 선언했는데 이 업체는 EMR 플랫폼이 없으니 앞으로가 어렵겠구나 싶었다. 

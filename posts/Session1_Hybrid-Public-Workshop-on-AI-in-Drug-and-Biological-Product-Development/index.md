@@ -1,15 +1,12 @@
 ---
-title: Session1_AI in Drug & Biological Product Development Hybrid Public Workshop
-  2025
-date: '2025-10-09'
-categories:
-- Notes & Reads
-tags:
-- lang-kor
-author: Tea Tasting Lady
-math: true
----
-
+title: Session1_AI in Drug & Biological Product Development Hybrid Public Workshop 2025
+date: 2025-10-09
+categories: [KOR, etc (KOR)]
+tags: [korean]   # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 # AI in Drug & Biological Product Development Hybrid Public Workshop 2025
 
 ![Event_Slide](/img/image.png)

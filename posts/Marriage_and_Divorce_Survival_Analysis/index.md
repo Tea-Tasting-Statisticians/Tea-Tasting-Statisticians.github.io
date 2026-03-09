@@ -1,19 +1,14 @@
 ---
 title: 결혼과 이혼률, 그리고 생존분석
-date: '2025-07-27'
-categories:
-- Statistics Fundamentals
-tags:
-- lang-kor
-- survival analysis
-- divorce rate
-- marriage
-- time to event
-author: Tea Tasting Gentleman
-math: true
----
+date: 2025-07-27
+categories: [KOR, Survival Analysis (KOR)]
+tags: [survival analysis, divorce rate, marriage, time to event]   # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 
-가끔 인터넷을 보다보면 이혼 관련 통계가 나옵니다. 2024년 기준 결혼건수는 22만 2천건이고, 이혼건수는 9만 1천건입니다. 그래서 혹자는 이혼률이 40.1퍼센트라고 생각합니다.
+ 가끔 인터넷을 보다보면 이혼 관련 통계가 나옵니다. 2024년 기준 결혼건수는 22만 2천건이고, 이혼건수는 9만 1천건입니다. 그래서 혹자는 이혼률이 40.1퍼센트라고 생각합니다.
 
  외국인과의 결혼 건수는 약 2만 1천건 이혼 건수는 약 6천 건입니다. 이를 통해 혹자는 외국인과 결혼을 했을 때 이혼률이 28.6퍼센트라고 주장합니다. 그렇기 때문에 대한민국 사람끼리 결혼하는 것보다는 외국인과 결혼하는 것이 좋다고 주장하기도 합니다.
 

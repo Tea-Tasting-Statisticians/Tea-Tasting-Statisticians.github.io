@@ -1,16 +1,12 @@
 ---
 title: A Brief History of Free-Response ROC Paradigm Data Analysis 리뷰
-date: '2024-09-18'
-categories:
-- Medical AI
-tags:
-- lang-kor
-- performance metric
-- afroc
-- medical ai
-author: Tea Tasting Lady
+date: 2024-09-18
+categories: [KOR,Medical AI]
+tags: [performance metric, afroc, medical ai]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
-
 # Info
 Chakraborty DP. A brief history of free-response receiver operating characteristic paradigm data analysis. Acad Radiol. 2013 Jul;20(7):915-9. doi: 10.1016/j.acra.2013.03.001. Epub 2013 Apr 12. PMID: 23583665; PMCID: PMC3679336.
 

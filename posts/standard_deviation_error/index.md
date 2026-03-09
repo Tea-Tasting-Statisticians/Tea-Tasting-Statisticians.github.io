@@ -1,16 +1,12 @@
 ---
 title: 표준편차와 표준오차
-date: '2025-10-03'
-categories:
-- Statistics Fundamentals
-tags:
-- lang-kor
-- standard deviation
-- standard error
-author: Tea Tasting Gentleman
-math: true
----
-
+date: 2025-10-03
+categories: [KOR,etc (KOR)]
+tags: [standard deviation, standard error]  # lower case 
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
+--- 
 통계학과 의학에서 표준편차와 표준오차는 자주 나오는 개념이다. 표준편차(standard deviation)은 자료의 퍼진 정도를 나타내는 데 좋은 metric이다. 표준편차는 편차의 제곱의 평균의 제곱근으로 정의된다. 우리가 흔히 이야기하는 분산은 편차의 제곱의 평균이다. 
 
 그렇다면 표준 오차 (standard error)는 무엇인가? 표준오차 역시 표준편차이다. 그런데 통계량 (statistic)의 표준편차이기 때문에 일반적으로 말하는 표준편차보다는 좁은 개념이다. 예를 들어, 표본으로부터 구한 평균, 분산 등이 통계량에 해당한다. 이때, 통계량의 표준편차를 이야기할 수 있다. 모수 추론 과정에서 발생하는 불확실성을 정량화하는 개념이다. 이는 빈도주의든 베이지안이든 해당하는 이야기이다. 

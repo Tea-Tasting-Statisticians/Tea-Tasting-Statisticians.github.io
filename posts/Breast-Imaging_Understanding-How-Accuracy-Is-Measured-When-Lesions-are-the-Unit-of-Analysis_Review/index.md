@@ -1,15 +1,11 @@
 ---
-title: Breast imaging understanding how accuracy is measured when lesions are the
-  unit of analysis review
-date: '2024-09-28'
-categories:
-- Medical AI
-tags:
-- lang-kor
-- performance metric
-- medical ai
-author: Tea Tasting Lady
-math: true
+title: Breast imaging understanding how accuracy is measured when lesions are the unit of analysis review
+date: 2024-09-28
+categories: [KOR,Performance Metric]
+tags: [performance metric, medical ai]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
 ---
 
 # Info

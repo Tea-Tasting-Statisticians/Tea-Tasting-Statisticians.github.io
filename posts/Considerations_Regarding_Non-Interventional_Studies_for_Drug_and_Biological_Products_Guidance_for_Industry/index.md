@@ -1,21 +1,11 @@
 ---
-title: Considerations Regarding Non-Interventional Studies for Drug and Biological
-  Products Guidance for Industry
-description: Key takeaways for planning non-interventional studies that can support
-  regulatory use.
-date: '2025-01-12'
-categories:
-- Real World Evidence
-tags:
-- lang-kor
-- rwe
-- rwd
-- real world evidence
-- real world data
-- protocol
-- statistical analysis plan
-- fda
-author: Tea Tasting Gentleman
+title: Considerations Regarding Non-Interventional Studies for Drug and Biological Products Guidance for Industry
+date: 2025-01-12
+categories: [KOR,Real World Evidence]
+tags: [rwe,rwd,real world evidence, real world data, protocol, statistical analysis plan, fda]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 Presentation date : 25.01.08

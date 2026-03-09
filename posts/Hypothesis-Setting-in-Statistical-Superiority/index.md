@@ -1,14 +1,12 @@
 ---
 title: 통계적 우월성 검정 가설 설정 (단측 검정 vs 양측 검정)
-date: '2025-09-28'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- clinical trial
-author: Tea Tasting Lady
-math: true
----
+date: 2025-09-28
+categories: [KOR,Clinical Trial Designs]
+tags: [clinical trial]  # lower case 
+author:
+  - name: Tea Tasting Lady
+    url: https://www.linkedin.com/in/systat/
+--- 
 
 통계적 우월성(Statisitcal superiority)을 보이는 것이 성공기준(success criteria)일 때의 인허가 임상연구에서 가설 설정에 대해 소개해보려고 합니다.  
   

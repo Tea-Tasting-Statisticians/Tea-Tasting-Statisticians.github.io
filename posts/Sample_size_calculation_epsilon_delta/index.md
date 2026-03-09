@@ -1,17 +1,12 @@
 ---
 title: Sample size calculation in terms of epsilon and delta
-date: '2024-10-01'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- true mean difference
-- clinical significance
-- statistical significance
-author: Tea Tasting Gentleman
-math: true
+date: 2024-10-01
+categories: [KOR,Clinical Trial Designs, Sample size calculation]
+tags: [true mean difference, clinical significance, statistical significance]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
-
 오늘은 sample size calculation에서 중요한 $$\epsilon$$(예상되는 임상적 차이)과 $$\delta$$(margin)에 대해서 이야기를 나누어보려고 한다.
 
 다음 수식은 두 평행군의 sample size를 구하는 공식이다. Z 분포를 활용한다.

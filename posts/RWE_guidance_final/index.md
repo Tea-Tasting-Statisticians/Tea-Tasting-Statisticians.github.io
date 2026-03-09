@@ -1,19 +1,15 @@
 ---
 title: 의료기기의 실사용증거 적용에 대한 가이드라인 후기
-description: Quick interpretation of MFDS device RWE guidance and where teams usually
-  struggle.
-date: '2025-02-23'
-categories:
-- Real World Evidence
-tags:
-- lang-kor
-- real world evidence
-- real world data
-author: Tea Tasting Gentleman
-math: true
+date: 2025-02-23
+categories: [KOR,Real World Evidence]
+math : true
+tags: [real world evidence, real world data]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
-가짜연구소 RWE 가이드라인 스터디가 마무리되었습니다. 마지막에는 식약처의 "의료기기의 실사용증거 적용에 대한 가이드라인"을 살펴보았습니다. 식약처에서 RWE 가이드라인은 이 가이드라인이 유일합니다. 이 가이드라인에서는 RWE의 개념, 예시, 활용 등에 대해서 간략하게 설명하고 있습니다.
+ 가짜연구소 RWE 가이드라인 스터디가 마무리되었습니다. 마지막에는 식약처의 "의료기기의 실사용증거 적용에 대한 가이드라인"을 살펴보았습니다. 식약처에서 RWE 가이드라인은 이 가이드라인이 유일합니다. 이 가이드라인에서는 RWE의 개념, 예시, 활용 등에 대해서 간략하게 설명하고 있습니다.
 
  FDA나 ICH, EMA에서는 프로토콜을 미리 작성하고 규제기관과 의논하여 프로토콜과 통계분석 계획을 확정하고, 그에 따라 분석을 하도록 요청하고 있습니다. 그러나 식약처 가이드라인에서는 RWE 분석에 대해 그정도로 강제하고 있지 않습니다. 아직 국내 규제기관에서 RWE 활용이 활발하지 않은 상황이라서 그런 것으로 보입니다. 하지만 여러 나라에서 점점 더 규제과학 내에서 RWE를 활발히 사용하고 있는 추세입니다. 우리나라 식약처에서도 RWE 활용이 활발해지고, 가이드라인이 보다 더 엄격해질 것으로 보입니다.
 

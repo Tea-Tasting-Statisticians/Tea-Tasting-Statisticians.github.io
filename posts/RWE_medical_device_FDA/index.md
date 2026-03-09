@@ -1,18 +1,13 @@
 ---
-title: Use of Real-World Evidence to Support Regulatory Decision-Making for Medical
-  Devices
-description: What regulators expect when using real-world evidence in medical device
-  decisions.
-date: '2025-01-19'
-categories:
-- Clinical Trial Design
-tags:
-- lang-kor
-- clinical trial
-author: Tea Tasting Gentleman
-math: true
+title: Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices
+date: 2025-01-19
+categories: [KOR,Clinical Trial Designs]
+math : true
+tags: [clinical trial]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
-
 Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices
 
 발표 : [박상호](https://www.linkedin.com/in/shstat1729/)

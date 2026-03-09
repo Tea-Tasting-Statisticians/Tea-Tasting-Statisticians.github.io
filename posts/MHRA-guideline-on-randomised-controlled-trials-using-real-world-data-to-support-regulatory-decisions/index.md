@@ -1,16 +1,11 @@
 ---
-title: MHRA guideline on randomised controlled trials using real-world data to support
-  regulatory decisions
-date: '2024-12-11'
-categories:
-- Real World Evidence
-tags:
-- lang-kor
-- mhra
-- non-interventional study
-- real world evidence
-- rwe
-author: Tea Tasting Gentleman
+title: MHRA guideline on randomised controlled trials using real-world data to support regulatory decisions
+date: 2024-12-11
+categories: [KOR,Real World Evidence]
+tags: [mhra, non-interventional study, real world evidence, rwe]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 발표자 : 이현빈

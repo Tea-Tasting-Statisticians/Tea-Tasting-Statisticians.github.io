@@ -1,17 +1,11 @@
 ---
-title: Comment on Framework for FDA's Real-World Evidence Program - part 1
-date: '2024-11-01'
-categories:
-- Real World Evidence
-tags:
-- lang-eng
-- randomized controlled trial
-- real world evidence
-- pragmatic trial
-- effectiveness
-- fda framework
-author: Tea Tasting Gentleman
-math: true
+title: Comment on Framework for FDA's Real-World Evidence Program - part 1 (ENG)
+date: 2024-11-01
+categories: [ENG,Real World Evidence (ENG)]
+tags: [randomized controlled trial, real world evidence, pragmatic trial, effectiveness, fda framework]     # TAG names should always be lowercase
+author:
+  - name: Tea Tasting Gentleman
+    url: https://www.linkedin.com/in/shstat1729/
 ---
 
 The FDA's perspective on real-world evidence (RWE) appears quite cautious, possibly because the guideline was initially written in December 2018. Real-world data refers to safety and effectiveness data collected outside traditional clinical trials (explanatory trial).Electronic health records (EHR) and insurance claims data can also be considered as real-world data.
@@ -27,4 +21,4 @@ The framework emphasizes that efficacy and safety shown in clinical trials must 
 
 [Article written by Presenter](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program.html), [SooYoung Kwak](https://www.linkedin.com/in/systat/)
 
-Source: [Original Korean article](https://tea-tasting-statisticians.com/posts/Review_Framework_for_FDAs_RWE_Program.md/) \| English translation by Claude 3.5 Sonnet (New)
+Source: [Original Korean article](https://tea-tasting-statisticians.github.io/posts/Review_Framework_for_FDAs_RWE_Program.md/) \| English translation by Claude 3.5 Sonnet (New)
