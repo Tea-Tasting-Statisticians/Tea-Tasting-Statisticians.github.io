@@ -1,10 +1,16 @@
 ---
-title: Switching noninferiority and superiority trial (ENG)
-date: 2024-10-26
-categories: [ENG,Clinical Trial Designs (ENG), Switching Trials (ENG)]
+title: Switching noninferiority and superiority trial
+date: '2024-10-26'
+categories:
+- Clinical Trial Design
+tags:
+- lang-eng
+- switching trial
+- noninferiority
+- superiority
+- clinical trial
+author: Tea Tasting Gentleman
 math: true
-tags: [switching trial, noninferiority, superiority, clinical trial]     # TAG names should always be lowercase
-author: <Tea Tasting Gentleman>
 ---
 
 When conducting superiority or non-inferiority clinical trials, there may be cases where, depending on the analysis results, you change from a superiority trial to a non-inferiority trial, or from a non-inferiority trial to a superiority trial.
@@ -20,4 +26,4 @@ Additionally, although not directly related, there is often confusion regarding 
 
 Reference : [Points to Consider on Switching between Superiority and Non-inferiority](https://www.ema.europa.eu/en/documents/scientific-guideline/points-consider-switching-between-superiority-and-non-inferiority_en.pdf)
 
-Source: [Original Korean article](https://tea-tasting-statisticians.github.io/posts/switching_noninferiority_superiority/) \| English translation by Claude 3.5 Sonnet (New)
+Source: [Original Korean article](https://tea-tasting-statisticians.com/posts/switching_noninferiority_superiority/) \| English translation by Claude 3.5 Sonnet (New)

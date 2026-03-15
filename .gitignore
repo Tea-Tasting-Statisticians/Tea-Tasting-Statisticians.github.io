@@ -1,17 +1,10 @@
-# Bundler cache
-.bundle
-vendor
-Gemfile.lock
-
-# Jekyll cache
-.jekyll-cache
-.jekyll-metadata
+# Quarto build output
 _site
+/.quarto/
+/_generated/
+**/*.quarto_ipynb
 
-# RubyGems
-*.gem
-
-# NPM dependencies
+# Local dependencies
 node_modules
 package-lock.json
 
@@ -23,6 +16,4 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
-_sass/dist
-assets/js/dist
 **/.DS_Store

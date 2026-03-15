@@ -34,3 +34,38 @@
   background: #004182;
   color: #fff;
 }
+
+.post-views-meta .post-view-count {
+  margin-bottom: 0;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.post-views-meta .post-view-count.is-loading {
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.quarto-listing .quarto-post .listing-description {
+  display: -webkit-box;
+  overflow: hidden;
+  line-height: 1.6;
+  max-height: calc(1.6em * 5);
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+}
+
+.quarto-listing .quarto-post .listing-description > :last-child {
+  margin-bottom: 0;
+}
+
+.quarto-listing .quarto-post .listing-description ul,
+.quarto-listing .quarto-post .listing-description ol {
+  margin-bottom: 0;
+}
+
+.quarto-listing .quarto-post .listing-description li:empty,
+.quarto-listing .quarto-post .listing-description p:empty {
+  display: none;
+}

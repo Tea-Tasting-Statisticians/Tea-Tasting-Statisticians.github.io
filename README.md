@@ -40,3 +40,7 @@ The Quarto styling in `mozilla.scss` and `styles.css` is adapted from:
 - <https://github.com/dkapitan/dkapitan.github.io>
 
 Adapted files are annotated with MPL-2.0 attribution comments.
+
+## Copyright
+
+Copyright &copy; 2026 Tea Tasting Statisticians

@@ -13,7 +13,7 @@ Methodology for protocol planning, hypothesis strategy, estimands, adaptive desi
 
 - [Adjustment of Baseline Covariates in Randomized Controlled Trial](/posts/Adjustment_of_Baseline_Covariates/)
 - [Connection between noncomparative adaptive design and estimand framework](/posts/Noncomparative_adaptive_design_estimand_framework/)
-- [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority.md/)
+- [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority/)
 
 ## Regulatory Science
 

@@ -12,7 +12,7 @@ For language filtering, go to [Posts](/posts/) and filter by tag:
 
 ## How should I design or switch hypotheses in a trial?
 
-- [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority.md/)
+- [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority/)
 - [비열등성 가설 설정 tip](/posts/NI-Hypothesis-tip/)
 - [통계적 우월성 검정 가설 설정 (단측 검정 vs 양측 검정)](/posts/Hypothesis-Setting-in-Statistical-Superiority/)
 

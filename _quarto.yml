@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: _site
+  pre-render:
+    - scripts/sync-missing-posts.sh
+    - scripts/generate-archives.sh
   resources:
     - googlef47d389d46e6c4f0.html
     - naver31517cb4b186ebfa9d807beab94a8228.html
@@ -73,7 +76,8 @@ website:
     left: |
       Copyright &copy; 2026 Tea Tasting Statisticians
     right: |
-      Built with [Quarto](https://quarto.org)
+      Built with [Quarto](https://quarto.org)  
+      Styling adapted from [dkapitan/dkapitan.github.io](https://github.com/dkapitan/dkapitan.github.io) (MPL-2.0)
 
 format:
   html:
@@ -88,20 +92,96 @@ format:
       - text: |
           <script data-goatcounter="https://tea-tasting-statisticians.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
           <meta name="google-site-verification" content="CDmwxkfajMdAyUWqJaIldv9oPmm7Xi2gwd8CHdzkUgc">
+          <meta name="naver-site-verification" content="1729d54e76c11c92a3081fec21aa19705d8692e0" />
     include-after-body:
       - text: |
           <script>
             document.addEventListener("DOMContentLoaded", function () {
               if (!/^\/posts\/[^/]+\/?$/.test(window.location.pathname)) return;
-              var shareUrl = encodeURIComponent(window.location.href);
-              var shareText = encodeURIComponent(document.title + " | Tea Tasting Statisticians");
-              var a = document.createElement("a");
-              a.href = "https://www.linkedin.com/sharing/share-offsite/?url=" + shareUrl + "&summary=" + shareText;
-              a.className = "linkedin-share-fab";
-              a.target = "_blank";
-              a.rel = "noopener";
-              a.textContent = "Share on LinkedIn";
-              document.body.appendChild(a);
+
+              function addLinkedInShareButton() {
+                var shareUrl = encodeURIComponent(window.location.href);
+                var shareText = encodeURIComponent(document.title + " | Tea Tasting Statisticians");
+                var button = document.createElement("a");
+                button.href = "https://www.linkedin.com/sharing/share-offsite/?url=" + shareUrl + "&summary=" + shareText;
+                button.className = "linkedin-share-fab";
+                button.target = "_blank";
+                button.rel = "noopener";
+                button.textContent = "Share on LinkedIn";
+                document.body.appendChild(button);
+              }
+
+              function whenGoatCounterReady(callback) {
+                var attempts = 0;
+                var timer = window.setInterval(function () {
+                  attempts += 1;
+
+                  if (window.goatcounter && typeof window.goatcounter.get_data === "function") {
+                    window.clearInterval(timer);
+                    callback(window.goatcounter);
+                    return;
+                  }
+
+                  if (attempts >= 50) {
+                    window.clearInterval(timer);
+                    callback(null);
+                  }
+                }, 100);
+              }
+
+              function addPostViewCount() {
+                var titleMeta = document.querySelector("#title-block-header .quarto-title-meta");
+                var goatCounterScript = document.querySelector("script[data-goatcounter]");
+
+                if (!titleMeta || !goatCounterScript || document.querySelector(".post-views-meta")) return;
+
+                var viewsMeta = document.createElement("div");
+                viewsMeta.className = "post-views-meta";
+                viewsMeta.innerHTML =
+                  '<div class="quarto-title-meta-heading">Views</div>' +
+                  '<div class="quarto-title-meta-contents"><p class="post-view-count is-loading">Loading...</p></div>';
+                titleMeta.appendChild(viewsMeta);
+
+                var countElement = viewsMeta.querySelector(".post-view-count");
+                var goatCounterBase = goatCounterScript
+                  .getAttribute("data-goatcounter")
+                  .replace(/\/count\/?$/, "");
+
+                whenGoatCounterReady(function (goatcounter) {
+                  if (!goatcounter) {
+                    viewsMeta.remove();
+                    return;
+                  }
+
+                  var data = goatcounter.get_data();
+                  var path = data && data.p ? data.p : window.location.pathname;
+
+                  window.setTimeout(function () {
+                    window.fetch(goatCounterBase + "/counter/" + encodeURIComponent(path) + ".json", {
+                      cache: "no-store"
+                    })
+                      .then(function (response) {
+                        if (response.status === 404) return { count: "0" };
+                        if (!response.ok) throw new Error("Unable to load GoatCounter views");
+                        return response.json();
+                      })
+                      .then(function (payload) {
+                        if (!payload || typeof payload.count === "undefined") {
+                          throw new Error("Invalid GoatCounter response");
+                        }
+
+                        countElement.textContent = payload.count;
+                        countElement.classList.remove("is-loading");
+                      })
+                      .catch(function () {
+                        viewsMeta.remove();
+                      });
+                  }, 1000);
+                });
+              }
+
+              addLinkedInShareButton();
+              addPostViewCount();
             });
           </script>
 

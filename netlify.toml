@@ -15,6 +15,56 @@
   force = true
 
 [[redirects]]
+  from = "/categories/clinical-trial-design/"
+  to = "/categories/#clinical-trial-design"
+  status = 301
+
+[[redirects]]
+  from = "/categories/regulatory-science/"
+  to = "/categories/#regulatory-science"
+  status = 301
+
+[[redirects]]
+  from = "/categories/real-world-evidence/"
+  to = "/categories/#real-world-evidence"
+  status = 301
+
+[[redirects]]
+  from = "/categories/medical-ai/"
+  to = "/categories/#medical-ai"
+  status = 301
+
+[[redirects]]
+  from = "/categories/statistics-fundamentals/"
+  to = "/categories/#statistics-fundamentals"
+  status = 301
+
+[[redirects]]
+  from = "/categories/notes-reads/"
+  to = "/categories/#notes-reads"
+  status = 301
+
+[[redirects]]
+  from = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-and-Biological-Product-Development/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/master_protocol_part1.md/"
+  to = "/posts/master_protocol_part1/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching_noninferiority_superiority.md/"
+  to = "/posts/switching_noninferiority_superiority/"
+  status = 301
+
+[[redirects]]
+  from = "/posts/switching_noninferiority_superiority_eng.md/"
+  to = "/posts/switching_noninferiority_superiority_eng/"
+  status = 301
+
+[[redirects]]
   from = "/posts/Adaptive-design-and-master-protocol-project-ENG/"
   to = "/posts/Adaptive_design_and_master_protocol_project_ENG/"
   status = 301
@@ -221,7 +271,7 @@
 
 [[redirects]]
   from = "/posts/Session1-Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
-  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-and-Biological-Product-Development/"
   status = 301
 
 [[redirects]]
@@ -491,22 +541,22 @@
 
 [[redirects]]
   from = "/posts/master-protocol-part1.md/"
-  to = "/posts/master_protocol_part1.md/"
+  to = "/posts/master_protocol_part1/"
   status = 301
 
 [[redirects]]
   from = "/posts/master-protocol-part1/"
-  to = "/posts/master_protocol_part1.md/"
+  to = "/posts/master_protocol_part1/"
   status = 301
 
 [[redirects]]
   from = "/posts/master_protocol_part1-md/"
-  to = "/posts/master_protocol_part1.md/"
+  to = "/posts/master_protocol_part1/"
   status = 301
 
 [[redirects]]
   from = "/posts/master_protocol_part1/"
-  to = "/posts/master_protocol_part1.md/"
+  to = "/posts/master_protocol_part1/"
   status = 301
 
 [[redirects]]
@@ -736,17 +786,17 @@
 
 [[redirects]]
   from = "/posts/session1-hybrid-public-workshop-on-ai-in-drug-&-biological-product-development/"
-  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-and-Biological-Product-Development/"
   status = 301
 
 [[redirects]]
   from = "/posts/session1_hybrid-public-workshop-on-ai-in-drug-&-biological-product-development/"
-  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-and-Biological-Product-Development/"
   status = 301
 
 [[redirects]]
   from = "/posts/session1_hybrid-public-workshop-on-ai-in-drug-biological-product-development/"
-  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-&-Biological-Product-Development/"
+  to = "/posts/Session1_Hybrid-Public-Workshop-on-AI-in-Drug-and-Biological-Product-Development/"
   status = 301
 
 [[redirects]]
@@ -791,42 +841,42 @@
 
 [[redirects]]
   from = "/posts/switching-noninferiority-superiority-eng.md/"
-  to = "/posts/switching_noninferiority_superiority_eng.md/"
+  to = "/posts/switching_noninferiority_superiority_eng/"
   status = 301
 
 [[redirects]]
   from = "/posts/switching-noninferiority-superiority-eng/"
-  to = "/posts/switching_noninferiority_superiority_eng.md/"
+  to = "/posts/switching_noninferiority_superiority_eng/"
   status = 301
 
 [[redirects]]
   from = "/posts/switching-noninferiority-superiority.md/"
-  to = "/posts/switching_noninferiority_superiority.md/"
+  to = "/posts/switching_noninferiority_superiority/"
   status = 301
 
 [[redirects]]
   from = "/posts/switching-noninferiority-superiority/"
-  to = "/posts/switching_noninferiority_superiority.md/"
+  to = "/posts/switching_noninferiority_superiority/"
   status = 301
 
 [[redirects]]
   from = "/posts/switching_noninferiority_superiority-md/"
-  to = "/posts/switching_noninferiority_superiority.md/"
+  to = "/posts/switching_noninferiority_superiority/"
   status = 301
 
 [[redirects]]
   from = "/posts/switching_noninferiority_superiority/"
-  to = "/posts/switching_noninferiority_superiority.md/"
+  to = "/posts/switching_noninferiority_superiority/"
   status = 301
 
 [[redirects]]
   from = "/posts/switching_noninferiority_superiority_eng-md/"
-  to = "/posts/switching_noninferiority_superiority_eng.md/"
+  to = "/posts/switching_noninferiority_superiority_eng/"
   status = 301
 
 [[redirects]]
   from = "/posts/switching_noninferiority_superiority_eng/"
-  to = "/posts/switching_noninferiority_superiority_eng.md/"
+  to = "/posts/switching_noninferiority_superiority_eng/"
   status = 301
 
 [[redirects]]

@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://tea-tasting-statisticians.com/sitemap.xml
+
+#DaumWebMasterTool:686a7d16de7543716da6b223c50fe735c0416c94971785d9fc4f11e173c19931:VBf3Bb45W0QCfVjqZcfSCQ==

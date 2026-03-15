@@ -1,7 +1,7 @@
 ---
 title: Posts
 listing:
-  contents: posts/*/index.md
+  contents: "*/index.md"
   type: default
   sort: "date desc"
   sort-ui: false

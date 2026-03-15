@@ -22,7 +22,7 @@ This page is for first-time readers who want practical regulatory statistics gui
 
 1. [Introduction to advanced designs for clinical trial](/posts/Advanced-designs-for-clinical-trial-1st-week/)
 2. [Pragmatic trial](/posts/Advanced-designs-for-clinical-trial-2nd-week/)
-3. [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority.md/)
+3. [Switching noninferiority and superiority trial](/posts/switching_noninferiority_superiority/)
 
 ## Recommended weekly reading routine
 

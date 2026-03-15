@@ -2,32 +2,25 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Run Jekyll Server",
+      "label": "Preview Quarto Site",
       "type": "shell",
-      "command": "./tools/run.sh",
+      "command": "quarto preview",
       "group": {
         "kind": "build",
         "isDefault": true
       },
       "problemMatcher": [],
-      "detail": "Runs the Jekyll server with live reload."
+      "detail": "Run the Quarto preview server with live reload."
     },
     {
-      "label": "Build Jekyll Site",
+      "label": "Render Quarto Site",
       "type": "shell",
-      "command": "./tools/test.sh",
+      "command": "quarto render",
       "group": {
         "kind": "build"
       },
       "problemMatcher": [],
-      "detail": "Build the Jekyll site for production."
-    },
-    {
-      "label": "Normalize Post Images",
-      "type": "shell",
-      "command": "bash tools/normalize-post-images.sh --post ${file}",
-      "problemMatcher": [],
-      "detail": "Normalize Obsidian image links and filenames for the current post."
+      "detail": "Render the Quarto site into _site."
     }
   ]
 }
