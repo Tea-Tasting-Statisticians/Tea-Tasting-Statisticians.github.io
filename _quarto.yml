@@ -3,7 +3,6 @@ project:
   output-dir: _site
   pre-render:
     - scripts/sync-missing-posts.sh
-    - scripts/generate-archives.sh
   resources:
     - googlef47d389d46e6c4f0.html
     - naver31517cb4b186ebfa9d807beab94a8228.html
@@ -81,6 +80,8 @@ website:
 
 format:
   html:
+    filters:
+      - scripts/archives-by-year.lua
     date-format: "YYYY-MM-DD"
     theme:
       light:

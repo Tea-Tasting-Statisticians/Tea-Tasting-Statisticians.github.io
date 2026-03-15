@@ -6,4 +6,5 @@ toc: false
 
 All posts by year.
 
-{{< include _generated/archives-by-year.md >}}
+::: {.archives-by-year}
+:::
