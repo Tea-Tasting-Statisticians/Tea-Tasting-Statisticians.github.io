@@ -1,6 +1,6 @@
 ---
-title: RWE guideline causal inference part1
-date: '2024-12-11'
+title: RWE guideline causal inference part1 (ENG)
+date: 2024-12-11
 categories:
 - Real World Evidence
 tags:
@@ -10,7 +10,9 @@ tags:
 - rct
 - clinical trial
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 We had our first meeting of the Pseudo Lab's RWE (Real World Evidence) guideline study. To generate real world evidence from real world data, we need to understand the concept of causal inference.
@@ -25,4 +27,4 @@ Please check the link below for detailed information.
 
 [https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part1.html)
 
-Source: [Original Korean article](https://tea-tasting-statisticians.com/posts/RWE_guideline_week1/) \| English translation by Claude 3.5 Sonnet (New)
+Source: [Original Korean article](https://tea-tasting-statisticians.github.io/posts/RWE_guideline_week1/) \| English translation by Claude 3.5 Sonnet (New)

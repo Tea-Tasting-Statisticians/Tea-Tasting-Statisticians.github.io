@@ -2,7 +2,9 @@
 title: Sample size calculation in terms of epsilon and delta
 date: 2024-10-01
 categories: [KOR,Clinical Trial Designs, Sample size calculation]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [true mean difference, clinical significance, statistical significance]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

@@ -1,6 +1,6 @@
 ---
 title: 표준편차와 표준오차
-date: '2025-10-03'
+date: 2025-10-03
 categories:
 - Statistics Fundamentals
 tags:
@@ -8,7 +8,9 @@ tags:
 - standard deviation
 - standard error
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 통계학과 의학에서 표준편차와 표준오차는 자주 나오는 개념이다. 표준편차(standard deviation)은 자료의 퍼진 정도를 나타내는 데 좋은 metric이다. 표준편차는 편차의 제곱의 평균의 제곱근으로 정의된다. 우리가 흔히 이야기하는 분산은 편차의 제곱의 평균이다. 

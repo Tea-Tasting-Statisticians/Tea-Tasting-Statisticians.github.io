@@ -98,7 +98,63 @@ format:
       - text: |
           <script>
             document.addEventListener("DOMContentLoaded", function () {
-              if (!/^\/posts\/[^/]+\/?$/.test(window.location.pathname)) return;
+              var isPostPage = /^\/posts\/[^/]+\/?$/.test(window.location.pathname);
+
+              var authorProfiles = {
+                "Tea Tasting Gentleman": "https://www.linkedin.com/in/shstat1729/",
+                "Tea Tasting Lady": "https://www.linkedin.com/in/systat/"
+              };
+
+              function createAuthorLink(name) {
+                var url = authorProfiles[name];
+
+                if (!url) return null;
+
+                var link = document.createElement("a");
+                link.href = url;
+                link.textContent = name;
+                link.className = "author-profile-link";
+                link.style.color = "inherit";
+                link.style.textDecoration = "underline";
+                link.style.textUnderlineOffset = "0.15em";
+
+                return link;
+              }
+
+              function linkTitleBlockAuthors() {
+                document.querySelectorAll("#title-block-header .quarto-title-meta-contents p").forEach(function (authorNode) {
+                  var name = authorNode.textContent.trim();
+                  var link = createAuthorLink(name);
+
+                  if (!link || authorNode.querySelector("a")) return;
+
+                  authorNode.textContent = "";
+                  authorNode.appendChild(link);
+                });
+              }
+
+              function linkListingAuthors() {
+                document.querySelectorAll(".metadata .listing-author").forEach(function (authorNode) {
+                  var name = authorNode.textContent.trim();
+                  var link = createAuthorLink(name);
+
+                  if (!link) return;
+
+                  link.classList.add("listing-author");
+                  link.style.display = "block";
+
+                  var metadata = authorNode.closest(".metadata");
+                  var postLink = authorNode.closest("a");
+
+                  if (metadata && postLink && postLink.parentElement === metadata) {
+                    postLink.removeChild(authorNode);
+                    metadata.appendChild(link);
+                    return;
+                  }
+
+                  authorNode.replaceWith(link);
+                });
+              }
 
               function addLinkedInShareButton() {
                 var shareUrl = encodeURIComponent(window.location.href);
@@ -181,6 +237,9 @@ format:
                 });
               }
 
+              linkTitleBlockAuthors();
+              linkListingAuthors();
+              if (!isPostPage) return;
               addLinkedInShareButton();
               addPostViewCount();
             });

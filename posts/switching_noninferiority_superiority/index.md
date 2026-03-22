@@ -1,6 +1,6 @@
 ---
 title: Switching noninferiority and superiority trial
-date: '2024-10-19'
+date: 2024-10-19
 categories:
 - Clinical Trial Design
 tags:
@@ -10,7 +10,9 @@ tags:
 - superiority
 - clinical trial
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 우월성 임상시험이나 비열등성 임상시험을 진행하는 경우에 분석 결과에 따라 우월성 임상시험에서 비열등성 임상시험으로 변경한다든지 비열등성 임상시험에서 우월성 임상시험으로 변경하는 경우가 있을 것입니다.

@@ -4,7 +4,9 @@ date: 2025-03-29
 categories: [KOR, etc (KOR)]
 tags: [pseudolab, presentation, adaptive design, master protocol]     # lower case 
 author: <Tea Tasting Gentleman>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 
 25.03.29에 가짜연구소 인과추론팀에서 주최한 행사에서 발표할 수 있는 좋은 기회를 얻게 되었습니다. 90여명에 가까운 사람들이 모였습니다. 저는 이번 10기 프로젝트에서 adaptive design과 master protocol을 공부하고, 배운 개념을 토대로 프로토콜을 만들어 공유하는 작업을 합니다. 이와 관련된 내용들을 발표하였습니다.

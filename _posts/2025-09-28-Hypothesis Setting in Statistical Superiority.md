@@ -2,7 +2,9 @@
 title: 통계적 우월성 검정 가설 설정 (단측 검정 vs 양측 검정)
 date: 2025-09-28
 categories: [KOR,Clinical Trial Designs]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [clinical trial]  # lower case 
 author: <Tea Tasting Lady>
 --- 

@@ -4,7 +4,9 @@ date: 2026-03-01
 categories: [KOR, etc (KOR)]
 tags: [korean, neuroscience, book reading]   # lower case 
 author: <Tea Tasting Gentleman>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 멍청해지기 전에 읽는 뇌과학 - 이인아 저 (독후감)
 

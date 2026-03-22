@@ -1,6 +1,6 @@
 ---
-title: RWE guideline causal inference part2
-date: '2024-12-11'
+title: RWE guideline causal inference part2 (ENG)
+date: 2024-12-11
 categories:
 - Real World Evidence
 tags:
@@ -12,7 +12,9 @@ tags:
 - confounder
 - collider
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 On October 16th, we had the Pseudo Lab's RWE guideline study. It was the final week covering causal inference concepts. Next week, we'll cover the FDA framework guidelines. This week's topics were statistics review and graphical causal models. [Jaeyun Choi](https://www.linkedin.com/in/jaeyun-choi-0b64292a0/) prepared and presented the materials.
@@ -49,4 +51,4 @@ Second example: Per protocol set analysis, which only includes participants who 
 
 Presentation material : [https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part2.html](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/causal_inference_part2.html)
 
-Source: [Original Korean article](https://tea-tasting-statisticians.com/posts/Causal_inference_part2/) \| English translation by Claude 3.5 Sonnet (New)
+Source: [Original Korean article](https://tea-tasting-statisticians.github.io/posts/Causal_inference_part2/) \| English translation by Claude 3.5 Sonnet (New)

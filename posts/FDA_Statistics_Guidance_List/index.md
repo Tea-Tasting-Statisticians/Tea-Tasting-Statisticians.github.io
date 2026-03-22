@@ -1,12 +1,21 @@
 ---
 title: FDA 통계(Biostatistics) 관련 가이던스 목록
-description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등성, 의료기기 기준으로 빠르게 훑을 수 있도록 정리한 목록입니다.
 date: 2026-03-15
-categories: [Regulatory Science]
-tags: [lang-kor, guideline, fda, biostatistics]
-author: <Tea Tasting Lady>
-math: true
+categories:
+- Regulatory Science
+tags:
+- lang-kor
+- guideline
+- fda
+- biostatistics
+author: Tea Tasting Lady
+format:
+  html:
+    html-math-method: mathjax
+description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등성, 의료기기 기준으로 빠르게 훑을 수 있도록
+  정리한 목록입니다.
 ---
+
 > 출처: [FDA Guidance Documents Search](https://www.fda.gov/regulatory-information/search-fda-guidance-documents) / [FDA Office of Biostatistics](https://www.fda.gov/about-fda/cder-offices-and-divisions/office-biostatistics)
 
 ---

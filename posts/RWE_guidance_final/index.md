@@ -1,8 +1,6 @@
 ---
 title: 의료기기의 실사용증거 적용에 대한 가이드라인 후기
-description: Quick interpretation of MFDS device RWE guidance and where teams usually
-  struggle.
-date: '2025-02-23'
+date: 2025-02-23
 categories:
 - Real World Evidence
 tags:
@@ -10,7 +8,11 @@ tags:
 - real world evidence
 - real world data
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
+description: Quick interpretation of MFDS device RWE guidance and where teams usually
+  struggle.
 ---
 
 가짜연구소 RWE 가이드라인 스터디가 마무리되었습니다. 마지막에는 식약처의 "의료기기의 실사용증거 적용에 대한 가이드라인"을 살펴보았습니다. 식약처에서 RWE 가이드라인은 이 가이드라인이 유일합니다. 이 가이드라인에서는 RWE의 개념, 예시, 활용 등에 대해서 간략하게 설명하고 있습니다.

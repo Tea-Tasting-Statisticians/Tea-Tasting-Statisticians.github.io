@@ -1,12 +1,14 @@
 ---
 title: 의료기기 임상 Project Template 개발 및 활용
-date: '2025-11-22'
+date: 2025-11-22
 categories:
 - Notes & Reads
 tags:
 - lang-kor
 author: Tea Tasting Lady
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 # Introduction
@@ -17,6 +19,7 @@ math: true
 
 # Template Structure
 임상 Project Study Template  구조 입니다.
+
 ![Project Structure](/img/Template_Structure.png) 
 
 ## 1. Regulatory Framework
@@ -162,4 +165,4 @@ math: true
 - 연구 관련 참고한 문헌이 있을 경우, 간단히 요약 및 링크 제시 (e.g., Continuous glucose monitoring and metrics for clinical trials_an international consensus statement)
 
 ## Notes and Comments (참고 및 의견)
-- 
+-

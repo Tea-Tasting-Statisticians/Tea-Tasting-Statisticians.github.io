@@ -3,8 +3,10 @@ title: FDA 통계(Biostatistics) 관련 가이던스 목록
 date: 2026-03-15
 categories: [KOR, Regulatory Science, FDA]
 tags: [korean, guideline]   # lower case 
-author: <Tea Tasting Lady>
-math: true
+author: Tea Tasting Lady
+format:
+  html:
+    html-math-method: mathjax
 ---
 > 출처: [FDA Guidance Documents Search](https://www.fda.gov/regulatory-information/search-fda-guidance-documents) / [FDA Office of Biostatistics](https://www.fda.gov/about-fda/cder-offices-and-divisions/office-biostatistics)
 

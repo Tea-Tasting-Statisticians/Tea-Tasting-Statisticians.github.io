@@ -1,6 +1,6 @@
 ---
 title: Biostat Guidance
-date: '2024-09-21'
+date: 2024-09-21
 categories:
 - Regulatory Science
 tags:
@@ -32,5 +32,3 @@ DELTA2 guidance on choosing the target difference and undertaking and reporting 
 Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests - Guidance for Industry and FDA Staff
 
 E9(R1) STATISTICAL PRINCIPLES FOR CLINICAL TRIALS: ADDENDUM: ESTIMANDS AND SENSITIVITY ANALYSIS IN CLINICAL TRIALS
-
-

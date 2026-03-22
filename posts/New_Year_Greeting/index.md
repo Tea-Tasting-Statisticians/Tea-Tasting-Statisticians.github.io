@@ -1,6 +1,6 @@
 ---
 title: New Year Greeting
-date: '2025-01-02'
+date: 2025-01-02
 categories:
 - Medical AI
 tags:

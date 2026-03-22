@@ -4,7 +4,9 @@ date: 2025-10-09
 categories: [KOR, etc (KOR)]
 tags: [korean]   # lower case 
 author: <Tea Tasting Lady>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 # AI in Drug & Biological Product Development Hybrid Public Workshop 2025
 
@@ -103,7 +105,9 @@ math: true
 - 앞으로도 계속 의미있고 유용한 Guidance 를 만들기 위해 계속 노력할 것임 
 
 ## Session 1: Where are we now? 
+
 ![Session1_Slide](/img/image-2.png)
+
 - by Moderator M. Khair Elzarrd 
 	- 이번 세션에서 의미있는 논의가 이루어지기를 원함 
 	- Panel 소개

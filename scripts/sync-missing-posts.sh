@@ -4,6 +4,8 @@ set -eu
 
 shopt -s nullglob
 
+generator="scripts/obsidian_to_quarto.py"
+
 slugify_post_name() {
   local value="$1"
 
@@ -23,9 +25,9 @@ for source in _posts/*.md; do
   target_dir="posts/${slug}"
   target_file="${target_dir}/index.md"
 
-  if [ ! -f "${target_file}" ]; then
+  if [ ! -f "${target_file}" ] || [ "${source}" -nt "${target_file}" ] || [ "${generator}" -nt "${target_file}" ]; then
     mkdir -p "${target_dir}"
-    cp "${source}" "${target_file}"
-    echo "Created ${target_file} from ${source}"
+    python3 "${generator}" "${source}" "${target_file}"
+    echo "Generated ${target_file} from ${source}"
   fi
 done

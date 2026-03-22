@@ -1,6 +1,6 @@
 ---
 title: Comment on ICH M14 Guideline - part 1
-date: '2024-11-17'
+date: 2024-11-17
 categories:
 - Real World Evidence
 tags:
@@ -11,7 +11,9 @@ tags:
 - study design
 - epidemiology
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 가짜연구소 스터디에서 ICH M14 guideline에 대해 다루었다. ICH(The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use) 가이드라인은 규제기관과 제약 회사 등 관련 업계에서 인정받는 과학적이고 기술적인 가이드라인이다. ICH 가이드라인은 크게 4가지로 이루어진다. Quality (Q), Safety (S), Efficacy (E), 그리고 Multidiciplinary (M)이다. Q는 제약 품질을 보장하는 데 관련된 가이드라인이며 S는 비임상시험에서 다루는 safety와 관련이 있다. E는 임상시험에서 효과와 안전성을 다루며, biostatistician은 E6 R2 (Good Clinical Practice, GCP)와 E9 (Statistical Principles for Clinical Trials)를 주로 살펴보게 된다.

@@ -4,10 +4,13 @@ date: 2026-02-22
 categories: [ENG, Statistics (ENG)]
 tags: [korean]   # lower case 
 author: <Tea Tasting Lady>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 
 # Overview
+
 ![](/img/Pasted%20image%2020260221215800.png)
 
 # Information
@@ -23,7 +26,9 @@ math: true
 
 # 1. The most important statistical ideas of the past 50 years
 ## 1.1 Counterfactual causal inference
+
 ![](/img/Pasted%20image%2020260221222818.png)
+
 - The counterfactual framework
 	- placed causal inference within a statistical or predictive framework
 		- causal estimands could be precisely defined and
@@ -34,7 +39,9 @@ math: true
 		- using the same structure used to model controlled experiments
 
 ## 1.2 Bootstrapping and simulation-based inference
+
 ![](/img/Pasted%20image%2020260221222918.png)
+
 - The bootstrap opened the door to a form of implicit nonparametric modeling 
 - Big data: Bootstrapping can be used for 
 	- bias correction and variance estimation for
@@ -42,7 +49,9 @@ math: true
 			- where analytical calculations are not possible
 
 ## 1.3 Overparametrized models and regularization
+
 ![](/img/Pasted%20image%2020260221223144.png)
+
 - Overparametrized models and regularization
 	- formalized and generalized the existing practice of restricting a model's size
 		- based on the ability to estimate its parameters from the data
@@ -51,7 +60,9 @@ math: true
 	- users to include more predictors in a model without so much concern about overfitting
 
 ## 1.4 Bayesian multilevel models
+
 ![](/img/Pasted%20image%2020260221223242.png)
+
 - Multilevel models formalized 
 	- Empirical bayes techniques of estimating a prior distribution from data
 		- leading to the use of such methods with more computational and inferential stability 
@@ -60,7 +71,9 @@ math: true
 	- applying the principle of meta-analysis more generally
 
 ## 1.5 Generic computation algorithms
+
 ![](/img/Pasted%20image%2020260221223333.png)
+
 - Generic computation algorithms make it possible 
 	- for applied practitioners to quickly fit advanced models for
 		- causal inference, multilevel analysis, reinforcement learning and may other areas
@@ -70,7 +83,9 @@ math: true
 	- which can be necessary to connect available data to underlying questions of interest
 
 ## 1.6 Adaptive decision analysis 
+
 ![](/img/Pasted%20image%2020260221223453.png)
+
 - Adaptive decision analysis connects 
 	- engineering problems of optimal control to the field of statistical learning
 		- going far beyond classical experimental design
@@ -78,7 +93,9 @@ math: true
 	- stochastic optimization methods developed in numerical analysis
 
 ## 1.7 Robust inference
+
 ![](/img/Pasted%20image%2020260221223618.png)
+
 - Robust inference formalized intuitions about inferential stability
 	- framing these questions in a way that allowed
 		- formal evaluation and modeling of different procedures 
@@ -89,7 +106,9 @@ math: true
 	- more routine use of data with outliers, correlations, and other aspects 
 
 ## 1.8 Exploratory data analysis
+
 ![](/img/Pasted%20image%2020260221223726.png)
+
 - Exploratoy data analysis moved
 	- graphical techniques and discovery in to the mainstream of statistcal practice
 	- to better understand and diagnose problems of new complex classes of probability models that are being fit to data 
@@ -101,14 +120,18 @@ math: true
 # 2. What these ideas have in common and how they diffier
 
 ## 2.1 Ideas lead to methods and workflows
+
 ![](/img/Pasted%20image%2020260222201437.png)
+
 - Each of these ideas was a 
 	- codification
 	- bringing inside the tent an approach
 		- considred more a matter of taste of philosophy than statistics 
 
 ## 2.2 Advances in computing 
+
 ![](/img/Pasted%20image%2020260221223807.png)
+
 - Meta-algorithms
 	- def: workflows that make use of existing models and inferential procedures 
 	- have always been with us in statistics
@@ -127,6 +150,7 @@ math: true
 			- (Efron and Hastie, 2016)
 
 ![](/img/Pasted%20image%2020260222201513.png)
+
 - Modern computation usage in statistics
 	- Bootstrapping, overparametrized models, and machine learning meta-analysis
 		- directly take advantage of computing speed 
@@ -159,7 +183,9 @@ math: true
 			- (Hill, 2011, Wager and Athey, 2018, Chernozhuskov et al., 2018)
 
 ## 2.3 Big data 
+
 ![](/img/Pasted%20image%2020260222201608.png)
+
 - Modern computing -> big data 
 	- the application and development of new statistical methods
 		- gene arrays, streaming image and text data, 
@@ -174,8 +200,11 @@ math: true
 	- Stan, Tensorflow, and Pyro 
 
 ## 2.4 Connections and interactions among these ideas 
+
 ![](/img/Pasted%20image%2020260222202037.png)
+
 ![](/img/Pasted%20image%2020260222201638.png)
+
 - The idea of interconnections 
 	- the connection between robust statistics and exploratory data analysis 
 	- e.g., residual plots and hinging rootograms can be derived from specific model classes 
@@ -192,6 +221,7 @@ math: true
 		- relates to reproducing kernal Hilbert spaces, which are used in splines and support vector machines 
 
 ![](/img/Pasted%20image%2020260222201713.png)
+
 - Bayesian hierarchical models
 	- highly parametrized machine learning methods 
 	- Baysian computational methods can help 
@@ -199,13 +229,17 @@ math: true
 		- and efficient optimization algorithms can be used to approximate model-based inference 
 
 ## 2.5 Links to other new and useful developments in statistics 
+
 ![](/img/Pasted%20image%2020260222201743.png)
+
 ![](/img/Pasted%20image%2020260222201819.png)
+
 ![](/img/Pasted%20image%2020260222201850.png)
 
 # 3. What will be the important statistical ideas of the next few decades? 
 
 ## 3.1 Looking backward
+
 ![](/img/Pasted%20image%2020260222202517.png)
 
 ## 3.2 Looking forward 

@@ -2,7 +2,9 @@
 title: 결혼과 이혼률, 그리고 생존분석
 date: 2025-07-27
 categories: [KOR, Survival Analysis (KOR)]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [survival analysis, divorce rate, marriage, time to event]   # lower case 
 author: <Tea Tasting Gentleman>
 --- 

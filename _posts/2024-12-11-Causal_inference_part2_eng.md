@@ -2,7 +2,9 @@
 title: RWE guideline causal inference part2 (ENG)
 date: 2024-12-11
 categories: [ENG,Real World Evidence (ENG)]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [real world evidence, causal inference, graphical model, mediator, confounder, collider]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

@@ -1,6 +1,6 @@
 ---
 title: Adaptive design
-date: '2024-11-17'
+date: 2024-11-17
 categories:
 - Clinical Trial Design
 tags:

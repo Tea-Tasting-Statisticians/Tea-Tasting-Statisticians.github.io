@@ -1,5 +1,13 @@
 ---
 title: Tea Tasting Statisticians
+listing:
+  contents: "posts/*/index.md"
+  type: default
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: true
+  categories: true
+  feed: false
 ---
 
 ## Mission
@@ -33,15 +41,10 @@ Senior biostatistician with 10+ years in regulatory science, including 7 years a
 Biostatistician and PhD candidate in clinical epidemiology focused on diabetes, RWE, and innovative trial designs.
 :::
 
-## Recommended Recent Reads
+## Browse Posts
 
-- [Connection between noncomparative adaptive design and estimand framework](/posts/Noncomparative_adaptive_design_estimand_framework/)
-- [Adjustment of Baseline Covariates in Randomized Controlled Trial](/posts/Adjustment_of_Baseline_Covariates/)
-- [FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests](/posts/FDA-Guidance-Statistical-Guidance-on-Reporting-Results-from-Studies-Evaluating-Diagnostic-Tests_Translated/)
-- [Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices](/posts/RWE_medical_device_FDA/)
-- [식약처 의료기기 임상관련 통계업무](/posts/Medical-Device-Biostatistician-Work/)
-
-For full chronological browsing, go to [All Posts](/posts/).
+Use the filter box and category chips below to search posts directly from the home page.
+For the full archive view, go to [All Posts](/posts/).
 
 ## Stay Connected
 

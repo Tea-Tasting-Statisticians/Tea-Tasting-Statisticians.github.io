@@ -4,7 +4,9 @@ date: 2025-03-02
 categories: [ENG, etc]
 tags: [statistics, humor, data science, bayesian, nerd]     # lower case 
 author: <Tea Tasting Gentleman>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 When Statisticians Fall in Love 📊❤️
 

@@ -2,7 +2,9 @@
 title: RWE guideline causal inference part1 (ENG)
 date: 2024-12-11
 categories: [ENG,Real World Evidence (ENG)]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [causal inference, randomized controlled trial, rct, clinical trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

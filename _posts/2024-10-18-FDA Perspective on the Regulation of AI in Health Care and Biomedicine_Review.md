@@ -2,7 +2,9 @@
 title: FDA Perspective on the Regulation of AI in Health Care and Biomedicine
 date: 2024-10-18
 categories: [KOR,Regulatory Science, FDA]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [fda, medical ai]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---

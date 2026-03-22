@@ -4,7 +4,9 @@ date: 2026-03-01
 categories: [ENG, etc]
 tags: [english, neuroscience, book reading]   # lower case 
 author: <Tea Tasting Gentleman>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 Neuroscience to Read Before You Get Stupid (Book Reading)
 

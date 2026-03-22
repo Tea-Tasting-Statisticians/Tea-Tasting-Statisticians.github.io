@@ -1,11 +1,9 @@
 ---
 title: Considerations Regarding Non-Interventional Studies for Drug and Biological
-  Products Guidance for Industry
-description: What this FDA guidance changes for protocol and SAP planning in non-interventional
-  studies.
-date: '2025-01-12'
+  Products Guidance for Industry (ENG)
+date: 2025-01-12
 categories:
-- Real World Evidence
+- Real World Evidence (ENG)
 tags:
 - lang-eng
 - rwe

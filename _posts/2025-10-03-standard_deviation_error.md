@@ -2,7 +2,9 @@
 title: 표준편차와 표준오차
 date: 2025-10-03
 categories: [KOR,etc (KOR)]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [standard deviation, standard error]  # lower case 
 author: <Tea Tasting Gentleman>
 --- 

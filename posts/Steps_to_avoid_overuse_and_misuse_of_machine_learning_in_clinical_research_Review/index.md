@@ -1,6 +1,6 @@
 ---
 title: Steps to avoid over use and misuse of ML in clinical research Review
-date: '2024-12-01'
+date: 2024-12-01
 categories:
 - Clinical Trial Design
 tags:
@@ -178,4 +178,5 @@ Box 1 | Recommendations to avoid overuse and misuse of AI in clinical research 
             - which  would otherwise sow distrust and cause patient harm
 
 ## Table 1: Definitions of several key terms in machine learning
+
 ![](/img/Table1.png)

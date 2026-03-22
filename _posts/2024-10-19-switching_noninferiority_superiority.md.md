@@ -2,7 +2,9 @@
 title: Switching noninferiority and superiority trial
 date: 2024-10-19
 categories: [KOR,Clinical Trial Designs, Switching Trials]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [switching trial, noninferiority, superiority, clinical trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

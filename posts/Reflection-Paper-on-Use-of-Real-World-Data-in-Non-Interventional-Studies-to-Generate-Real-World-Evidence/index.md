@@ -1,7 +1,7 @@
 ---
 title: Reflection Paper on Use of Real World Data in Non-Interventional Studies to
   Generate Real-World Evidence
-date: '2024-12-11'
+date: 2024-12-11
 categories:
 - Real World Evidence
 tags:

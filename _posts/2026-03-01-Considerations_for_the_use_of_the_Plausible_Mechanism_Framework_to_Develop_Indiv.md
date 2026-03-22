@@ -4,7 +4,9 @@ date: 2026-03-01
 categories: [KOR, Regulatory Science, FDA]
 tags: [genetic therapy,fda, guidance]   # lower case 
 author: <Tea Tasting Lady>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 
 📅 **발표일:** 2026-02-24  

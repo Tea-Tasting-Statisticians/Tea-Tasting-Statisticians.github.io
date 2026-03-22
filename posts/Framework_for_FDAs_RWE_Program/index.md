@@ -1,6 +1,6 @@
 ---
 title: Framework for FDA's Real-World Evidence Program part 1
-date: '2024-10-26'
+date: 2024-10-26
 categories:
 - Real World Evidence
 tags:
@@ -11,7 +11,9 @@ tags:
 - effectiveness
 - fda framework
 author: Tea Tasting Lady
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 ## Framework for FDA's Real-World Evidence Program
@@ -240,6 +242,4 @@ math: true
 			- RCT 결과와 관찰연구 결과를 후향적으로 문헌고찰(retrospective review of the literature) 하는 것은  두 방식의 차이에 대한 요약(single summarazation of the differences)은 할 수 있지만, individual real-world data analyses의 타당성에 대해선 거의 정보를 제공하지 못함 
 			- 의미 있는 기저치(meaningful baseline)를 세우려면, FDA는 많은 RCT 결과와 전향적으로 디자인한 비무작위 분석(prospectively designed, nonrondomized analysis) 결과를 대조하여, 엄격한 역학적 원칙에 따라 평가를 해야 함 (To establish a meaningful baseline, the FDA will need many sets of randomized clinical trials with prospectively designed, nonrandomized analyses to match the populations included in randomized clinical trials across a range of clinical questions, each investigated with a set of designs and methods following rigorous epidemiologic principles)
 		- RWE 프로그램에 따라, FDA는 관찰 연구가 약품 유효성의 증거에 어느 정도 기여할 수 있을 지 평가할 것임 
-			- 잘 고안된 관찰연구에서 RCT 결과를 재현하려고 하는 것이 도움이 될 것임 
-
-
+			- 잘 고안된 관찰연구에서 RCT 결과를 재현하려고 하는 것이 도움이 될 것임

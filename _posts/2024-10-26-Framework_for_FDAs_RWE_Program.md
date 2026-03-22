@@ -2,7 +2,9 @@
 title: Framework for FDA's Real-World Evidence Program part 1
 date: 2024-10-26
 categories: [KOR,Real World Evidence]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [randomized controlled trial, real world evidence, pragmatic trial, effectiveness, fda framework]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---

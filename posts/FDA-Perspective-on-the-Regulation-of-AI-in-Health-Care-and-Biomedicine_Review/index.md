@@ -1,6 +1,6 @@
 ---
 title: FDA Perspective on the Regulation of AI in Health Care and Biomedicine
-date: '2024-10-18'
+date: 2024-10-18
 categories:
 - Regulatory Science
 tags:
@@ -8,7 +8,9 @@ tags:
 - fda
 - medical ai
 author: Tea Tasting Lady
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 ### Title
@@ -136,5 +138,4 @@ math: true
 
 ### Conclusions
 - AI 기술은 빠르게 발전하고 있고 이 적용의 확대에 FDA의 역할이 점점 커질 것임
-- 규제 산업군(regulated industries), 학계, FDA 모두 함께 의료 및 의과학(health care and biomedicine) 분야에서 AI 적용의 안전성과 유효성을 평가하고 최적화할 도구를 만들어가야 함 
-
+- 규제 산업군(regulated industries), 학계, FDA 모두 함께 의료 및 의과학(health care and biomedicine) 분야에서 AI 적용의 안전성과 유효성을 평가하고 최적화할 도구를 만들어가야 함

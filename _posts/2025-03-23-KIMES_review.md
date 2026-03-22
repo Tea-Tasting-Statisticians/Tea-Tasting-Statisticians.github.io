@@ -4,7 +4,9 @@ date: 2025-03-23
 categories: [KOR, etc (KOR)]
 tags: [kimes]     # lower case 
 author: <Tea Tasting Gentleman>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 오늘 국제의료기기 병원설비전시회 KIMES에 다녀왔다. 국내 의료기기 수준이 꽤 높은 것을 볼 수 있었다. 인허가 과정을 잘 도우면 미국, 유럽에도 얼마든지 진출할 수 있겠다는 생각이 들었다.
 

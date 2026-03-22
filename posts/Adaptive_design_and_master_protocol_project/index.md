@@ -1,6 +1,6 @@
 ---
 title: Adaptive design & Master protocol 스터디 모집 (영어로 진행)
-date: '2025-02-23'
+date: 2025-02-23
 categories:
 - Clinical Trial Design
 tags:
@@ -15,7 +15,9 @@ tags:
 - Innovation
 - Clinical Research
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 가짜연구소에서 Adaptive design과 master protocol을 다루는 스터디를 열었습니다.

@@ -2,7 +2,9 @@
 title: Adjustment of Baseline Covariates in Randomized Controlled Trial (ENG)
 date: 2025-10-20
 categories: [ENG, Clinical Trial Designs (ENG), Advanced designs for clinical trial (ENG)]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [clinical trial design, adjustment of baseline covariates, precision, confounder]   # lower case 
 author: <Tea Tasting Gentleman>
 

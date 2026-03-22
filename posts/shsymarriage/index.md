@@ -1,6 +1,6 @@
 ---
 title: From Statistical Significance to Significant Others
-date: '2025-01-02'
+date: 2025-01-02
 categories:
 - Notes & Reads
 tags:

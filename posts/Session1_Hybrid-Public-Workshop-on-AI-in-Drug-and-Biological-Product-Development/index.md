@@ -1,13 +1,16 @@
 ---
 title: Session1_AI in Drug & Biological Product Development Hybrid Public Workshop
   2025
-date: '2025-10-09'
+date: 2025-10-09
 categories:
-- Notes & Reads
+- etc (KOR)
 tags:
 - lang-kor
+- korean
 author: Tea Tasting Lady
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 # AI in Drug & Biological Product Development Hybrid Public Workshop 2025
@@ -107,7 +110,9 @@ math: true
 - 앞으로도 계속 의미있고 유용한 Guidance 를 만들기 위해 계속 노력할 것임 
 
 ## Session 1: Where are we now? 
+
 ![Session1_Slide](/img/image-2.png)
+
 - by Moderator M. Khair Elzarrd 
 	- 이번 세션에서 의미있는 논의가 이루어지기를 원함 
 	- Panel 소개
@@ -313,11 +318,3 @@ math: true
 			- AI가 여러 일을 더 쉽게 할 수 있을 능력이 있음 
 			- 방송을 듣는 여러분도 어떻게 AI를 잘 활용할 수 있을지 고민하면 좋겠음
 			- 물론 status quo를 깨는 것은 어렵지만, 바꾸도록 해야 함
-
-
-
-
-
-
-
-

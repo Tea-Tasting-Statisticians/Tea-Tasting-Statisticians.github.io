@@ -2,7 +2,9 @@
 title: Weekly 1 on 1 Meeting
 date: 2025-06-07
 categories: [KOR, tip (KOR)]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [tip, korean]   # lower case 
 author: <Tea Tasting Lady>
 --- 

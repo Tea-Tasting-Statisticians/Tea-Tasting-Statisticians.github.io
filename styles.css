@@ -15,6 +15,16 @@
   color: #959595 !important;
 }
 
+.navbar-brand-container .navbar-brand {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-brand .navbar-logo {
+  max-height: 6rem;
+  width: auto;
+}
+
 .linkedin-share-fab {
   position: fixed;
   right: 1rem;
@@ -68,4 +78,10 @@
 .quarto-listing .quarto-post .listing-description li:empty,
 .quarto-listing .quarto-post .listing-description p:empty {
   display: none;
+}
+
+@media (max-width: 767.98px) {
+  .navbar-brand .navbar-logo {
+    max-height: 5rem;
+  }
 }

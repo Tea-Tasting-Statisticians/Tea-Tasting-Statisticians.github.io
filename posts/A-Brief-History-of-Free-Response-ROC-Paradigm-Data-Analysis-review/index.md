@@ -1,6 +1,6 @@
 ---
 title: A Brief History of Free-Response ROC Paradigm Data Analysis 리뷰
-date: '2024-09-18'
+date: 2024-09-18
 categories:
 - Medical AI
 tags:
@@ -73,7 +73,7 @@ Chakraborty DP. A brief history of free-response receiver operating characterist
     - plot of LL fraction vs NL fraction
     - LLF: the total number of LLs at the given threshold/(the total number of lesions)
     - NLF: the total number of NLs/(the total number of images)
-        ![[Pasted image 20240823223115.png]]
+        ![](/img/Pasted%20image%2020240823223115.png)
     - Not contained within the unit square
     - x-axis
         - mean number of NLs per image
@@ -91,10 +91,10 @@ Chakraborty DP. A brief history of free-response receiver operating characterist
         - P(n)
             - the probability of observing an image with n NLs
             - Poisson distribution 사용
-                ![[Pasted image 20240823223133.png]]
+                ![](/img/Pasted%20image%2020240823223133.png)
             - Lambda: the mean of the distribution, estimated by NLF
         - P(FP)
-            ![[Pasted image 20240823223144.png]]
+            ![](/img/Pasted%20image%2020240823223144.png)
             - the complement of the probability of observing an image with zero NLs
                 - p(FP) = 1 - P(0)
 

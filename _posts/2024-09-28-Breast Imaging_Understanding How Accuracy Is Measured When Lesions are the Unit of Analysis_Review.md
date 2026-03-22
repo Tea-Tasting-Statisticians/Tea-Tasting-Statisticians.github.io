@@ -4,7 +4,9 @@ date: 2024-09-28
 categories: [KOR,Performance Metric]
 tags: [performance metric, medical ai]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 # Info

@@ -1,6 +1,6 @@
 ---
 title: 통계적 유의성 vs 임상적 유의성
-date: '2024-11-01'
+date: 2024-11-01
 categories:
 - Clinical Trial Design
 tags:
@@ -8,7 +8,9 @@ tags:
 - clinical significance
 - statistical significance
 author: Tea Tasting Lady
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 **통계적 유의성 vs 임상적 유의성**

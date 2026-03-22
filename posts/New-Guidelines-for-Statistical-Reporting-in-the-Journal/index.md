@@ -1,6 +1,6 @@
 ---
 title: New Guidelines for Statistical Reporting in the Journal
-date: '2025-01-12'
+date: 2025-01-12
 categories:
 - Clinical Trial Design
 tags:
@@ -66,4 +66,4 @@ author: Tea Tasting Lady
 - Three premesis on revised policies on P values
 	- it is important to adhere to a prespecified analysis plan
 	- the use of statistical thresholds for claiming an effect or association should be limited to analysis for which the analysis plan outlined a method for controlling type I error
-	- the evidence about the benefits and harms of a treatment should include both point estimates and their margins of error 
+	- the evidence about the benefits and harms of a treatment should include both point estimates and their margins of error

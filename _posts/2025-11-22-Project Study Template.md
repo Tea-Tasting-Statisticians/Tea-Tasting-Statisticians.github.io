@@ -4,7 +4,9 @@ date: 2025-11-22
 categories: [KOR, etc (KOR)]
 tags: [korean]   # lower case 
 author: <Tea Tasting Lady>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 
 # Introduction
@@ -15,6 +17,7 @@ math: true
 
 # Template Structure
 임상 Project Study Template  구조 입니다.
+
 ![Project Structure](/img/Template_Structure.png) 
 
 ## 1. Regulatory Framework

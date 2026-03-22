@@ -1,7 +1,7 @@
 ---
 title: MHRA guideline on randomised controlled trials using real-world data to support
   regulatory decisions
-date: '2024-12-11'
+date: 2024-12-11
 categories:
 - Real World Evidence
 tags:

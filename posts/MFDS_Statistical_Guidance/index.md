@@ -1,12 +1,20 @@
 ---
 title: 식품의약품안전처(MFDS) 통계 관련 가이드라인 목록
-description: MFDS의 통계 관련 가이드라인과 임상통계 사례집, AI와 디지털 의료기기 관련 지침을 한 번에 찾을 수 있도록 정리한 목록입니다.
 date: 2026-03-15
-categories: [Regulatory Science]
-tags: [lang-kor, guideline, mfds, biostatistics]
-author: <Tea Tasting Lady>
-math: true
---- 
+categories:
+- Regulatory Science
+tags:
+- lang-kor
+- guideline
+- mfds
+- biostatistics
+author: Tea Tasting Lady
+format:
+  html:
+    html-math-method: mathjax
+description: MFDS의 통계 관련 가이드라인과 임상통계 사례집, AI와 디지털 의료기기 관련 지침을 한 번에 찾을 수 있도록 정리한 목록입니다.
+---
+
 # 식품의약품안전처(MFDS) 통계 관련 가이드라인 목록
 
 > 출처: [식약처 민원인안내서](https://www.mfds.go.kr/brd/m_1060/list.do) / [식약처 안내서·지침](https://www.mfds.go.kr/brd/m_218/list.do) / [식품의약품안전평가원(NIFDS)](https://www.nifds.go.kr/brd/m_15/list.do)
@@ -166,4 +174,3 @@ math: true
 > **시사점**: MFDS는 FDA 대비 통계 전담 가이던스 수가 적으며, 연간 심사·상담사례집을 통해 최신 통계 이슈에 대한 입장을 보완하고 있음. 구체적인 통계 방법론에 대해서는 ICH 가이드라인(E9, E9R1 등) 및 FDA 가이던스를 병행 참조하는 것이 일반적임.
 
 ---
-

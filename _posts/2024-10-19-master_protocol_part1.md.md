@@ -2,7 +2,9 @@
 title: Master protocol part 1
 date: 2024-10-19
 categories: [KOR,Clinical Trial Designs, Advanced designs for clinical trial]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [master protocol, basket trial, umbrella trial, platform trial, subtype, oncology, clinical trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

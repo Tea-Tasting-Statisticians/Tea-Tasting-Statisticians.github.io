@@ -2,7 +2,9 @@
 title: Comment on ICH M14 Guideline - part 1
 date: 2024-11-17
 categories: [KOR,Real World Evidence]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [safety, real world evidence, ich guideline, study design, epidemiology]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

@@ -1,6 +1,6 @@
 ---
 title: Speical ROC Curves
-date: '2024-09-28'
+date: 2024-09-28
 categories:
 - Medical AI
 tags:

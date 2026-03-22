@@ -4,7 +4,9 @@ date: 2025-11-15
 categories: [ENG, Clinical Trial Designs (ENG), Advanced designs for clinical trial (ENG)]
 tags: [clinical trial design, estimand framework, non-inferiority, superiority, intercurrent event, non-comparative]   # lower case 
 author: <Tea Tasting Gentleman>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 While studying the adaptive design guidelines in FDA guidance, I learned that adaptive design is also conceptually connected to the estimand framework. In adaptive design, there are cases where sample size is recalculated using the variance value of outcome event results without utilizing treatment assignment information. In other words, at pre-planned timepoints, variance information is used to decide whether to increase the sample size or leave it as is. What's important here is that this is possible in superiority trials, but there are statistical considerations for non-inferiority trials and equivalence trials.
 

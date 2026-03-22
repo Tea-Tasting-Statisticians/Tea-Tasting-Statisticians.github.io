@@ -1,6 +1,6 @@
 ---
 title: Project Application; Adaptive Design and Master Protocol
-date: '2025-02-23'
+date: 2025-02-23
 categories:
 - Clinical Trial Design
 tags:
@@ -15,7 +15,9 @@ tags:
 - Innovation
 - Clinical Research
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 From Fixed to Flexible: Join our project on Adaptive Designs & Master Protocols in Clinical Trials!

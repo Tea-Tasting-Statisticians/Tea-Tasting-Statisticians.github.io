@@ -1,15 +1,17 @@
 ---
 title: 식약처 의료기기 임상관련 통계업무
-description: A field view of statistical tasks that matter most in device regulatory
-  workflows.
-date: '2025-02-23'
+date: 2025-02-23
 categories:
 - Clinical Trial Design
 tags:
 - lang-kor
 - clinical trial
 author: Tea Tasting Lady
-math: true
+format:
+  html:
+    html-math-method: mathjax
+description: A field view of statistical tasks that matter most in device regulatory
+  workflows.
 ---
 
 ## 식약처 의료기기 임상시험 
@@ -79,4 +81,4 @@ math: true
 			- 시간이 지남에 따라 임상 결과의 개선이 기대되어 LOCF 대체가 보수적인 방향인지 등 고려
 - 모수적, 비모수적 통계 분석
 	- 모수, 비모수적 방법 모두 제시할 경우
-		- 어떤 경우에 해당 방법을 적용할 지 계획서 상에 미리 명시 
+		- 어떤 경우에 해당 방법을 적용할 지 계획서 상에 미리 명시

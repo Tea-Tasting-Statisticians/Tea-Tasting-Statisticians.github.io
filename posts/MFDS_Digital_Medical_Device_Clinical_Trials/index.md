@@ -1,7 +1,6 @@
 ---
 title: 디지털 의료기기 임상 관련 정리
-date: '2025-05-24'
-description: 디지털기술의 범위와 사용목적, 임상시험과 임상적 성능시험의 차이, 승인 절차와 실사용평가 핵심을 한 번에 정리한 글입니다.
+date: 2025-05-24
 categories:
 - Regulatory Science
 tags:
@@ -9,7 +8,10 @@ tags:
 - clinical trial
 - regulation
 author: Tea Tasting Lady
-math: true
+format:
+  html:
+    html-math-method: mathjax
+description: 디지털기술의 범위와 사용목적, 임상시험과 임상적 성능시험의 차이, 승인 절차와 실사용평가 핵심을 한 번에 정리한 글입니다.
 ---
 
 # 디지털의료기기

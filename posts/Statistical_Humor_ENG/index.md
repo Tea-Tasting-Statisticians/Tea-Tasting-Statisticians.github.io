@@ -1,6 +1,6 @@
 ---
-title: Statistical humor
-date: '2025-03-02'
+title: Statistical humor (ENG)
+date: 2025-03-02
 categories:
 - Statistics Fundamentals
 tags:
@@ -11,7 +11,9 @@ tags:
 - bayesian
 - nerd
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 When Statisticians Fall in Love 📊❤️
@@ -22,4 +24,4 @@ Statistician A: "We have a good fit to each other. I think this is because there
 
 Statistician B: "Yes, we have a good fit. However, that's nonsense about no prior. As a sincere Bayesian statistician, I must object! We have to consider non-informative prior. Even though we have no prior experience, it's still a prior distribution. Everything is Bayesian!"
 
-Who knew statistical modeling could be so romantic? 
+Who knew statistical modeling could be so romantic?

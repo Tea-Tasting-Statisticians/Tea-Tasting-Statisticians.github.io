@@ -4,7 +4,9 @@ date: 2025-04-13
 categories: [KOR, tip (KOR)]
 tags: [tip]     # lower case 
 author: <Tea Tasting Lady>
-math: true
+format:
+  html:
+    html-math-method: mathjax
 --- 
 
 커뮤니티 모임 등에서 제가 자주 하는 조언 중의 하나가 영어공부를 열심히 하라는 것입니다.

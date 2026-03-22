@@ -2,7 +2,9 @@
 title: RWE guideline week1 causal inference
 date: 2024-10-09
 categories: [KOR,Real World Evidence]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [causal inference, randomized controlled trial, rct, clinical trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

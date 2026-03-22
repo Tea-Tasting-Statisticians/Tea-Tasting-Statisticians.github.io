@@ -1,6 +1,6 @@
 ---
-title: Neuroscience to Read Before You Get Stupid
-date: '2026-03-01'
+title: Neuroscience to Read Before You Get Stupid (ENG)
+date: 2026-03-01
 categories:
 - Notes & Reads
 tags:
@@ -8,7 +8,9 @@ tags:
 - neuroscience
 - book reading
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 Neuroscience to Read Before You Get Stupid (Book Reading)

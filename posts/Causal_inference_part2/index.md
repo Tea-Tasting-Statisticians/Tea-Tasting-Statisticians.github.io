@@ -1,6 +1,6 @@
 ---
 title: RWE guideline week2 causal inference part2
-date: '2024-10-19'
+date: 2024-10-19
 categories:
 - Real World Evidence
 tags:
@@ -12,7 +12,9 @@ tags:
 - confounder
 - collider
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 지난 10월 16일에 가짜연구소 RWE 가이드라인 스터디를 하였습니다. 인과추론 개념을 다루는 마지막 주였습니다. 다음주에는 FDA framework 가이드라인을 다룹니다. 이번에 다룬 주제는 statistics review와 graphical causal model에 관한 것입니다. [Jaeyun Choi](https://www.linkedin.com/in/jaeyun-choi-0b64292a0/)님께서 자료 제작하시고 발표하셨습니다. Statistics review에서는 점추정과 구간 추정, 그리고 가설검정을 살펴보았습니다. 우리가 스터디한 자료는 Causal inference for brave and true 라는 자료인데, 설명이 대체로 잘 되어있으나 아쉬운 것은 중심극한정리에 대한 설명이었습니다.

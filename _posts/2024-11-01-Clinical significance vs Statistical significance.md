@@ -2,7 +2,9 @@
 title: 통계적 유의성 vs 임상적 유의성
 date: 2024-11-01
 categories: [KOR, Clinical Trial Designs]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [ clinical significance, statistical significance]     # TAG names should always be lowercase
 author: <Tea Tasting Lady>
 ---

@@ -1,6 +1,6 @@
 ---
 title: Adjustment of baseline covariates
-date: '2024-11-17'
+date: 2024-11-17
 categories:
 - Clinical Trial Design
 tags:
@@ -18,4 +18,4 @@ author: Tea Tasting Gentleman
 
 통계모형에서 선형 모형인지, 비선형 모형인지에 따라 추정량을 계산하는 데 고려해야 할 점이 있다. 선형 회귀모형에서는 보정 변수를 추가하더라도 우리가 추정하고자 하는 beta coefficient에 변화가 거의 없다. Beta coefficient는 average treatment effect이기 때문이다. 하지만 로지스틱 회귀 모형이나 콕스 모형의 경우에는 우리가 추정하고자 하는 beta coefficient는 conditional treatment effect이기 때문에 confounding이 없는 상황에서도 보정변수를 무엇을 넣느냐에 따라 값이 크게 달라질 수 있다. 이를 통계학적 용어로 non-collapsibility라고 한다. 생소하고 어려운 용어여서 여러 문헌들을 살펴보았는데, 특정한 상황에서는 값이 달라지지는 않는다고 한다. 그러나 보통은 보정변수를 넣음에 따라 값이 달라진다고 봐야한다. 
 
-물론 어떤 변수를 보정할 것인지는 프로토콜에 반드시 명시하여야 한다. 프로토콜에 명확하고 정확하게 명시하고 임상시험을 시작해야 할 것이다. 
+물론 어떤 변수를 보정할 것인지는 프로토콜에 반드시 명시하여야 한다. 프로토콜에 명확하고 정확하게 명시하고 임상시험을 시작해야 할 것이다.

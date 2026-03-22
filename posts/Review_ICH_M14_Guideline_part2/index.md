@@ -1,6 +1,6 @@
 ---
 title: Comment on ICH M14 Guideline - part 2
-date: '2024-11-17'
+date: 2024-11-17
 categories:
 - Real World Evidence
 tags:
@@ -14,7 +14,9 @@ tags:
 - conceptual definition
 - pregnancy studies
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 [김청수](https://www.linkedin.com/in/chungsoo-kim-42419b175/)님이 발표해주셨다. Protocol development에서 특히 개념적 정의를 operational definition으로 옮기는 내용을 중점적으로 살펴보았다. 먼저 개념적 정의는 연구에서 우리가 측정하고자 하는 개념이다. 예시 : 질환을 정의하기 위한 임상적 진단 기준이나 관심 노출을 정의하기 위한 약물 복용의 측정이다. 그런데 개념적 정의는 각 RWD 시스템에서 바로 코딩되지 않기 때문에 조작적 정의를 통해 변수를 파악해야 한다. 조작적 정의는 시스템 내에서 개념적 정의를 구현하기 포착하기 위한 방법이다. 예를 들어, ICD 10 코드의 E11-E14 진단 및 당뇨 약제 처방 또는 공복혈당 126 이상을 당뇨환자로 정의하는 것이다. 개념적 정의를 조작적 정의로 치환하기 때문에 이 과정에서 존재하는 한계점에 대해 프로토콜에서 논의하여야 한다. 이러한 한계점을 어떻게 개선할 것인지 고민해야 한다.

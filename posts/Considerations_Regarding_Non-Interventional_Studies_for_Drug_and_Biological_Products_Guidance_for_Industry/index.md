@@ -1,9 +1,7 @@
 ---
 title: Considerations Regarding Non-Interventional Studies for Drug and Biological
   Products Guidance for Industry
-description: Key takeaways for planning non-interventional studies that can support
-  regulatory use.
-date: '2025-01-12'
+date: 2025-01-12
 categories:
 - Real World Evidence
 tags:
@@ -32,4 +30,3 @@ Presentation date : 25.01.08
 Original material : [Real-World Evidence: Considerations Regarding Non-Interventional Studies for Drug and Biological Products Guidance for Industry](https://www.fda.gov/media/177128/download)
 
 Presentation material : [PseudoLab Presentation : Hyeon-woo Jeong](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Considerations%20Regarding%20Non-Interventional%20Studies%20for%20Drug%20and%20Biological%20Products%20Guidance%20for%20Industry.html)
-

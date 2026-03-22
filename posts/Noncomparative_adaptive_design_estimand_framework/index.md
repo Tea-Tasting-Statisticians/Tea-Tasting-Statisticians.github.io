@@ -1,8 +1,6 @@
 ---
 title: Connection between noncomparative adaptive design and estimand framework
-description: How estimand thinking can de-risk adaptive and non-comparative trial
-  decisions.
-date: '2025-11-15'
+date: 2025-11-15
 categories:
 - Clinical Trial Design
 tags:
@@ -14,7 +12,11 @@ tags:
 - intercurrent event
 - non-comparative
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
+description: How estimand thinking can de-risk adaptive and non-comparative trial
+  decisions.
 ---
 
 While studying the adaptive design guidelines in FDA guidance, I learned that adaptive design is also conceptually connected to the estimand framework. In adaptive design, there are cases where sample size is recalculated using the variance value of outcome event results without utilizing treatment assignment information. In other words, at pre-planned timepoints, variance information is used to decide whether to increase the sample size or leave it as is. What's important here is that this is possible in superiority trials, but there are statistical considerations for non-inferiority trials and equivalence trials.
@@ -27,4 +29,4 @@ A similar discussion appears in the estimand framework. An estimand is a precise
 
 Among strategies for handling intercurrent events, there is something called the treatment policy strategy. Even if rescue medication actually occurs, this is a method of proceeding with the analysis as if rescue medication did not occur. In superiority trials, this strategy works in the direction of narrowing the difference between the treatment group's effect and the control group's effect, so the estimand presents a more conservative estimate. Nevertheless, if statistically significant results are obtained, it proves that there is an effect despite conservative assumptions. However, in non-inferiority trials or equivalence trials, the treatment policy strategy should be used with caution. This is because it will work in the direction of reducing the difference between the two groups. This seemed similar to the non-comparative data case in adaptive design mentioned above.
 
-![](/img/adaptive_design_noninferiority_trial.png) 
+![](/img/adaptive_design_noninferiority_trial.png)

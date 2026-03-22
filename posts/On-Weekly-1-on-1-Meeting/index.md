@@ -1,13 +1,15 @@
 ---
 title: Weekly 1 on 1 Meeting
-date: '2025-06-07'
+date: 2025-06-07
 categories:
 - Notes & Reads
 tags:
 - lang-kor
 - tip
 author: Tea Tasting Lady
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 ![](/img/conversation.png)
@@ -135,5 +137,3 @@ Template 형식은 markdown format 으로, 날짜 부분은 Obsidian 의 templat
 	* Any immediate thoughts or known priorities for early next week?
 	* Any other topics, questions, or ideas on your mind?
 	* How is your workload feeling?
-
-

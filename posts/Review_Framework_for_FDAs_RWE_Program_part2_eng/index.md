@@ -1,6 +1,6 @@
 ---
-title: Comment on Framework for FDA's Real-World Evidence Program - part 2
-date: '2024-11-01'
+title: Comment on Framework for FDA's Real-World Evidence Program - part 2 (ENG)
+date: 2024-11-01
 categories:
 - Real World Evidence
 tags:
@@ -12,7 +12,9 @@ tags:
 - fda framework
 - accelerated approval
 author: Tea Tasting Gentleman
-math: true
+format:
+  html:
+    html-math-method: mathjax
 ---
 
 There's a current trend toward using Real World Evidence (RWE) for effectiveness studies. However, utilizing RWE requires comprehensive evaluation of whether the research design is suitable for real-world data (RWD), if the study is scientifically sound, and if the data is reliable. RWD must also be selected according to specific regulatory requirements.
@@ -32,4 +34,4 @@ Regarding RWE's future, the FDA framework discusses stakeholder engagement, incl
 
 [Article written by Presenter](https://causalinferencelab.github.io/Bridging-Causal-Inference-and-Real-World-Evidence-A-Study-of-FDA-and-Other-Regulatory-Guidelines/docs/Framework_for_FDAs_RWE_Program_2.html), [InYoung Jun](https://www.linkedin.com/in/inyoungjun/)
 
-Source: [Original Korean article](https://tea-tasting-statisticians.com/posts/Review_Framework_for_FDAs_RWE_Program_part2.md/) \| English translation by Claude 3.5 Sonnet (New)
+Source: [Original Korean article](https://tea-tasting-statisticians.github.io/posts/Review_Framework_for_FDAs_RWE_Program_part2.md/) \| English translation by Claude 3.5 Sonnet (New)

@@ -2,7 +2,9 @@
 title: Standard deviation and standard error
 date: 2025-10-03
 categories: [ENG,etc]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [standard deviation, standard error]  # lower case 
 author: <Tea Tasting Gentleman>
 --- 

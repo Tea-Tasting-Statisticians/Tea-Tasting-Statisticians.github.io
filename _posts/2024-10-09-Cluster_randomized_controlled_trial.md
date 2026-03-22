@@ -2,7 +2,9 @@
 title: Cluster Ranodmized Controlled Trial
 date: 2024-10-09
 categories: [KOR,Clinical Trial Designs, Advanced designs for clinical trial]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [cluster randomized controlled trial, rct, pragmatic trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---

@@ -1,6 +1,6 @@
 ---
 title: Introduction to advanced designs for clinical trial
-date: '2024-09-18'
+date: 2024-09-18
 categories:
 - Clinical Trial Design
 tags:

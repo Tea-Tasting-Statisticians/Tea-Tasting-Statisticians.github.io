@@ -2,7 +2,9 @@
 title: Switching noninferiority and superiority trial (ENG)
 date: 2024-10-26
 categories: [ENG,Clinical Trial Designs (ENG), Switching Trials (ENG)]
-math: true
+format:
+  html:
+    html-math-method: mathjax
 tags: [switching trial, noninferiority, superiority, clinical trial]     # TAG names should always be lowercase
 author: <Tea Tasting Gentleman>
 ---
