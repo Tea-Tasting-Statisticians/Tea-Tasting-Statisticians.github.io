@@ -84,4 +84,37 @@
   .navbar-brand .navbar-logo {
     max-height: 5rem;
   }
+
+  /* Keep wide post tables usable on phones without crushing columns. */
+  main.content table.table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  main.content table.table th,
+  main.content table.table td {
+    white-space: nowrap;
+  }
+
+  /* Wrap long preformatted blocks so they stay inside the viewport. */
+  main.content pre,
+  main.content pre code,
+  main.content .sourceCode,
+  main.content .sourceCode pre {
+    white-space: pre-wrap !important;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+  }
+
+  main.content pre {
+    font-size: 0.85rem;
+    padding: 0.875rem;
+  }
+
+  main.content :not(pre) > code {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
 }
