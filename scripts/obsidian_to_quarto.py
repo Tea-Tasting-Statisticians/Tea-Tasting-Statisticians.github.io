@@ -4,10 +4,14 @@ from __future__ import annotations
 
 import re
 import sys
+from datetime import date
 from pathlib import Path
 from urllib.parse import quote
 
-import yaml
+try:
+    import yaml
+except ModuleNotFoundError:
+    yaml = None
 
 
 LANGUAGE_TAGS = {
@@ -25,6 +29,9 @@ ORDERED_METADATA_KEYS = (
     "toc",
     "comments",
 )
+
+KEY_LINE_RE = re.compile(r"^([A-Za-z_][A-Za-z0-9_-]*)\s*:\s*(.*)$")
+ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
 def split_frontmatter(text: str) -> tuple[str, str]:
@@ -61,9 +68,269 @@ def preprocess_frontmatter(frontmatter: str) -> str:
     return "\n".join(normalized_lines)
 
 
+def strip_inline_comment(value: str) -> str:
+    in_single = False
+    in_double = False
+    bracket_depth = 0
+    previous = ""
+
+    for index, char in enumerate(value):
+        if char == "'" and not in_double:
+            if in_single and index + 1 < len(value) and value[index + 1] == "'":
+                previous = char
+                continue
+            in_single = not in_single
+        elif char == '"' and not in_single and previous != "\\":
+            in_double = not in_double
+        elif not in_single and not in_double:
+            if char == "[":
+                bracket_depth += 1
+            elif char == "]":
+                bracket_depth = max(0, bracket_depth - 1)
+            elif char == "#" and bracket_depth == 0 and (index == 0 or value[index - 1].isspace()):
+                return value[:index].rstrip()
+
+        previous = char
+
+    return value.rstrip()
+
+
+def dedent_block(lines: list[str]) -> list[str]:
+    nonempty = [line for line in lines if line.strip()]
+    if not nonempty:
+        return []
+
+    indent = min(len(line) - len(line.lstrip(" ")) for line in nonempty)
+    return [line[indent:] if line.strip() else "" for line in lines]
+
+
+def split_sections(lines: list[str]) -> list[tuple[str, str, list[str]]]:
+    sections: list[tuple[str, str, list[str]]] = []
+    current_key: str | None = None
+    current_value = ""
+    current_block: list[str] = []
+
+    for line in lines:
+        match = KEY_LINE_RE.match(line)
+        if match and not line.startswith("- "):
+            if current_key is not None:
+                sections.append((current_key, current_value, current_block))
+            current_key = match.group(1)
+            current_value = match.group(2)
+            current_block = []
+            continue
+
+        if current_key is None:
+            raise ValueError(f"Unable to parse front matter line: {line}")
+
+        current_block.append(line)
+
+    if current_key is not None:
+        sections.append((current_key, current_value, current_block))
+
+    return sections
+
+
+def parse_scalar(value: str):
+    text = strip_inline_comment(value).strip()
+
+    if not text:
+        return ""
+
+    if text.startswith("[") and text.endswith("]"):
+        return parse_flow_list(text)
+
+    lowered = text.lower()
+    if lowered == "true":
+        return True
+    if lowered == "false":
+        return False
+    if lowered in {"null", "~"}:
+        return None
+    if ISO_DATE_RE.match(text):
+        return date.fromisoformat(text)
+
+    if text.startswith("'") and text.endswith("'"):
+        return text[1:-1].replace("''", "'")
+
+    if text.startswith('"') and text.endswith('"'):
+        unescaped = text[1:-1]
+        unescaped = unescaped.replace('\\"', '"')
+        unescaped = unescaped.replace("\\\\", "\\")
+        return unescaped
+
+    return text
+
+
+def parse_flow_list(value: str) -> list:
+    text = strip_inline_comment(value).strip()
+    if not (text.startswith("[") and text.endswith("]")):
+        raise ValueError(f"Expected flow list, received: {value}")
+
+    inner = text[1:-1]
+    items = []
+    current = []
+    in_single = False
+    in_double = False
+    previous = ""
+
+    for index, char in enumerate(inner):
+        if char == "'" and not in_double:
+            if in_single and index + 1 < len(inner) and inner[index + 1] == "'":
+                current.append(char)
+                previous = char
+                continue
+            in_single = not in_single
+        elif char == '"' and not in_single and previous != "\\":
+            in_double = not in_double
+        elif char == "," and not in_single and not in_double:
+            item = "".join(current).strip()
+            if item:
+                items.append(parse_scalar(item))
+            current = []
+            previous = char
+            continue
+
+        current.append(char)
+        previous = char
+
+    tail = "".join(current).strip()
+    if tail:
+        items.append(parse_scalar(tail))
+
+    return items
+
+
+def parse_block_list(lines: list[str]) -> list:
+    items = []
+
+    for line in lines:
+        stripped = line.lstrip()
+        if not stripped or not stripped.startswith("- "):
+            continue
+        items.append(parse_scalar(stripped[2:]))
+
+    return items
+
+
+def parse_mapping(lines: list[str]) -> dict:
+    metadata = {}
+
+    for key, inline_value, block_lines in split_sections(lines):
+        inline_value = inline_value.rstrip()
+        nonempty_block_lines = [line for line in block_lines if line.strip()]
+
+        if inline_value:
+            if inline_value.lstrip().startswith("["):
+                combined = "\n".join([inline_value] + [line.strip() for line in nonempty_block_lines])
+                metadata[key] = parse_flow_list(combined)
+                continue
+
+            if nonempty_block_lines:
+                folded = " ".join([inline_value] + [line.strip() for line in nonempty_block_lines])
+                metadata[key] = parse_scalar(folded)
+                continue
+
+            metadata[key] = parse_scalar(inline_value)
+            continue
+
+        if not nonempty_block_lines:
+            metadata[key] = None
+            continue
+
+        if all(line.lstrip().startswith("- ") for line in nonempty_block_lines):
+            metadata[key] = parse_block_list(nonempty_block_lines)
+            continue
+
+        metadata[key] = parse_mapping(dedent_block(block_lines))
+
+    return metadata
+
+
+def dump_scalar(value) -> str:
+    if isinstance(value, bool):
+        return "true" if value else "false"
+
+    text = str(value)
+    if ISO_DATE_RE.match(text):
+        return text
+
+    if (
+        text
+        and text == text.strip()
+        and "\n" not in text
+        and "#" not in text
+        and ": " not in text
+        and not text.startswith(("-", "?", "@", "`", "{", "[", "!", "&", "*", ",", "|", ">", "%", "'", '"'))
+        and not text.endswith(":")
+        and text.lower() not in {"true", "false", "null", "~"}
+    ):
+        return text
+
+    return "'" + text.replace("'", "''") + "'"
+
+
+def wrap_scalar_line(prefix: str, text: str, continuation_prefix: str, *, preserve_trailing_space: bool = False) -> list[str]:
+    if len(prefix + text) <= 80 or " " not in text.strip():
+        return [prefix + text]
+
+    tokens = re.findall(r"\S+\s*", text)
+    lines = []
+    current = prefix
+
+    for token in tokens:
+        candidate = current + token
+        if current == prefix or len(candidate.rstrip()) <= 80:
+            current = candidate
+            continue
+
+        lines.append(current.rstrip())
+        current = continuation_prefix + token
+
+    if preserve_trailing_space:
+        lines.append(current)
+    else:
+        lines.append(current.rstrip())
+
+    return lines
+
+
+def dump_value(key: str, value, indent: int = 0) -> list[str]:
+    prefix = " " * indent
+
+    if isinstance(value, dict):
+        lines = [f"{prefix}{key}:"]
+        for child_key, child_value in value.items():
+            lines.extend(dump_value(child_key, child_value, indent + 2))
+        return lines
+
+    if isinstance(value, list):
+        lines = [f"{prefix}{key}:"]
+        item_prefix = " " * indent
+        for item in value:
+            lines.append(f"{item_prefix}- {dump_scalar(item)}")
+        return lines
+
+    rendered = dump_scalar(value)
+    line_prefix = f"{prefix}{key}: "
+    continuation_prefix = " " * (indent + 2)
+
+    if rendered.startswith("'") and rendered.endswith("'"):
+        wrapped = wrap_scalar_line(
+            line_prefix + "'",
+            rendered[1:-1],
+            continuation_prefix,
+            preserve_trailing_space=True,
+        )
+        wrapped[-1] = wrapped[-1] + "'"
+        return wrapped
+
+    return wrap_scalar_line(line_prefix, rendered, continuation_prefix)
+
+
 def load_metadata(path: Path) -> tuple[dict, str]:
     frontmatter, body = split_frontmatter(path.read_text())
-    metadata = yaml.safe_load(preprocess_frontmatter(frontmatter)) or {}
+    metadata = parse_mapping(preprocess_frontmatter(frontmatter).splitlines()) or {}
     return metadata, body
 
 
@@ -252,12 +519,18 @@ def dump_metadata(metadata: dict) -> str:
         if key not in ordered and value not in (None, [], ""):
             ordered[key] = value
 
-    return yaml.safe_dump(
-        ordered,
-        allow_unicode=True,
-        sort_keys=False,
-        default_flow_style=False,
-    ).strip()
+    if yaml is not None:
+        return yaml.safe_dump(
+            ordered,
+            allow_unicode=True,
+            sort_keys=False,
+            default_flow_style=False,
+        ).strip()
+
+    lines = []
+    for key, value in ordered.items():
+        lines.extend(dump_value(key, value))
+    return "\n".join(lines).strip()
 
 
 def main() -> int:
