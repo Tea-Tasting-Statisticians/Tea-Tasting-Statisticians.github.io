@@ -1,5 +1,5 @@
 ---
-title: FDA 통계(Biostatistics) 관련 가이던스 목록
+title: Examples of Real-World Evidence Used in Medical Device Regulatory Decisions (Fiscal Years 2020–2025)
 date: 2026-04-19
 categories: [KOR, Regulatory Science, FDA]
 tags: [korean, guideline] # lower case
@@ -9,7 +9,6 @@ format:
     html-math-method: mathjax
 ---
 
-# Examples of Real-World Evidence Used in Medical Device Regulatory Decisions (Fiscal Years 2020–2025)
 ## 의료기기 규제 결정에 활용된 실세계 근거 사례집 (회계연도 2020–2025)
 
 **발행 기관**: 미국 식품의약국 (U.S. Food & Drug Administration, FDA)  
