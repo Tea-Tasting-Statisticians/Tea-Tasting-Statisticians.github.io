@@ -43,10 +43,22 @@ def split_frontmatter(text: str) -> tuple[str, str]:
     return frontmatter, body
 
 
+def normalize_frontmatter_line(line: str) -> str:
+    match = re.match(r"^(\s*)(.*)$", line)
+    if not match:
+        return line
+
+    indent, remainder = match.groups()
+    normalized_indent = indent.expandtabs(2)
+    normalized_indent = "".join(" " if char.isspace() else char for char in normalized_indent)
+    return normalized_indent + remainder
+
+
 def preprocess_frontmatter(frontmatter: str) -> str:
     normalized_lines = []
 
-    for line in frontmatter.splitlines():
+    for raw_line in frontmatter.splitlines():
+        line = normalize_frontmatter_line(raw_line)
         match = re.match(r"^(\w+)\s*:\s*(.*)$", line)
         if not match:
             normalized_lines.append(line)
@@ -100,7 +112,7 @@ def dedent_block(lines: list[str]) -> list[str]:
     if not nonempty:
         return []
 
-    indent = min(len(line) - len(line.lstrip(" ")) for line in nonempty)
+    indent = min(len(line) - len(line.lstrip()) for line in nonempty)
     return [line[indent:] if line.strip() else "" for line in lines]
 
 

@@ -1,8 +1,13 @@
 ---
 title: FDA 통계(Biostatistics) 관련 가이던스 목록
 date: 2026-04-19
-categories: [KOR, Regulatory Science, FDA]
-tags: [korean, guideline] # lower case
+categories:
+- Regulatory Science
+- FDA
+tags:
+- lang-kor
+- korean
+- guideline
 author: Tea Tasting Lady
 format:
   html:
