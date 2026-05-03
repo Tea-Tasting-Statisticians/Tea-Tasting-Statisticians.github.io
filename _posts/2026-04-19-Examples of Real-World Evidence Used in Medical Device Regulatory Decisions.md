@@ -8,7 +8,6 @@ format:
   html:
     html-math-method: mathjax
 ---
-
 ## 의료기기 규제 결정에 활용된 실세계 근거 사례집 (회계연도 2020–2025)
 
 **발행 기관**: 미국 식품의약국 (U.S. Food & Drug Administration, FDA)  
