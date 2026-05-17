@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97bb935fa190b95c",
+        "id": "8c338694db9be58b",
         "type": "tabs",
         "children": [
           {
-            "id": "1cf3500eaf9368df",
+            "id": "8beb79dcc19274c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-02-23-Medical Device Biostatistician Work.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-02-23-Medical Device Biostatistician Work"
+              "title": "새 탭"
             }
           }
         ]
@@ -183,8 +179,12 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "1cf3500eaf9368df",
+  "active": "8beb79dcc19274c8",
   "lastOpenFiles": [
+    "_posts/식약처 디지털의료기기 임상시험등 가이드라인.md",
+    "_posts/2025-02-23-Medical Device Biostatistician Work.md",
+    "posts/식약처-디지털의료기기-임상시험등-가이드라인/index_files/mediabag",
+    "posts/식약처-디지털의료기기-임상시험등-가이드라인/index_files",
     "_site/listings.json",
     "_site/posts/index.xml",
     "_site/search.json",
@@ -203,15 +203,10 @@
     "_site/img",
     "_site/robots.txt",
     "_site/naver31517cb4b186ebfa9d807beab94a8228.html",
-    "_site/googlef47d389d46e6c4f0.html",
-    "_site/_posts/googlef47d389d46e6c4f0.html",
-    "_site/_posts/robots.txt",
     "posts/식약처-디지털의료기기-임상시험등-가이드라인/index.md",
-    "_posts/식약처 디지털의료기기 임상시험등 가이드라인.md",
     "posts/NI-Hypothesis-tip/index.md",
     "_posts/2025-01-18-NI_Hypothesis_tip.md",
     "_posts/2025-01-18-NI Hypothesis tip.md",
-    "_posts/2025-02-23-Medical Device Biostatistician Work.md",
     "_posts/2025-02-23-Adaptive_design_and_master_protocol_project_ENG.md",
     "_posts/2025-02-23-Adaptive_design_and_master_protocol_project.md",
     "_posts/2025-01-19-RWE_medical_device_FDA_eng.md",
