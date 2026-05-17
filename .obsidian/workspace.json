@@ -204,8 +204,10 @@
     "_site/robots.txt",
     "_site/naver31517cb4b186ebfa9d807beab94a8228.html",
     "_site/googlef47d389d46e6c4f0.html",
-    "_site/_posts/robots.txt",
     "_site/_posts/googlef47d389d46e6c4f0.html",
+    "_site/_posts/robots.txt",
+    "posts/식약처-디지털의료기기-임상시험등-가이드라인/index.md",
+    "_posts/식약처 디지털의료기기 임상시험등 가이드라인.md",
     "posts/NI-Hypothesis-tip/index.md",
     "_posts/2025-01-18-NI_Hypothesis_tip.md",
     "_posts/2025-01-18-NI Hypothesis tip.md",
@@ -228,8 +230,6 @@
     "_posts/2025-03-02-Statistical_Humor_ENG.md",
     "_posts/2025-03-29-PseudoLab_Presentation.md",
     "_posts/2025-04-13-Tip for improving English Literacy in Data Science Field.md",
-    "_posts/2025-05-24-MFDS_Digital_Medical_Device_Clinical_Trials.md",
-    "_posts/2025-06-07-On Weekly 1 on 1 Meeting.md",
-    "_posts/2025-06-28-FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests_Translated.md"
+    "_posts/2025-05-24-MFDS_Digital_Medical_Device_Clinical_Trials.md"
   ]
 }

@@ -18,7 +18,7 @@ description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등�
 
 > 출처: [FDA Guidance Documents Search](https://www.fda.gov/regulatory-information/search-fda-guidance-documents) / [FDA Office of Biostatistics](https://www.fda.gov/about-fda/cder-offices-and-divisions/office-biostatistics)
 
----
+***
 
 ## 1. ICH 가이던스 — 통계 원칙
 
@@ -27,7 +27,7 @@ description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등�
 | 1 | E9 Statistical Principles for Clinical Trials | 1998-09 | CDER/CBER (ICH) | [페이지](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9-statistical-principles-clinical-trials) \| [PDF](https://www.fda.gov/media/71336/download) |
 | 2 | E9(R1) Statistical Principles for Clinical Trials: Addendum — Estimands and Sensitivity Analysis in Clinical Trials | 2021-05 | CDER/CBER (ICH) | [페이지](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e9r1-statistical-principles-clinical-trials-addendum-estimands-and-sensitivity-analysis-clinical) \| [PDF](https://www.fda.gov/media/108698/download) |
 
----
+***
 
 ## 2. CDER/CBER — 임상시험 설계 및 분석
 
@@ -43,7 +43,7 @@ description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등�
 | 10 | Master Protocols for Drug and Biological Product Development | 2023-12 | Final | [PDF](https://www.fda.gov/media/174976/download) |
 | 11 | Use of Bayesian Methodology in Clinical Trials of Drug and Biological Products | 2026-01 | **Draft** | [PDF](https://www.fda.gov/media/190505/download) |
 
----
+***
 
 ## 3. CDER/CBER — 생물학적 동등성 (Bioequivalence)
 
@@ -52,7 +52,7 @@ description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등�
 | 12 | Statistical Approaches to Establishing Bioequivalence | 2001-01 | Final (구버전) | [페이지](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-approaches-establishing-bioequivalence) \| [PDF](https://www.fda.gov/media/70958/download) |
 | 13 | Statistical Approaches to Establishing Bioequivalence *(개정 Draft)* | 2022-12 | **Draft** | [PDF](https://www.fda.gov/media/167453/download) |
 
----
+***
 
 ## 4. CDRH — 의료기기 (Medical Devices)
 
@@ -62,7 +62,7 @@ description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등�
 | 15 | Guidance for the Use of Bayesian Statistics in Medical Device Clinical Trials | 2010-02 | Final | [페이지](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-use-bayesian-statistics-medical-device-clinical-trials-pdf-version) \| [PDF](https://www.fda.gov/media/71512/download) |
 | 16 | Adaptive Designs for Medical Device Clinical Studies | 2016-07 | Final | [PDF](https://www.fda.gov/files/medical%20devices/published/Adaptive-Designs-for-Medical-Device-Clinical-Studies---Guidance-for-Industry-and-Food-and-Drug-Administration-Staff.pdf) |
 
----
+***
 
 ## 5. 기타 통계 관련 가이던스
 
@@ -70,7 +70,7 @@ description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등�
 |---|------|--------|--------|------|
 | 17 | Statistical Aspects of the Design, Analysis, and Interpretation of Chronic Rodent Carcinogenicity Studies of Pharmaceuticals | 2002 | CDER (ICH S1C(R2) 관련) | [페이지](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/statistical-aspects-design-analysis-and-interpretation-chronic-rodent-carcinogenicity-studies) |
 
----
+***
 
 ## 주요 가이던스 요약 설명
 
@@ -96,7 +96,7 @@ description: FDA biostatistics guidance를 ICH, 의약품, 생물학적 동등�
 ### Bayesian Statistics for Medical Devices (2010)
 의료기기 임상시험에서 Bayesian 통계 활용에 대한 CDRH 가이던스. Bayesian adaptive design, hierarchical Bayes, prior elicitation 등을 다룬다.
 
----
+***
 
 ## 관련 링크
 

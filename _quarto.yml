@@ -12,6 +12,7 @@ project:
 
 lang: en
 timezone: Asia/Seoul
+from: markdown+hard_line_breaks
 
 website:
   title: "Tea Tasting Statisticians"

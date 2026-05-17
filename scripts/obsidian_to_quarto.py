@@ -465,6 +465,27 @@ def normalize_standalone_image_spacing(body: str) -> str:
     return "\n".join(lines)
 
 
+def normalize_horizontal_rules(body: str) -> str:
+    lines = []
+    in_fence = False
+
+    for line in body.splitlines():
+        stripped = line.strip()
+
+        if stripped.startswith("```"):
+            in_fence = not in_fence
+            lines.append(line)
+            continue
+
+        if not in_fence and stripped == "---":
+            lines.append("***")
+            continue
+
+        lines.append(line)
+
+    return "\n".join(lines)
+
+
 def transform_inline_display_math(body: str) -> str:
     source_lines = body.splitlines()
     lines = []
@@ -511,6 +532,7 @@ def transform_inline_display_math(body: str) -> str:
 def normalize_body(body: str) -> str:
     text = body.replace("\u200b", "")
     text = transform_obsidian_embeds(text)
+    text = normalize_horizontal_rules(text)
     text = normalize_standalone_image_spacing(text)
     text = transform_inline_display_math(text)
     return text

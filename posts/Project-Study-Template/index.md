@@ -46,7 +46,7 @@ format:
 # Template 공유
 국내 의료기기 임상 연구를 수행하는 다른 분들에게도 도움이 되기를 바라며, 사용하는 템플릿을 공유드립니다. 마크다운 형식으로 작성이 되었고 연구 상황에 맞게 활용해보시면 좋겠습니다. 
 
----
+***
 # 임상 Project Study Template 
 # Project Details 
 - Project ID (프로젝트 ID): 
