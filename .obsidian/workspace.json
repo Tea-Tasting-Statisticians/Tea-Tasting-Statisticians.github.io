@@ -11,10 +11,14 @@
             "id": "1cf3500eaf9368df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-01-18-NI_Hypothesis_tip.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-01-18-NI_Hypothesis_tip"
             }
           }
         ]
@@ -188,8 +192,8 @@
     "_site/styles.css",
     "_site/title_image.jpeg",
     "_site/img/충돌부구조.png",
-    "_site/img/스크린샷 2026-02-22 오후 8.25.08.png",
     "_site/img/스크린샷 2026-03-01 오후 5.24.57.png",
+    "_site/img/스크린샷 2026-02-22 오후 8.25.08.png",
     "_site/img/스크린샷 2026-02-22 오후 10.29.32.png",
     "_site/img/스크린샷 2026-02-22 오후 10.29.32 1.png",
     "_site/img/스크린샷 2026-02-22 오후 10.29.17.png",
@@ -202,8 +206,12 @@
     "_site/googlef47d389d46e6c4f0.html",
     "_site/_posts/robots.txt",
     "_site/_posts/googlef47d389d46e6c4f0.html",
+    "_posts/2025-02-23-Medical Device Biostatistician Work.md",
+    "_posts/2025-02-23-Adaptive_design_and_master_protocol_project_ENG.md",
+    "_posts/2025-02-23-Adaptive_design_and_master_protocol_project.md",
+    "_posts/2025-01-19-RWE_medical_device_FDA_eng.md",
+    "_posts/2025-01-19-RWE_medical_device_FDA.md",
     "_posts/2025-01-18-NI_Hypothesis_tip.md",
-    "_posts/2025-01-18-NI Hypothesis tip.md",
     "posts/NI_Hypothesis_tip/index.md",
     "_posts/2026-05-03-2026_KDA.md",
     "img/Figure2_Possible.md",
@@ -214,8 +222,6 @@
     "_posts/2026-03-22-FDA-Guidance-Multiple-Endpoints-KOR.md",
     "_posts/2026-04-19-Examples of Real-World Evidence Used in Medical Device Regulatory Decisions.md",
     "_posts/2025-03-23-KIMES_review.md",
-    "_posts/2025-02-23-Adaptive_design_and_master_protocol_project_ENG.md",
-    "_posts/2025-02-23-Medical Device Biostatistician Work.md",
     "_posts/2025-02-23-RWE_guidance_final.md",
     "_posts/2025-03-02-Statistical_Humor_ENG.md",
     "_posts/2025-03-29-PseudoLab_Presentation.md",
@@ -224,8 +230,6 @@
     "_posts/2025-06-07-On Weekly 1 on 1 Meeting.md",
     "_posts/2025-06-28-FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests_Translated.md",
     "_posts/2025-07-12-MFDS_STAT_REVIEW_PROCESS.md",
-    "_posts/2025-07-27-Marriage_and_Divorce_Survival_Analysis.md",
-    "_posts/2025-08-10-Fisher_and_Tea Tasting Lady.md",
-    "_posts/2025-09-28-Hypothesis Setting in Statistical Superiority.md"
+    "_posts/2025-07-27-Marriage_and_Divorce_Survival_Analysis.md"
   ]
 }
