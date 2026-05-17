@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-18-NI_Hypothesis_tip.md",
+                "file": "_posts/2025-02-23-Medical Device Biostatistician Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-18-NI_Hypothesis_tip"
+              "title": "2025-02-23-Medical Device Biostatistician Work"
             }
           }
         ]
@@ -206,12 +206,14 @@
     "_site/googlef47d389d46e6c4f0.html",
     "_site/_posts/robots.txt",
     "_site/_posts/googlef47d389d46e6c4f0.html",
+    "posts/NI-Hypothesis-tip/index.md",
+    "_posts/2025-01-18-NI_Hypothesis_tip.md",
+    "_posts/2025-01-18-NI Hypothesis tip.md",
     "_posts/2025-02-23-Medical Device Biostatistician Work.md",
     "_posts/2025-02-23-Adaptive_design_and_master_protocol_project_ENG.md",
     "_posts/2025-02-23-Adaptive_design_and_master_protocol_project.md",
     "_posts/2025-01-19-RWE_medical_device_FDA_eng.md",
     "_posts/2025-01-19-RWE_medical_device_FDA.md",
-    "_posts/2025-01-18-NI_Hypothesis_tip.md",
     "posts/NI_Hypothesis_tip/index.md",
     "_posts/2026-05-03-2026_KDA.md",
     "img/Figure2_Possible.md",
@@ -228,8 +230,6 @@
     "_posts/2025-04-13-Tip for improving English Literacy in Data Science Field.md",
     "_posts/2025-05-24-MFDS_Digital_Medical_Device_Clinical_Trials.md",
     "_posts/2025-06-07-On Weekly 1 on 1 Meeting.md",
-    "_posts/2025-06-28-FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests_Translated.md",
-    "_posts/2025-07-12-MFDS_STAT_REVIEW_PROCESS.md",
-    "_posts/2025-07-27-Marriage_and_Divorce_Survival_Analysis.md"
+    "_posts/2025-06-28-FDA Guidance Statistical Guidance on Reporting Results from Studies Evaluating Diagnostic Tests_Translated.md"
   ]
 }
