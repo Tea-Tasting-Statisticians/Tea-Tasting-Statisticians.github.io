@@ -13,7 +13,7 @@ format:
     html-math-method: mathjax
 ---
 
-[다니엘 박사](https://www.linkedin.com/in/danielsabanesbove/)님께서 International Biometric Conference 2026에 참여하기 위해 한국에 오셨습니다. 오시기 전에 저에게 openstatsware workshop의 일환으로 강의하고 싶다고 했습니다. 그래서 저는 삼성융합의과학원 임상연구설계평가학과 학과장이신 [조주희 교수](https://www.linkedin.com/in/juhee-cho-7a35751a/)님께 문의를 했었고, 흔쾌히 도와주셨습니다. 그래서 원활하게 장소 섭외 및 참가자에게 식사제공을 할 수 있었습니다.
+[다니엘 박사](https://www.linkedin.com/in/danielsabanesbove/)님께서 International Biometric Conference 2026에 참여하기 위해 한국에 오셨습니다. 오시기 전에 저에게 openstatsware workshop의 일환으로 강의하고 싶다고 했습니다. 그래서 저는 삼성융합의과학원 임상연구설계평가학과 학과장이신 [조주희 교수](https://www.linkedin.com/in/juhee-cho-7a35751a/)님께 문의를 했었고, [강단비 교수](https://www.linkedin.com/in/danbee-kang-6b096421a/)님과 최혜린 교수님도 흔쾌히 도와주셨습니다. 디지털바이오 과제 연구비로 참가자에게 식사제공을 할 수 있었고, 원활하게 장소 섭외를 할 수 있었습니다.
 
 참가자를 모집하기 위해 포스터를 만들어보았습니다. 포스터를 만들 때 AI 및 powerpoint 도구를 사용해보았고, 구글 폼도 작성해보았습니다. 도중에 이메일 수집을 깜빡해서 나중에 이메일 수집 항목도 추가해보고, 실수를 하면서도 이렇게 하는 것이구나 배웠습니다. 
 
