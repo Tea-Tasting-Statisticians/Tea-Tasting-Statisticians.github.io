@@ -11,10 +11,14 @@
             "id": "8beb79dcc19274c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-07-19-GSEP4RP_KOR.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2026-07-19-GSEP4RP_KOR"
             }
           }
         ]
@@ -181,10 +185,6 @@
   },
   "active": "8beb79dcc19274c8",
   "lastOpenFiles": [
-    "_posts/식약처 디지털의료기기 임상시험등 가이드라인.md",
-    "_posts/2025-02-23-Medical Device Biostatistician Work.md",
-    "posts/식약처-디지털의료기기-임상시험등-가이드라인/index_files/mediabag",
-    "posts/식약처-디지털의료기기-임상시험등-가이드라인/index_files",
     "_site/listings.json",
     "_site/posts/index.xml",
     "_site/search.json",
@@ -203,6 +203,15 @@
     "_site/img",
     "_site/robots.txt",
     "_site/naver31517cb4b186ebfa9d807beab94a8228.html",
+    "_site/googlef47d389d46e6c4f0.html",
+    "_site/_posts/robots.txt",
+    "_site/_posts/googlef47d389d46e6c4f0.html",
+    "posts/GSEP4RP_KOR/index.md",
+    "posts/GSEP4RP_ENG/index.md",
+    "_posts/2026-07-19-GSEP4RP_ENG.md",
+    "_posts/2026-07-19-GSEP4RP_KOR.md",
+    "_posts/식약처 디지털의료기기 임상시험등 가이드라인.md",
+    "_posts/2025-02-23-Medical Device Biostatistician Work.md",
     "posts/식약처-디지털의료기기-임상시험등-가이드라인/index.md",
     "posts/NI-Hypothesis-tip/index.md",
     "_posts/2025-01-18-NI_Hypothesis_tip.md",
@@ -221,10 +230,6 @@
     "_posts/2026-03-22-FDA-Guidance-Multiple-Endpoints-KOR.md",
     "_posts/2026-04-19-Examples of Real-World Evidence Used in Medical Device Regulatory Decisions.md",
     "_posts/2025-03-23-KIMES_review.md",
-    "_posts/2025-02-23-RWE_guidance_final.md",
-    "_posts/2025-03-02-Statistical_Humor_ENG.md",
-    "_posts/2025-03-29-PseudoLab_Presentation.md",
-    "_posts/2025-04-13-Tip for improving English Literacy in Data Science Field.md",
-    "_posts/2025-05-24-MFDS_Digital_Medical_Device_Clinical_Trials.md"
+    "_posts/2025-02-23-RWE_guidance_final.md"
   ]
 }
