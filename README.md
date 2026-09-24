@@ -25,6 +25,27 @@ Keep a quoted blank line (`>`) between a callout title and its table in the sour
 
 Run converter checks with `python3 -B -m unittest discover -s scripts -p 'test_*.py'`.
 
+## Responsive layout
+
+Quarto's grid in `_quarto.yml` uses 220px navigation and margin columns.
+The full layout is centered and capped at 1400px by `--blog-layout-width` in
+`styles.css`, with the header and footer aligned to the same width. On smaller
+screens it fills the available width. On large monitors the unused space is
+balanced on both sides rather than appearing after the right sidebar.
+Inside this container, `mozilla.scss` lets the body fill the space between
+sidebars while preserving Quarto's named grid lines and outer padding.
+The 960px `body-width` remains a base for Quarto's smaller layouts. Tablet and
+mobile breakpoints remain native to Quarto.
+
+`styles.css` handles fluid headings and logo sizing, wrapping long titles,
+scrollable tables and equations, and stacked post listings below 768px.
+On phones, the LinkedIn share link moves into the page flow to avoid covering
+content. `mozilla.scss` controls the compact navbar padding.
+
+For visual review, preview the home page, post listing, and an article with
+tables at 375px, 768px, 1024px, 1440px, and 1920px widths. Check navigation,
+search, category filters, wide content, and 200% browser zoom.
+
 ## Deployment
 
 - Primary hosting: Netlify (production build from `main`)

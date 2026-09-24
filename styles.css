@@ -1,5 +1,23 @@
 /* Adapted from https://github.com/dkapitan/dkapitan.github.io (Mozilla Public License 2.0) */
 
+:root {
+  --blog-layout-width: 1400px;
+}
+
+/* Center the complete reading layout, including both sidebars. The fluid
+   desktop grid fills this container, not an unlimited monitor width. */
+#quarto-content,
+.navbar > .container-fluid,
+.nav-footer {
+  width: 100%;
+  max-width: var(--blog-layout-width);
+  margin-inline: auto;
+}
+
+.navbar > .container-fluid {
+  padding-inline: 1.5rem;
+}
+
 .text-muted {
   --bs-text-opacity: 1;
   color: #e7e5e2 !important;
@@ -21,14 +39,117 @@
 }
 
 .navbar-brand .navbar-logo {
-  max-height: 6rem;
+  max-height: clamp(2.75rem, 6vw, 4.5rem);
+  max-width: 100%;
   width: auto;
+  object-fit: contain;
+}
+
+/* Let Quarto's responsive grid shrink around long bilingual titles and URLs. */
+#quarto-content > main,
+.quarto-listing,
+.quarto-post > *,
+.callout-body-container {
+  min-width: 0;
+}
+
+main.content {
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+main.content h1 {
+  font-size: clamp(1.8rem, 1.25rem + 2vw, 2.75rem);
+  line-height: 1.2;
+}
+
+main.content h2 {
+  font-size: clamp(1.4rem, 1.1rem + 1vw, 2rem);
+}
+
+main.content img,
+main.content video,
+main.content iframe {
+  max-width: 100%;
+}
+
+main.content img,
+main.content video {
+  height: auto;
+}
+
+/* Scroll wide scientific content locally instead of widening the page. */
+main.content table.table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+main.content .math.display {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+main.content pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+main.content :not(pre) > code {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.navbar-brand-container {
+  min-width: 0;
+  max-width: calc(100% - 4rem);
+}
+
+.navbar-brand-container .navbar-brand {
+  max-width: 100%;
+  margin-right: 0;
+}
+
+.sidebar-navigation .sidebar-item .sidebar-item-text,
+.navbar-toggler,
+.quarto-listing-filter .form-control,
+.page-link {
+  min-height: 2.75rem;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid #00458b;
+  outline-offset: 3px;
+}
+
+.quarto-listing-container-default {
+  margin-right: 0;
+}
+
+div.quarto-post {
+  gap: clamp(1rem, 2vw, 2rem);
+}
+
+div.quarto-post .body {
+  flex-shrink: 1;
+}
+
+div.quarto-post .metadata {
+  flex-basis: 22%;
+  font-size: 0.875rem;
+}
+
+div.quarto-post .listing-categories .listing-category {
+  font-size: 0.75rem;
 }
 
 .linkedin-share-fab {
   position: fixed;
-  right: 1rem;
-  bottom: 1rem;
+  right: max(1rem, env(safe-area-inset-right));
+  bottom: max(1rem, env(safe-area-inset-bottom));
   z-index: 1000;
   padding: 0.5rem 0.75rem;
   border-radius: 9999px;
@@ -37,6 +158,9 @@
   font-weight: 600;
   font-size: 0.875rem;
   text-decoration: none;
+  min-height: 2.75rem;
+  display: inline-flex;
+  align-items: center;
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);
 }
 
@@ -81,16 +205,55 @@
 }
 
 @media (max-width: 767.98px) {
-  .navbar-brand .navbar-logo {
-    max-height: 5rem;
+  .navbar > .container-fluid {
+    padding-inline: 1rem;
   }
 
-  /* Keep wide post tables usable on phones without crushing columns. */
-  main.content table.table {
-    display: block;
+  .quarto-listing-filter {
     width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+  }
+
+  .quarto-listing-filter .form-control {
+    font-size: 1rem;
+  }
+
+  div.quarto-post {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  div.quarto-post .body,
+  div.quarto-post .metadata,
+  div.quarto-post .thumbnail {
+    flex-basis: auto;
+    width: 100%;
+  }
+
+  .quarto-listing .quarto-post .listing-description {
+    max-height: calc(1.6em * 3);
+    -webkit-line-clamp: 3;
+  }
+
+  /* Keep sharing available without covering text or the comment form. */
+  .linkedin-share-fab {
+    position: static;
+    align-self: center;
+    margin: 1rem;
+    box-shadow: none;
+  }
+
+  .nav-footer {
+    flex-direction: column;
+    gap: 0.75rem;
+    padding-inline: 1rem;
+  }
+
+  .nav-footer-left,
+  .nav-footer-center,
+  .nav-footer-right {
+    flex: 0 1 auto;
+    min-width: 0;
+    width: 100%;
   }
 
   main.content table.table th,
@@ -113,8 +276,4 @@
     padding: 0.875rem;
   }
 
-  main.content :not(pre) > code {
-    white-space: normal;
-    overflow-wrap: anywhere;
-  }
 }

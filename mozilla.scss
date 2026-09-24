@@ -26,8 +26,21 @@ $navbar-default-font: $zilla-slab;
 // Set fonts and layout
 // Base layout https://getbootstrap.com/docs/5.1/components/navbar/#containers
 $spacer: 1rem;
-$navbar-padding-y: $spacer * 1.5;
+$navbar-padding-y: $spacer * 0.5;
 $navbar-padding-x: null;
+
+// Quarto's docked desktop grid normally caps the body and assigns the
+// remaining window width to a 5fr gutter beyond the right sidebar.
+// Give that space to the content inside the centered, capped container in
+// styles.css. Retain named grid lines, sidebars, and mobile breakpoints.
+$grid-docked-wide-body: minmax(0, 1fr);
+$grid-docked-wide-margin-gutter: 0px;
+$grid-docked-wide-slim-body: minmax(0, 1fr);
+$grid-docked-wide-slim-margin-gutter: 0px;
+$grid-docked-wide-full-body: minmax(0, 1fr);
+$grid-docked-wide-full-margin-gutter: 0px;
+$grid-docked-wide-listing-body: minmax(0, 1fr);
+$grid-docked-wide-listing-margin-gutter: 0px;
 
 .sidebar-navigation .sidebar-item {
   font-size: 1.2rem;

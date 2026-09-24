@@ -89,6 +89,11 @@ format:
         - flatly
         - mozilla.scss
     css: styles.css
+    grid:
+      sidebar-width: 220px
+      body-width: 960px
+      margin-width: 220px
+      gutter-width: 1.5rem
     toc: false
     include-in-header:
       - text: |
