@@ -17,6 +17,14 @@ quarto render
 quarto preview
 ```
 
+Edit post sources in `_posts/YYYY-MM-DD-title.md`. The pre-render hook generates
+`posts/title/index.md`; edits to generated files can be overwritten on the next
+render. Obsidian callouts (`> [!info]`, `> [!tip]`, `> [!abstract]+`) are converted
+to Quarto callouts, including tables and expanded (`+`) or collapsed (`-`) states.
+Keep a quoted blank line (`>`) between a callout title and its table in the source.
+
+Run converter checks with `python3 -B -m unittest discover -s scripts -p 'test_*.py'`.
+
 ## Deployment
 
 - Primary hosting: Netlify (production build from `main`)

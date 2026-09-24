@@ -429,6 +429,60 @@ def transform_obsidian_embeds(body: str) -> str:
     return re.sub(r"!\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", replace_embed, body)
 
 
+def transform_obsidian_callouts(body: str) -> str:
+    """Convert top-level Obsidian callouts to Quarto fenced divs."""
+    source_lines = body.splitlines()
+    lines = []
+    index = 0
+    fence = None
+    callout_types = {
+        "info": "note", "abstract": "note", "summary": "note",
+        "tip": "tip", "hint": "tip", "important": "important",
+        "warning": "warning", "caution": "caution", "danger": "caution",
+    }
+
+    while index < len(source_lines):
+        line = source_lines[index]
+        fence_match = re.match(r"^ {0,3}(`{3,}|~{3,})(.*)$", line)
+        if fence_match:
+            marker, remainder = fence_match.groups()
+            if fence is None:
+                fence = marker
+            elif marker[0] == fence[0] and len(marker) >= len(fence) and not remainder.strip():
+                fence = None
+            lines.append(line)
+            index += 1
+            continue
+
+        match = re.match(r"^>\s*\[!([\w-]+)\]([+-]?)\s*(.*)$", line)
+        if fence is not None or match is None:
+            lines.append(line)
+            index += 1
+            continue
+
+        kind, fold, title = match.groups()
+        content = []
+        index += 1
+        while index < len(source_lines) and source_lines[index].startswith(">"):
+            content.append(re.sub(r"^> ?", "", source_lines[index]))
+            index += 1
+
+        # Use a longer delimiter than any div inside the quoted content.
+        delimiter = ":" * max(3, 1 + max(
+            (len(m.group(1)) for item in content
+             if (m := re.match(r"^\s*(:{3,})", item))), default=0))
+        attributes = f".callout-{callout_types.get(kind.lower(), 'note')}"
+        if fold:
+            attributes += ' collapse="' + ("false" if fold == "+" else "true") + '"'
+        if lines and lines[-1].strip():
+            lines.append("")
+        lines.extend([f"{delimiter} {{{attributes}}}", f"## {title or kind.capitalize()}", ""])
+        lines.extend(content)
+        lines.extend(["", delimiter, ""])
+
+    return "\n".join(lines)
+
+
 def normalize_standalone_image_spacing(body: str) -> str:
     source_lines = body.splitlines()
     lines = []
@@ -532,6 +586,7 @@ def transform_inline_display_math(body: str) -> str:
 def normalize_body(body: str) -> str:
     text = body.replace("\u200b", "")
     text = transform_obsidian_embeds(text)
+    text = transform_obsidian_callouts(text)
     text = normalize_horizontal_rules(text)
     text = normalize_standalone_image_spacing(text)
     text = transform_inline_display_math(text)
