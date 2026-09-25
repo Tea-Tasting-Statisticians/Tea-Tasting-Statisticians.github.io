@@ -38,7 +38,10 @@ The 960px `body-width` remains a base for Quarto's smaller layouts. Tablet and
 mobile breakpoints remain native to Quarto.
 
 `styles.css` handles fluid headings and logo sizing, wrapping long titles,
-scrollable tables and equations, and stacked post listings below 768px.
+scrollable desktop tables and equations, and stacked post listings below 768px.
+On phones, tables use the available article or callout width with fixed column
+layout and wrapping cell text, so long terms and definitions do not require
+horizontal table scrolling. Cell text stays at the normal reading size.
 On phones, the LinkedIn share link moves into the page flow to avoid covering
 content. `mozilla.scss` controls the compact navbar padding.
 

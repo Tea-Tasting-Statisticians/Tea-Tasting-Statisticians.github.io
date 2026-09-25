@@ -256,9 +256,28 @@ div.quarto-post .listing-categories .listing-category {
     width: 100%;
   }
 
+  /* Keep mobile tables inside the article, including nested callouts.
+     Fixed layout makes long terms and definitions wrap within each column. */
+  main.content table.table {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    min-width: 0;
+    overflow-x: visible;
+  }
+
   main.content table.table th,
   main.content table.table td {
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+    vertical-align: top;
+    padding: 0.5rem 0.375rem;
+  }
+
+  main.content table.table th > :last-child,
+  main.content table.table td > :last-child {
+    margin-bottom: 0;
   }
 
   /* Wrap long preformatted blocks so they stay inside the viewport. */
